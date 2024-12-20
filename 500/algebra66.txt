@@ -1,0 +1,1 @@
+{'label': 66, 'axioms': '  a(x)*a(y) = a((a(x)*y) + (x*a(y))).\n  ', 'names': ['(Weak) Baxter operator'], 'bib_s': ['math0311214'], 'msc_s': [['17A30', '18D50']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2003]}

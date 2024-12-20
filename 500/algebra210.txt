@@ -1,0 +1,1 @@
+{'label': 210, 'axioms': '   a(a(x)) = x.\n    a(x) = a(y) -> x = y.\n    x*a(x) = 0 & x+a(x) = 1. \n  ', 'names': ['(Weak) Orthocomplemented poset'], 'bib_s': ['0911.2319'], 'msc_s': [['68Q85', '06C15']], 'contained': [], 'contains': [119], 'total_citations': [3], 'published_year': [2009]}

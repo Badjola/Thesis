@@ -1,0 +1,1 @@
+{'label': 687, 'axioms': '   a(u*v) = a(u)*a(v). \n     ((u*v)*a(z)) + (a(u)*(v*z)) = ((v*u)*a(z)) + (a(v)*(u*z)).  \n  ', 'names': ['(Weak) Hom-pre-Lie algebra'], 'bib_s': ['1902.07360'], 'msc_s': [['16T25', '17B62', '17B99']], 'contained': [], 'contains': [], 'total_citations': [3], 'published_year': [2019]}

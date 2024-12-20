@@ -1,0 +1,1 @@
+{'label': 304, 'axioms': ' ((x*y)*(z*y))*(x*z) = 0.\n x*x=0.\n x*0=x.\n ((x*y=0) & (y*x=0)) -> x=y. \n 0*x=0. \n (x*(x*y))*y=0.  ', 'names': ['BCK-algebra'], 'bib_s': ['1205.1440'], 'msc_s': [['03G25', '06F35']], 'contained': [333], 'contains': [333], 'total_citations': [28], 'published_year': [2012]}

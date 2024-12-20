@@ -1,0 +1,1 @@
+{'label': 650, 'axioms': '  (x*y)*z = (x*(y*z)) + (x*(z*y)).\n  x*(y*z) = ((x*y)*z) + ((y*x)*z).  \n  ', 'names': ['(Weak) Left Zinbiel algebra'], 'bib_s': ['1809.05711'], 'msc_s': [['16T10', '17A30']], 'contained': [391, 723], 'contains': [750], 'total_citations': [1], 'published_year': [2018]}

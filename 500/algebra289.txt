@@ -1,0 +1,1 @@
+{'label': 289, 'axioms': '    a(u)*v = f(u,v).\n      a(x*u)=f(x,a(u)).\n  ', 'names': ['Lie algebra crossed module'], 'bib_s': ['1202.0079'], 'msc_s': [['53D17', '17B62', '17B66']], 'contained': [], 'contains': [], 'total_citations': [31], 'published_year': [2012]}

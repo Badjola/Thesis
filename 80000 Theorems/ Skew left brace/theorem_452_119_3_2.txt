@@ -1,0 +1,58 @@
+Generalizes:    Skew left brace
+ 
+Theory used:
+x*(y*z) = (x*y)*z. 
+ 1*x = x. 
+ x*1 = x. 
+ x*a(x) = 1. 
+ a(x)*x = 1. 
+x+(y+z) = (x+y)+z. 
+ 0+x = x. 
+ x+0 = x. 
+ x+f(x) = 0. 
+ f(x)+x = 0. 
+ x+(y*z) = ((x+y)*a(x))*(x+z).  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = f((f(y) * g1(g2(x)))).
+                    x \ y = f2(((x * x) * a((y * y)))).
+                    x / y = a((f1((y + x)) * (x + x))).
+                    b(x) = a(((x * x) + g2(f(x)))).
+                    c(x) = (g1(g2(x)) + f((x + x))).
+                    
+Axioms Satisfied by that Theory:
+c(c(x)) = x.
+x \ x = y \ y.
+(x \ x) v y = y.
+c(x \ x) v y = y.
+c(x \ x) = y \ y.
+b(x \ x) v y = y.
+b(x \ x) = y \ y.
+c(x v (y \ y)) = x.
+c(x) = x v (y \ y).
+c(x) v (y \ y) = x.

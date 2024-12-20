@@ -1,0 +1,1 @@
+{'label': 603, 'axioms': '  a(x*y) = a(x)*a(y).\n    (a(x)*(y*z)) + ((y*x)*a(z)) = (a(y)*(x*z)) + ((x*y)*a(z)).\n    (x*y)*a(z) = (x*z)*a(y).  \n  ', 'names': ['(Weak) Hom Novikov algebra'], 'bib_s': ['1802.07287'], 'msc_s': [['17B38', '17B61', '17D30', '16T99']], 'contained': [594], 'contains': [], 'total_citations': [25], 'published_year': [2018]}

@@ -1,0 +1,51 @@
+Generalizes:   BBC-algebra
+ 
+Theory used:
+ ((x*y)*(z*y))*(x*z) = 0.
+ x*x=0.
+ x*0=x.
+ ((x*y=0) & (y*x=0)) -> x=y. 
+ 0*x=0. 
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = (f1(y) * g1(g1(x))).
+                    x \ y = (f1(g1(y)) * (x * x)).
+                    b(x) = (f2(x) * (x * x)).
+                    c(x) = (f2(x) * f1(g1(x))).
+                    
+Axioms Satisfied by that Theory:
+x \ y = z \ y.
+c(b(x)) = b(c(x)).
+b(x \ y) = z \ b(y).
+b(x \ y) = b(z \ y).
+c(x \ y) = z \ c(y).
+c(x \ y) = c(z \ y).
+b(x v y) = b(x) v b(y).
+b(b(x \ y)) = z \ b(b(y)).
+b(b(x \ y)) = b(z \ b(y)).
+c(x \ b(y)) = z \ b(c(y)).

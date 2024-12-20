@@ -1,0 +1,1 @@
+{'label': 725, 'axioms': '    x*(y*z) = x*(z*y) & x*(y*z) = y*(x*z). \n x*(y*z) = (x*y)*z. ', 'names': ['(Weak) Symmetric Perm-algebra'], 'bib_s': ['1905.10147'], 'msc_s': [['17D25', '17A32']], 'contained': [193, 236, 283, 321, 721, 882], 'contains': [744], 'total_citations': [2], 'published_year': [2019]}

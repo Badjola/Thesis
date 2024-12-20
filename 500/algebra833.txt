@@ -1,0 +1,1 @@
+{'label': 833, 'axioms': '     a(x * y, z) = a(x, z) * a(y, z). \n        a(x, y * z) = a(x, y) * a(x, z). \n        a(0, x) = 0. \n        a(x, 0) = 0. \n  ', 'names': ['(Weak) FDL-module'], 'bib_s': ['2007.14500'], 'msc_s': [['06D50', '06D05', '06D75']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2020]}

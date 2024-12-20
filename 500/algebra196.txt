@@ -1,0 +1,1 @@
+{'label': 196, 'axioms': '   a(x,a(x,y)) = a(a(x,x),y).\n    a(a(x,y),y) = a(x,a(y,y)). \n  ', 'names': ['(Weak) Alternative algebra'], 'bib_s': ['0907.1548'], 'msc_s': [['17A30', '16E40']], 'contained': [], 'contains': [728], 'total_citations': [13], 'published_year': [2009]}

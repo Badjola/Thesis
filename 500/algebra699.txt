@@ -1,0 +1,1 @@
+{'label': 699, 'axioms': '   x * a(1) = x. \n     x + a(0) = x. \n     x * f(x) = a(0). \n     x + f(x) = a(1). \n     (x * y) = (y * x) & x+y=y+x. \n     (x * (y + z)) = ((x * y) + (x * z)). \n  ', 'names': ['Boolean algebra'], 'bib_s': ['1902.06378'], 'msc_s': [['76T99', '65D18', '06E99']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2019]}

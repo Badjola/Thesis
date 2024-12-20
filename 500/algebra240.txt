@@ -1,0 +1,1 @@
+{'label': 240, 'axioms': '  a(x, (y*z)) = ((a(x,y))*z) + (y*(a(x,z))).\n  ', 'names': ['Poisson manifold'], 'bib_s': ['1009.1231'], 'msc_s': [['53D17', '58A50']], 'contained': [], 'contains': [], 'total_citations': [17], 'published_year': [2010]}

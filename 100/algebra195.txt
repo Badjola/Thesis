@@ -1,0 +1,1 @@
+{'label': 195, 'axioms': '     x*(y*z) = (x*y)*z.\n        0*x = x*0 & 0*x = x.\n        x*a(x) = 0 & a(x)*x = 0.\n  ', 'names': ['Group'], 'bib_s': ['0907.3202'], 'msc_s': [['68T20']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2009]}

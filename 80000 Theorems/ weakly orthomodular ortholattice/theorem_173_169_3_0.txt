@@ -1,0 +1,53 @@
+Generalizes:    weakly orthomodular ortholattice
+ 
+Theory used:
+ x+y = y+x.
+ (x+y)+z = x+(y+z). 
+ a(a(x)) = x. 
+ x+(y+a(y)) = y+a(y). 
+ x+(x*y) = x. 
+ x*y = a(a(x)+a(y)). 
+     (a(x)*(x+y)) + (a(y)+(x*y)) = 0. 
+  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = f2((f1(a(x)) * g1(y))).
+                    x \ y = ((x * y) * g1((x * y))).
+                    x / y = g2((a(f2(x)) + (y + x))).
+                    
+Axioms Satisfied by that Theory:
+x \ y = y \ x.
+x \ (x v y) = z \ (z v u).
+x \ (y \ x) = y \ (y \ x).
+x \ (x \ y) = y \ (y \ x).
+x \ (y \ x) = y \ (x \ y).
+(x \ (x v y)) \ z = x \ (x v y).
+x \ (y \ (y v z)) = y \ (y v z).
+x v (y \ (y v z)) = u \ (u v w).
+x \ (x v y) = z \ ((z v u) \ w).
+x \ (x v y) = z \ (u \ (z v w)).

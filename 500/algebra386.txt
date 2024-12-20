@@ -1,0 +1,1 @@
+{'label': 386, 'axioms': '   a(x,x) = x. \n     a(x,a(y,z)) = a(x,z). \n     a(a(x,y),z) = a(x,z). \n     f(a(x,y)) = a(f(x),f(y)). \n  ', 'names': ['(Weak) Smale space'], 'bib_s': ['1407.2992'], 'msc_s': [['37D20', '37B10']], 'contained': [], 'contains': [], 'total_citations': [3], 'published_year': [2014]}

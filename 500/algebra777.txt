@@ -1,0 +1,1 @@
+{'label': 777, 'axioms': ' f(u) * a(v,w) = a(g(u,v),w) + a(v,g(u,w)). \n  f(u) * a(v,w) = a(u,g(v,w)+g(w,v)).', 'names': ['(Weak) pre-Courant algebroid'], 'bib_s': ['1912.09791'], 'msc_s': [['53D17', '17B66', '17B70', '58A50']], 'contained': [], 'contains': [], 'total_citations': [5], 'published_year': [2019]}

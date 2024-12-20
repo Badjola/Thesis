@@ -1,0 +1,49 @@
+Generalizes:   rack
+ 
+Theory used:
+  (x*y)*z = (x*z)*(y*z). 
+  (x*y)+y=x.
+ (x+y)*y=x. 
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = ((y * x) + g2(y)).
+                    x \ y = f1((f2(x) + g2(y))).
+                    x / y = (f2((x + y)) + (x * y)).
+                    b(x) = (f2((x * x)) + (x + x)).
+                    
+Axioms Satisfied by that Theory:
+x \ b(y) = x \ (y / y).
+b(x) v y = (x / x) v y.
+x / b(y) = x / (y / y).
+b(x / x) = b(x) / (x / x).
+(b(x) \ y) v z = ((x / x) \ y) v z.
+x \ (b(y) \ z) = x \ ((y / y) \ z).
+x / (b(y) \ z) = x / ((y / y) \ z).
+(x v b(y)) v z = (x v (y / y)) v z.
+x \ (y v b(z)) = x \ (y v (z / z)).
+x / (y v b(z)) = x / (y v (z / z)).

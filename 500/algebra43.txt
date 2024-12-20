@@ -1,0 +1,1 @@
+{'label': 43, 'axioms': '    a(a(x)) = x & a(x*y) = a(y)*a(x).\n  ', 'names': ['$\\star$ structure'], 'bib_s': ['math0212112'], 'msc_s': [['20G42', '17B67', '81R50']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2002]}

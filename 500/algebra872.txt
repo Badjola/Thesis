@@ -1,0 +1,1 @@
+{'label': 872, 'axioms': '  x*y=y*x.\n    x+a(x) = 1.\n    0+x=x.\n    x+1=1.\n x*x=x. ', 'names': ['(Weak) Ortho-directoid'], 'bib_s': ['2011.12791'], 'msc_s': [['06A11', '06C15', '06B23', '06B75', '08B99', '03G12', '03G25']], 'contained': [], 'contains': [870], 'total_citations': [1], 'published_year': [2020]}

@@ -1,0 +1,1 @@
+{'label': 638, 'axioms': '   x*(y+z) = (x*y)+(x*z).\n    (x+y)*z = (x*z)+(y*z).\n    x*0 = 0 & 0*x = 0. \n  ', 'names': ['(Weak) Semiring'], 'bib_s': ['1807.10637'], 'msc_s': [['18A40', '28A60', '54H10']], 'contained': [178, 53], 'contains': [466], 'total_citations': [3], 'published_year': [2018]}

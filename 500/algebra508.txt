@@ -1,0 +1,1 @@
+{'label': 508, 'axioms': '    a(f(x,y),z) = f(x,a(y,z)) * f(a(x,z),y). \n       a(x,f(y,z)) = f(a(x,y),z) * f(y,a(x,z)). \n  ', 'names': ['biderivation'], 'bib_s': ['1610.03765'], 'msc_s': [['17B05', '17B40', '17B65']], 'contained': [], 'contains': [], 'total_citations': [56], 'published_year': [2016]}

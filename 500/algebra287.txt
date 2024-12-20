@@ -1,0 +1,1 @@
+{'label': 287, 'axioms': ' (u+v)*x = (u*x)+(v*x). \n  ', 'names': ['(Weak) Disring'], 'bib_s': ['1201.2077'], 'msc_s': [['54E99']], 'contained': [853], 'contains': [123, 250, 719], 'total_citations': [0], 'published_year': [2012]}

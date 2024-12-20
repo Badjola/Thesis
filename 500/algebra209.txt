@@ -1,0 +1,1 @@
+{'label': 209, 'axioms': '   (u + v) * w = (u * w) + (v * w). \n     (w * u) * v = w * (u * v). \n     u * (v + w) = (u * v) + (u * w). \n     u * (0 * v) = 0 * (u * v). \n  ', 'names': ['(Weak) Bilinear operation'], 'bib_s': ['0911.4051'], 'msc_s': [['68Q42', '15A03', '15A69']], 'contained': [], 'contains': [502], 'total_citations': [20], 'published_year': [2009]}

@@ -1,0 +1,1 @@
+{'label': 128, 'axioms': '   a(u,u,v) = u. \n    a(u,v,w) = a(v,u,w) & a(v,u,w) = a(v,w,u). \n    a(a(u,v,w),x,y) = a(u,a(v,x,y),a(w,x,y)). \n  ', 'names': ['median algebra'], 'bib_s': ['0704.3749'], 'msc_s': [['20F65', '46B04', '20F67', '22F50']], 'contained': [51, 52, 532], 'contains': [], 'total_citations': [128], 'published_year': [2007]}

@@ -1,0 +1,1 @@
+{'label': 174, 'axioms': ' x+(a(x)*(x+y)) = x+y. ', 'names': ['(Weak) orthomodular lattice'], 'bib_s': ['0812.2702'], 'msc_s': [['03B60', '03G12', '06C15', '68T27']], 'contained': [], 'contains': [], 'total_citations': [5], 'published_year': [2008]}

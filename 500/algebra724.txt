@@ -1,0 +1,1 @@
+{'label': 724, 'axioms': '  x*(y*z) = ((x*y)*z) + (y*(x*z)).\n  ((x*y)*z) = (x*(y*z)) + ((x*z)*y). \n  ', 'names': ['(Weak) Symmetric Leibniz algebra'], 'bib_s': ['1905.10147'], 'msc_s': [['17D25', '17A32']], 'contained': [580, 720], 'contains': [750], 'total_citations': [2], 'published_year': [2019]}

@@ -1,0 +1,1 @@
+{'label': 419, 'axioms': ' a(f(x))=f(a(x)). \n  a(x+y)=a(x)+a(y).\n f(x+y)=f(x)+f(y).\n f(x)+a(y) = g(f(y)+a(x)). ', 'names': ['(Weak) Bihom-Lie algebra'], 'bib_s': ['1505.00469'], 'msc_s': [['17A99', '17B99', '16T99']], 'contained': [], 'contains': [], 'total_citations': [127], 'published_year': [2015]}

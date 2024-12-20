@@ -1,0 +1,1 @@
+{'label': 550, 'axioms': '     a(u,u) = 0. \n         (a(u,a(v,w)) * a(v,a(w,u))) * a(w,a(u,v)) = 0. \n  ', 'names': ['(Weak) Lie algebra'], 'bib_s': ['1705.10228'], 'msc_s': [['16T05']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2017]}

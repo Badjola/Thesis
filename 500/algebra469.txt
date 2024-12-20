@@ -1,0 +1,1 @@
+{'label': 469, 'axioms': '  (x*y)+((x*z)*y) = x*y. \n  ', 'names': ['(Weak) Absorptive semiring'], 'bib_s': ['1603.08261'], 'msc_s': [['05C25', '68R10', '90B10', '91D30', '16Y60']], 'contained': [], 'contains': [750], 'total_citations': [6], 'published_year': [2016]}

@@ -1,0 +1,1 @@
+{'label': 733, 'axioms': '    a(x,y)+y = x+y & a(x,y)*y = 0. \n  ', 'names': ['(Weak) generalized Boolean algebra'], 'bib_s': ['1906.00439'], 'msc_s': [['06F20', '46E05']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2019]}

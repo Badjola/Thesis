@@ -1,0 +1,1 @@
+{'label': 343, 'axioms': '  a(a(x,y),z) = a(a(x,z),y) + a(x,a(y,z)).  ', 'names': ['Leibniz algebra'], 'bib_s': ['1307.1665'], 'msc_s': [['17A32', '17A65', '17B30']], 'contained': [], 'contains': [], 'total_citations': [23], 'published_year': [2013]}

@@ -1,0 +1,1 @@
+{'label': 542, 'axioms': '   (x*a(y,z)) + a(x*z,y) =  a(x*y,z).\n    a(y,x*z) + (a(y,z)*x) = a(y*x,z).\n  ', 'names': ['(Weak) Leibniz action'], 'bib_s': ['1703.10426'], 'msc_s': [['17A32', '20L05', '18D35']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2017]}

@@ -1,0 +1,1 @@
+{'label': 414, 'axioms': '   a(u,a(v,w)) = a(a(u,v),w) * a(v,a(u,w)).\n  ', 'names': ['(Weak) Leibniz-loday algebra'], 'bib_s': ['1504.02885'], 'msc_s': [['14A22', '16E40', '16S38', '55U30']], 'contained': [], 'contains': [], 'total_citations': [13], 'published_year': [2015]}

@@ -1,0 +1,1 @@
+{'label': 9, 'axioms': '   a(u,0)=u.\n      a(u,v) = a(v,u).\n      a(u,a(v,x)) = a(a(u,v),x).\n  ', 'names': ['(Weak) T-Norm'], 'bib_s': ['gr-qc0011076'], 'msc_s': [['83D05', '53Z05']], 'contained': [], 'contains': [], 'total_citations': [64], 'published_year': [2000]}

@@ -1,0 +1,1 @@
+{'label': 178, 'axioms': '    x*y = 0 -> (x+z)*(y+z) = 0. \n  ', 'names': ['(Weak) weakly orthomodular ortholattice'], 'bib_s': ['0812.2698'], 'msc_s': [['81P10', '03G12', '06C15']], 'contained': [], 'contains': [132, 638, 850], 'total_citations': [32], 'published_year': [2008]}

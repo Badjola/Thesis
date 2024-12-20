@@ -1,0 +1,1 @@
+{'label': 555, 'axioms': '  a(f(x)) = f(a(x)). ', 'names': ['(Weak) Bihom-Lie algebra'], 'bib_s': ['1706.00474'], 'msc_s': [['17A32', '17D30', '17B38', '17B61']], 'contained': [], 'contains': [], 'total_citations': [19], 'published_year': [2017]}

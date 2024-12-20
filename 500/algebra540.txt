@@ -1,0 +1,1 @@
+{'label': 540, 'axioms': '   x*y = y*x.\n    (a(x,y)*z) + (y*(x*z)) = x*(y*z).\n    x*a(y,z) = a(x*y,z) + a(y,x*z). \n  ', 'names': ['commutative post-Lie algebra'], 'bib_s': ['1703.10755'], 'msc_s': [['17B05', '17B40', '17B68']], 'contained': [], 'contains': [], 'total_citations': [7], 'published_year': [2017]}

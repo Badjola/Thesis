@@ -1,0 +1,1 @@
+{'label': 118, 'axioms': '  x+y = y+x & x*y=y*x.\n  (x+y)+z = x+(y+z) & (x*y)*z = x*(y*z).\n  x*(x+y)=x & x+(x*y)=x. \n  ', 'names': ['lattice'], 'bib_s': ['quant-ph0609192'], 'msc_s': [['81P10', '06C10']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2006]}

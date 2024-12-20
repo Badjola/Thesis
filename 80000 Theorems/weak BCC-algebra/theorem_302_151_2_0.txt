@@ -1,0 +1,48 @@
+Generalizes:   weak BCC-algebra
+ 
+Theory used:
+ ((x*y)*(z*y))*(x*z) = 0.
+ x*x=0.
+ x*0=x.
+ ((x*y=0) & (y*x=0)) -> x=y.  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = f2(((y * x) * f1(y))).
+                    x \ y = ((x * x) * f2(y)).
+                    
+Axioms Satisfied by that Theory:
+x \ y = z \ y.
+x \ (y \ z) = u \ (w \ z).
+x v (y \ z) = x v (u \ z).
+(x \ y) v z = (u \ y) v z.
+x v ((x v x) v (x v x)) = x v x.
+(x \ y) v (z \ y) = u \ (y v y).
+x v (y \ x) = z \ (u \ (x v x)).
+x \ ((y v y) v (y v y)) = z \ y.
+x v (y \ x) = z \ ((u \ x) v (w \ x)).
+(x \ (y v y)) v (z \ (y v y)) = u \ y.

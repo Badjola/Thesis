@@ -1,0 +1,1 @@
+{'label': 774, 'axioms': '   0*x=x.\n      x*0=x.\n      x*(y*z) = (x*y)*z. \n z*(x*y) = x*(z*y). ', 'names': ['(Weak) Scalable monoid'], 'bib_s': ['1911.07236'], 'msc_s': [['00A69', '00A73']], 'contained': [171, 411, 488, 519], 'contains': [488], 'total_citations': [5], 'published_year': [2019]}

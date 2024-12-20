@@ -1,0 +1,1 @@
+{'label': 355, 'axioms': '  (x*(y+z)) + x = (x*y)+(x*z).  \n  ', 'names': ['(Weak) left brace'], 'bib_s': ['1312.5142'], 'msc_s': [['16T25', '20B35', '81R50']], 'contained': [], 'contains': [], 'total_citations': [21], 'published_year': [2013]}

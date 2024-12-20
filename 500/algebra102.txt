@@ -1,0 +1,1 @@
+{'label': 102, 'axioms': '  x*x=x.\n u = f(u,v)*v.\n (u=x*v & u=y*v) -> x=y.\n (x*y)*z = (x*z)*(y*z).  ', 'names': ['Quandle'], 'bib_s': ['math0509365'], 'msc_s': [['57M27', '57M25']], 'contained': [138], 'contains': [], 'total_citations': [9], 'published_year': [2005]}

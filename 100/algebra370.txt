@@ -1,0 +1,1 @@
+{'label': 370, 'axioms': ' x*x = x. \n x = f(x,y)*y. \n (x = z*y & x = w*y) -> z = w. \n (x*y)*z = (x*z)*(y*z). \n x*(y+z) = (x*y)*z. \n (x+y)*z = (x*z)+(y*z). \n x+y = y+(x*y). \n  ', 'names': ['qualgebra'], 'bib_s': ['1402.6673'], 'msc_s': [['05C25', '05C15', '17D99', '57M27', '20N99']], 'contained': [], 'contains': [], 'total_citations': [16], 'published_year': [2014]}

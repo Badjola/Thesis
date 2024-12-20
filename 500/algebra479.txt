@@ -1,0 +1,1 @@
+{'label': 479, 'axioms': ' (x*x)*(u*x) = ((x*x)*u)*x. ', 'names': ['Jordan algebra'], 'bib_s': ['1605.04555'], 'msc_s': [['17B05', '17B40', '17B60', '17B65', '17B70']], 'contained': [], 'contains': [], 'total_citations': [26], 'published_year': [2016]}

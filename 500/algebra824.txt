@@ -1,0 +1,1 @@
+{'label': 824, 'axioms': '   x*(y+z) = (x*y)+(x*(a(x)+z)). \n  ', 'names': ['(Weak) Left inverse semi-brace'], 'bib_s': ['2007.05730'], 'msc_s': [['16T25', '81R50', '16Y99', '16N20', '20M18']], 'contained': [], 'contains': [], 'total_citations': [19], 'published_year': [2020]}

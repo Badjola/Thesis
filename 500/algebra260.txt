@@ -1,0 +1,1 @@
+{'label': 260, 'axioms': '    (x*x=0 & x*(y*z) = (x*y)*z) & x*(x*y) = y*(y*x).\n  ', 'names': ['(Weak) hoop'], 'bib_s': ['1103.5943'], 'msc_s': [['03B47', '03B50', '03C05', '06D35']], 'contained': [431], 'contains': [470], 'total_citations': [1], 'published_year': [2011]}

@@ -1,0 +1,1 @@
+{'label': 538, 'axioms': '  (u*u)+(v*v) = (x*x)*x & ((u*u)*u) + ((v*v)*v) = y*y.  \n  ', 'names': ['(Weak) Bhaskara pair'], 'bib_s': ['1703.01677'], 'msc_s': [['11D25', '11D72']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2017]}

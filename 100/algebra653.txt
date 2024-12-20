@@ -1,0 +1,1 @@
+{'label': 653, 'axioms': '  x*(x^y) = y. \n   (y+x)*x = y. \n   x^((x*y)) = y. \n   (y*x)+x = y. \n  ', 'names': ['equational quasigroup'], 'bib_s': ['1809.07095'], 'msc_s': [['20N05']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2018]}

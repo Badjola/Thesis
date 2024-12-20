@@ -1,0 +1,1 @@
+{'label': 615, 'axioms': '   a(x,z*y) = (z*a(x,y)) + (f(x)*(z*y)). \n  ', 'names': ['Lie algebroid'], 'bib_s': ['1803.02183'], 'msc_s': [['14G22', '14G35', '14F10', '16S38', '22E50']], 'contained': [], 'contains': [], 'total_citations': [11], 'published_year': [2018]}

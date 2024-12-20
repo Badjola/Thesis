@@ -1,0 +1,1 @@
+{'label': 695, 'axioms': '    (x*y)*a(z) = f(x)*(y*z).\n      a(x*y) = f(x)*a(y).\n  ', 'names': ['(Weak) Left A-module'], 'bib_s': ['1902.02229'], 'msc_s': [['17B61', '17B56', '17B62']], 'contained': [], 'contains': [], 'total_citations': [6], 'published_year': [2019]}

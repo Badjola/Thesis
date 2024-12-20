@@ -1,0 +1,1 @@
+{'label': 788, 'axioms': '  (x*y)*z = x*(y+z).\n  (x+y)+z = x+(y*z). \n  ', 'names': ['(Weak) dialgebra'], 'bib_s': ['2001.02386'], 'msc_s': [['16E30', '16E40', '18G55']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2020]}

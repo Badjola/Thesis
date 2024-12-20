@@ -1,0 +1,1 @@
+{'label': 440, 'axioms': '    a(z,a(x,y)) * a(a(z,y),x) = a(a(z,x),y).\n       a(x,a(z,y)) * a(a(x,y),z) = a(a(x,z),y).\n       a(x,a(y,z)) * a(a(x,z),y) = a(a(x,y),z).\n  ', 'names': ['Leibniz h-bimodule'], 'bib_s': ['1508.06877'], 'msc_s': [['17A32']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2015]}

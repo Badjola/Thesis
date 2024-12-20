@@ -1,0 +1,1 @@
+{'label': 712, 'axioms': '  x*(y*z) = (x*y)*z & (x*y)*z = x*(y+z).\n  (x+y)*z = x+(y*z).\n  (x*y)+z = x+(y+z) & x+(y+z) = (x+y)+z. \n  ', 'names': ['Dialgebra'], 'bib_s': ['1904.12366'], 'msc_s': [['16S80', '17A30', '17A99', '16E40']], 'contained': [], 'contains': [], 'total_citations': [12], 'published_year': [2019]}

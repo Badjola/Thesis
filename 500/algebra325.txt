@@ -1,0 +1,1 @@
+{'label': 325, 'axioms': '  a(x,(y*z)) = ((a(x,y))*z) + (y*(a(x,z))).\n  ', 'names': ['Poisson algebra'], 'bib_s': ['1301.0227'], 'msc_s': [['17B63']], 'contained': [], 'contains': [], 'total_citations': [34], 'published_year': [2013]}

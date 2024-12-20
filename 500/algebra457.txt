@@ -1,0 +1,1 @@
+{'label': 457, 'axioms': ' x*(x+y) = x*y.\n x*(y+z) = x*((x*y)+(x*z)).\n x+x=1. ', 'names': ['(Weak) Semi Heyting algebra'], 'bib_s': ['1512.05441'], 'msc_s': [['03G25', '06D20', '06D15', '08B26', '08B15']], 'contained': [], 'contains': [], 'total_citations': [3], 'published_year': [2015]}

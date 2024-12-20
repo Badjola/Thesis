@@ -1,0 +1,1 @@
+{'label': 737, 'axioms': ' (x*a(x))*x=x. \n (a(x)*x)*a(x)=a(x).\n x*(y*z) = (x*y)*z.\n 1*x=x.\n x*1=x. ', 'names': ['(Weak) Inverse monoid'], 'bib_s': ['1906.09398'], 'msc_s': [['20M99', '54D35', '57K12', '20F36', '20M05']], 'contained': [], 'contains': [195], 'total_citations': [2], 'published_year': [2019]}

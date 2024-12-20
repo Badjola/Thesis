@@ -1,0 +1,1 @@
+{'label': 385, 'axioms': '   (((x*y)*z) + (y*(x*z))) + (a(x,y)*z) = (x*(y*z)) + ((y*x)*z). \n     z*a(x,y) = a(z*x,y) + a(x,z*y). \n  ', 'names': ['(Weak) Postlie algebra'], 'bib_s': ['1407.3159'], 'msc_s': [['17B62', '17B65', '17B68', '17D25']], 'contained': [524], 'contains': [], 'total_citations': [15], 'published_year': [2014]}

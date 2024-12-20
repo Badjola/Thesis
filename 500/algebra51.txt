@@ -1,0 +1,1 @@
+{'label': 51, 'axioms': ' a(x,y,z) = a(z,y,x). ', 'names': ['Semicommutative Ternary Groupoid'], 'bib_s': ['math0306208'], 'msc_s': [['20N15', '20C99']], 'contained': [], 'contains': [128], 'total_citations': [26], 'published_year': [2003]}

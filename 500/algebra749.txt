@@ -1,0 +1,1 @@
+{'label': 749, 'axioms': '   a(x+y)=a(x)+a(y).\n    x*(y+z)=(x*y)+(x*z). \n  ', 'names': ['(Weak) locally semiadditive distributive 2-category'], 'bib_s': ['1908.01212'], 'msc_s': [['18A99']], 'contained': [], 'contains': [157], 'total_citations': [0], 'published_year': [2019]}

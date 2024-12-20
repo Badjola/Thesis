@@ -1,0 +1,1 @@
+{'label': 119, 'axioms': '   x+a(x)=1 & x*a(x) = 0.\n    a(a(x)) = x. \n (x=x*y) -> (a(y)=a(y)*a(x)).  ', 'names': ['(Weak) Ortholattice'], 'bib_s': ['quant-ph0609192'], 'msc_s': [['81P10', '06C10']], 'contained': [210], 'contains': [870], 'total_citations': [2], 'published_year': [2006]}

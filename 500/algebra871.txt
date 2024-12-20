@@ -1,0 +1,1 @@
+{'label': 871, 'axioms': ' x+a(x) = 0.\n      (((x+z)+a(y+z))*(y+z))*z = z.\n      (x*y)+(a((x*y)+a(y))) = y. \n x+y = a(a(x)*a(y)).   ', 'names': ['(Weak) Orthomodular directoid'], 'bib_s': ['2011.12791'], 'msc_s': [['06A11', '06C15', '06B23', '06B75', '08B99', '03G12', '03G25']], 'contained': [], 'contains': [828], 'total_citations': [1], 'published_year': [2020]}

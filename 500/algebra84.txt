@@ -1,0 +1,1 @@
+{'label': 84, 'axioms': '    x*a(v*x) = a(v)*x. \n  ', 'names': ['(Weak) Right crossed G-set'], 'bib_s': ['math0409600'], 'msc_s': [['16W30']], 'contained': [], 'contains': [], 'total_citations': [84], 'published_year': [2004]}

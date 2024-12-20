@@ -1,0 +1,1 @@
+{'label': 848, 'axioms': '  ((x*y)+(x+y))*z = ((x*z)+(y*z))+(x*(y*z)). \n  ', 'names': ['(Weak) Brace'], 'bib_s': ['2008.06033'], 'msc_s': [['16A22', '16S37', '14A22']], 'contained': [], 'contains': [87], 'total_citations': [6], 'published_year': [2020]}

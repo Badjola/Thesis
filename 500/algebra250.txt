@@ -1,0 +1,1 @@
+{'label': 250, 'axioms': '  u*v = v*u.\n  (x+y)*z = (x*z)+(y*z) & x*(y+z) = (x*y)+(x*z).\n  ', 'names': ['(Weak) Preadditive category'], 'bib_s': ['1011.4870'], 'msc_s': [['18G10', '18E25', '18G30', '18G25', '55N10']], 'contained': [176, 287], 'contains': [87], 'total_citations': [0], 'published_year': [2010]}

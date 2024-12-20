@@ -1,0 +1,47 @@
+Generalizes:   RC-system
+ 
+Theory used:
+   (x*y)*(x*z) = (y*x)*(y*z). 
+  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = f1(f2(g1((y * x)))).
+                    x \ y = (y * x).
+                    b(x) = f2(f2(f2((x * x)))).
+                    
+Axioms Satisfied by that Theory:
+b(x \ x) = b(x) \ b(x).
+b(x v x) = b(x) v b(x).
+(x \ y) \ (z \ y) = (x \ z) \ (y \ z).
+(x \ y) v (z \ y) = (x \ z) v (y \ z).
+(x \ y) v (z \ u) = (x v y) \ (z v u).
+(x v y) \ (z v y) = (x \ z) v (y \ z).
+(x v y) v (z v y) = (x v z) v (y v z).
+((x \ y) \ (z \ y)) \ (u \ (y \ z)) = ((x \ z) \ u) \ ((y \ z) \ u).
+((x \ y) \ (z \ y)) v (u \ (y \ z)) = ((x \ z) \ u) v ((y \ z) \ u).
+(x \ (y \ z)) \ ((u \ z) \ (y \ z)) = (x \ (u \ z)) \ ((y \ u) \ (z \ u)).

@@ -1,0 +1,1 @@
+{'label': 197, 'axioms': '   x*(y*(x*z))=((x*y)*x)*z.\n    z*(x*(y*x))=((z*x)*y)*x.\n    (x*y)*(z*x)=(x*(y*z))*x. \n  ', 'names': ['Moufang loop'], 'bib_s': ['0907.1548'], 'msc_s': [['17A30', '16E40']], 'contained': [], 'contains': [], 'total_citations': [13], 'published_year': [2009]}

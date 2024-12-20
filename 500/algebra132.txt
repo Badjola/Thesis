@@ -1,0 +1,1 @@
+{'label': 132, 'axioms': '   (x*y)+z = x*(y+z).\n    (x*y)*z = 0.\n    x+(y+z) = 0.\n    (x+y)+z = 0.\n    x*(y*z) = 0.\n    (x+y)*z  = 0.\n    x+(y*z) = 0. \n  ', 'names': ['(Weak) L!-algebra'], 'bib_s': ['0709.3453'], 'msc_s': [['05E99', '05C20', '05C05']], 'contained': [153, 178, 31, 430, 459, 825], 'contains': [], 'total_citations': [21], 'published_year': [2007]}

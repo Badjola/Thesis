@@ -1,0 +1,1 @@
+{'label': 12, 'axioms': '  (y*x = z*x | x*y = x*z) -> y = z.\n  ', 'names': ['Cancellative Monoid'], 'bib_s': ['math0101158'], 'msc_s': [['20F36', '20F55']], 'contained': [], 'contains': [], 'total_citations': [370], 'published_year': [2001]}

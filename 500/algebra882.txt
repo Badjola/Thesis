@@ -1,0 +1,1 @@
+{'label': 882, 'axioms': ' x*(y*z) = (x*y)*z. ', 'names': ['(Weak) Lambda-ring'], 'bib_s': ['alg-geom9510018'], 'msc_s': [['14F40', '20C30']], 'contained': [269, 312, 515, 604, 781, 91, 92], 'contains': [539, 725], 'total_citations': [65], 'published_year': [1995]}

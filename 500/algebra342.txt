@@ -1,0 +1,1 @@
+{'label': 342, 'axioms': '   0*(x+0) = x & x = (0*x)+0.\n  ', 'names': ['(Weak) Grishin pomonoid'], 'bib_s': ['1307.4038'], 'msc_s': [['03A05', '03B65']], 'contained': [], 'contains': [104, 850], 'total_citations': [19], 'published_year': [2013]}

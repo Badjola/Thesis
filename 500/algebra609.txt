@@ -1,0 +1,1 @@
+{'label': 609, 'axioms': '  ((x*y)*z)*y = x*((y*z)*y). ', 'names': ['(Weak) Right Bol loop'], 'bib_s': ['1803.04243'], 'msc_s': [['20N02', '20N05']], 'contained': [], 'contains': [269], 'total_citations': [1], 'published_year': [2018]}

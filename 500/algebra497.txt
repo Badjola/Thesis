@@ -1,0 +1,1 @@
+{'label': 497, 'axioms': '    (((x*y)+(x*a(y))) + (a(x)*y)) + (a(x)*a(y)) = 0. \n  ', 'names': ['Weakly distributive ortholattice'], 'bib_s': ['1609.00822'], 'msc_s': [['81P10', '03G12', '03B05', '06C15']], 'contained': [], 'contains': [], 'total_citations': [10], 'published_year': [2016]}

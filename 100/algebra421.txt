@@ -1,0 +1,1 @@
+{'label': 421, 'axioms': ' x*f(x,y) = y. \n   x*x=x.\n    x*(y*z) = (x*y)*(x*z).\n    x*z=y & x*w=y -> z=w. \n  ', 'names': [' Quandle'], 'bib_s': ['1505.02122'], 'msc_s': [['57R56', '81T20']], 'contained': [], 'contains': [], 'total_citations': [7], 'published_year': [2015]}

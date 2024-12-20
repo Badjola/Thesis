@@ -1,0 +1,1 @@
+{'label': 358, 'axioms': '  a(x*y,z) + (a(x,y)*z) = (a(x*z,y) + (a(x,z)*y)) + (x*a(y,z)). \n  ', 'names': ['(Weak) Gelfand-Dorfman bialgebra'], 'bib_s': ['1401.3610'], 'msc_s': [['17A30', '17B45', '17D25', '17B81']], 'contained': [], 'contains': [], 'total_citations': [14], 'published_year': [2014]}

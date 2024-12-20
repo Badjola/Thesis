@@ -1,0 +1,1 @@
+{'label': 580, 'axioms': '  (x*(y*z)) + ((x*z)*y) = (x*y)*z. \n  ', 'names': ['(Weak) Leibniz algebra'], 'bib_s': ['1710.08141'], 'msc_s': [['14D06', '14L30', '17A32']], 'contained': [], 'contains': [724], 'total_citations': [7], 'published_year': [2017]}

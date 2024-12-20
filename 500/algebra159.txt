@@ -1,0 +1,1 @@
+{'label': 159, 'axioms': '   a(x*y,z) = (a(x,z)*y) + (a(y,z)*x). \n  ', 'names': ['(Weak) Poisson structure'], 'bib_s': ['0807.1065'], 'msc_s': [['37K99', '35Q99']], 'contained': [], 'contains': [], 'total_citations': [45], 'published_year': [2008]}

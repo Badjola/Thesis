@@ -1,0 +1,1 @@
+{'label': 49, 'axioms': '    (a(f(x,y),z) * a(f(y,z),x)) * a(f(z,y),x) = 0.\n  ', 'names': ['(Weak) Symplectic bilinear form'], 'bib_s': ['math0305057'], 'msc_s': [['17B30', '53D05']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2003]}

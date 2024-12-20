@@ -1,0 +1,1 @@
+{'label': 519, 'axioms': '    0*x = x & x*0 = x. \n  ', 'names': ['(Weak) S-Structure with Unity'], 'bib_s': ['1611.06838'], 'msc_s': [['08A99']], 'contained': [431], 'contains': [598, 774], 'total_citations': [0], 'published_year': [2016]}

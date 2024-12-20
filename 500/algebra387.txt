@@ -1,0 +1,1 @@
+{'label': 387, 'axioms': '  ( ( x*(y+z) = (x*y)+(x*z) & (x+y)*z = (x*z)+(y*z) ) & (x*y)*z = x*(y*z) ) & 0*x=x.\n  ', 'names': ['module over R'], 'bib_s': ['1408.5923'], 'msc_s': [['00A69', '15A63', '15B10']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2014]}

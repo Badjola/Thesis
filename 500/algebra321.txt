@@ -1,0 +1,1 @@
+{'label': 321, 'axioms': '   (x*y)*z = (z*y)*x. \n  ', 'names': ['(Weak) LA-semihypergroup'], 'bib_s': ['1211.5588'], 'msc_s': [['20N20']], 'contained': [616, 91], 'contains': [725], 'total_citations': [67], 'published_year': [2012]}

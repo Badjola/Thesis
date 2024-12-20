@@ -1,0 +1,1 @@
+{'label': 627, 'axioms': '   a(x,y) + a(y,x) = 0. \n       (a(a(x,y),z) + a(a(y,z),x)) + a(a(z,x),y) = 0. \n       a(x, (y*z)) = ((a(x,y))*z) + (y*(a(x,z))). \n ', 'names': ['(Weak) Poisson bracket'], 'bib_s': ['1805.03292'], 'msc_s': [['37K25', '37K30', '37K10', '14M15', '53D17', '16T10']], 'contained': [130], 'contains': [], 'total_citations': [4], 'published_year': [2018]}

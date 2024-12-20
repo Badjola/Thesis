@@ -1,0 +1,1 @@
+{'label': 316, 'axioms': '  x*(y*z) = (x*y)*z & 0*v=v.\n  ', 'names': ['(Weak) Left A-module'], 'bib_s': ['1210.0241'], 'msc_s': [['46L87', '17B37', '53D55', '81R60']], 'contained': [], 'contains': [411, 598], 'total_citations': [61], 'published_year': [2012]}

@@ -1,0 +1,1 @@
+{'label': 459, 'axioms': '   (((u*y)*z) + (v*(z*y))) + (w*(x*x)) = 0. \n  ', 'names': ['(Weak) 3-dimensional Sklyanin algebra'], 'bib_s': ['1512.09167'], 'msc_s': [['16S38', '16G99', '16Z05']], 'contained': [], 'contains': [132], 'total_citations': [3], 'published_year': [2015]}

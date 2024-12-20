@@ -1,0 +1,1 @@
+{'label': 5, 'axioms': '   a(x,y) = f(g(h(y),h(x))*(a(y,x))).\n      ((g(h(z),h(x))*(a(x,a(y,z)))) + (g(h(y),h(z))*(a(z,a(x,y))))) + (g(h(x),h(y))*(a(y,a(z,x)))) = 0.\n  ', 'names': ['(Weak) epsilon-Lie algebra'], 'bib_s': ['math-ph0006012'], 'msc_s': [['81R99', '16Z05']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2000]}

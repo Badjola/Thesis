@@ -1,0 +1,1 @@
+{'label': 391, 'axioms': '  (x*y)*z = (x*(y*z)) + (x*(z*y)). \n  ', 'names': ['(Weak) Zinbiel algebra'], 'bib_s': ['1410.7549'], 'msc_s': [['17A30', '17A32']], 'contained': [], 'contains': [650], 'total_citations': [5], 'published_year': [2014]}

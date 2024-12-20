@@ -1,0 +1,1 @@
+{'label': 409, 'axioms': '    a(y*x,z) = (a(x,z)*y) + (a(y,z)*x). \n  ', 'names': ['(Weak) Poisson manifold'], 'bib_s': ['1503.07650'], 'msc_s': [['37K65', '37K05', '35Q35', '65P10']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2015]}

@@ -1,0 +1,1 @@
+{'label': 28, 'axioms': 'a((u*v)*f(u)) = (u*a(v))*f(u).\n      (a(u)*v)*f(a(u)) = (u*v)*f(u).\n', 'names': ['(Weak) Lie Crossed Module'], 'bib_s': ['hep-th0206130'], 'msc_s': [['22E99']], 'contained': [], 'contains': [451], 'total_citations': [133], 'published_year': [2002]}

@@ -1,0 +1,1 @@
+{'label': 611, 'axioms': '  a(x)+a(a(x)) = 1 & f(x)*f(f(x)) = 0.\n    x*a(x*y) = x*a(y) & x+f(x+y)=x+f(y).\n    x*a(0)=x & x+f(1)=x.\n    a(a(0))=0 & f(f(1)) = 1.\n    (a(x)=a(y) & f(x)=f(y))-> x=y.  ', 'names': ['(Weak) Regular double stone algebra'], 'bib_s': ['1803.09338'], 'msc_s': [['06D50']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2018]}

@@ -1,0 +1,1 @@
+{'label': 217, 'axioms': '   a(a(x,y),f(z)) = a(a(x,z),f(y)) * a(f(x),a(y,z)).\n  ', 'names': ['Hom-Leibniz algebra'], 'bib_s': ['1001.4240'], 'msc_s': [['17A99', '17D99']], 'contained': [], 'contains': [], 'total_citations': [62], 'published_year': [2010]}

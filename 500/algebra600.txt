@@ -1,0 +1,1 @@
+{'label': 600, 'axioms': '  a(x,a(y,z)) = a(a(x,y),z) + (f(x,y)*a(y,a(x,z))).\n  ', 'names': ['(Weak) Leibniz color algebra'], 'bib_s': ['1801.02071'], 'msc_s': [['17A42', '17B75']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2018]}

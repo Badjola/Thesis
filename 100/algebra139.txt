@@ -1,0 +1,1 @@
+{'label': 139, 'axioms': '   x*(x*y) = y.\n    x*(y*z) = (x*y)*(x*z). \n  ', 'names': ['Symmetric system'], 'bib_s': ['0712.0104'], 'msc_s': [['20F55', '20F05', '17B20', '17B67']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2007]}

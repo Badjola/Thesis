@@ -1,0 +1,1 @@
+{'label': 729, 'axioms': '    x*(y*x)=0.\n      (x*(y*z))*((x*y)*(x*z)) = 0.\n      0*x=0 -> x=0. \n  ', 'names': ['deductive algebra'], 'bib_s': ['1905.09928'], 'msc_s': [['03G25', '03B70']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2019]}

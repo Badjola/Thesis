@@ -1,0 +1,1 @@
+{'label': 255, 'axioms': '   x*x=x.\n    (x*y)*y = x.\n    (x*y)*z = (x*z)*(y*z).  \n  ', 'names': ['kei or involutory quandle'], 'bib_s': ['1102.4366'], 'msc_s': [['57M25', '57M27']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2011]}

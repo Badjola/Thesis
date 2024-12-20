@@ -1,0 +1,1 @@
+{'label': 719, 'axioms': '  (x*y)+y = x & x = (x+y)*y.\n  (x*y)*z = (x*z)*(y*z). \n  ', 'names': ['rack'], 'bib_s': ['1905.06432'], 'msc_s': [['57M27', '57M25']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2019]}

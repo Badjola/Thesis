@@ -1,0 +1,1 @@
+{'label': 45, 'axioms': ' a(x*y,v) = (x*a(y,v))+(a(x,v)*y).\n  a(x,y*v) = (y*a(x,v)) + (a(x,y)*v).\n  a(x,v*y) = (a(x,v)*y) + (v*a(x,y)). ', 'names': ['(Weak) Poisson Module'], 'bib_s': ['math0301364'], 'msc_s': [['53D17', '53D05']], 'contained': [183], 'contains': [], 'total_citations': [1], 'published_year': [2003]}

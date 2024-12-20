@@ -1,0 +1,1 @@
+{'label': 234, 'axioms': '   x*(y*x) = x. \n       x*(x*y) = y*(y*x). \n       (x*y)*z = (x*z)*y. \n       0*0 = 0.\n  ', 'names': ['subtraction algebra'], 'bib_s': ['1007.0996'], 'msc_s': [['20N15']], 'contained': [863], 'contains': [], 'total_citations': [5], 'published_year': [2010]}

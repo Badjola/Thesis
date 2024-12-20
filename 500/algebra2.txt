@@ -1,0 +1,1 @@
+{'label': 2, 'axioms': '  a(x,y) = (x*y) + (f(y*x)).\n  ', 'names': ['(Weak) Lie algebra'], 'bib_s': ['math0001042'], 'msc_s': [['17B99', '16G99']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2000]}

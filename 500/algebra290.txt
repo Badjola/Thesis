@@ -1,0 +1,1 @@
+{'label': 290, 'axioms': '   x*(y*z) = ((x*y)*z) + (y*(x*z)).\n    a(x*y) = (a(x)*y) + (x*a(y)).\n  ', 'names': ['(Weak) Derivation Linear map'], 'bib_s': ['1203.4772'], 'msc_s': [['17A32', '17A36', '17A65', '17B30']], 'contained': [482], 'contains': [], 'total_citations': [72], 'published_year': [2012]}

@@ -1,0 +1,49 @@
+Generalizes:   Cancellation groupoid
+ 
+Theory used:
+   (x*y = x*z -> y = z) & (y*x = z*x -> y=z).  
+  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = g2((f1(x) * g1(y))).
+                    x \ y = g2(f1((y * x))).
+                    x / y = f1(f2((x * y))).
+                    b(x) = f1(((x * x) * f2(x))).
+                    c(x) = (g1((x * x)) * f2(x)).
+                    
+Axioms Satisfied by that Theory:
+x / y != z / y | x = z.
+x / y != x / z | y = z.
+x v y != x v z | y = z.
+x v y != x v z | z = y.
+x / y != z / y | z = x.
+x / y != x / z | z = y.
+(x / y) \ z = z v (y \ x).
+(x \ y) / z = (y / x) v z.
+c(x / y) \ z = z v c(y \ x).
+c(x / y) v z = c(y \ x) / z.

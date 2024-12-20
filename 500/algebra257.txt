@@ -1,0 +1,1 @@
+{'label': 257, 'axioms': '   a(f(x),a(y,z)) = a(a(x,y),f(z)) * a(f(y),a(x,z)).\n  ', 'names': ['(Weak) Hom-Lie algebra'], 'bib_s': ['1103.0093'], 'msc_s': [['17A42', '17A30', '17A40', '17D99']], 'contained': [], 'contains': [], 'total_citations': [68], 'published_year': [2011]}

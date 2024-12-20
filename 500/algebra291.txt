@@ -1,0 +1,1 @@
+{'label': 291, 'axioms': '   (x*y)*w = (x*y)*v -> w=v. \n  ', 'names': ['(Weak) Many-valued context algebra'], 'bib_s': ['1204.1995'], 'msc_s': [['68T30', '92B05', '92C37', '92C40', '92D10']], 'contained': [], 'contains': [139, 167, 421], 'total_citations': [3], 'published_year': [2012]}

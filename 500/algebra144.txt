@@ -1,0 +1,1 @@
+{'label': 144, 'axioms': '   (x*(u+v) = (x*u)+(x*v) & 0+x=x) & x+0 = x.\n    x*y = 0 | x*(y*z) = (x*y)*z. \n  ', 'names': ['(Weak) 0-module'], 'bib_s': ['0803.1119'], 'msc_s': [['20M50']], 'contained': [53], 'contains': [], 'total_citations': [16], 'published_year': [2008]}

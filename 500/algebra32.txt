@@ -1,0 +1,1 @@
+{'label': 32, 'axioms': 'x+0 = 0+x. \n  x+0=x. \n  a(u+x,v+y,w+z) = a(u,v,w) * a(x,y,z).\n   a(u*x,v*y,w*z) = a(u,v,w) + a(x,y,z). ', 'names': ['(Weak) Additive ECA function'], 'bib_s': ['cs0210008'], 'msc_s': [['68Q80', '68Q30']], 'contained': [], 'contains': [], 'total_citations': [35], 'published_year': [2002]}

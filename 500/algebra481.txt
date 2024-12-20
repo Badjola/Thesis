@@ -1,0 +1,1 @@
+{'label': 481, 'axioms': '  a(x,x) = 0.\n      a(a(x,y),z) * ( a(a(y,z),x) * a(a(z,x),y) ) = 0.  ', 'names': ['(Weak) Lie algebra'], 'bib_s': ['1606.03119'], 'msc_s': [['16D70']], 'contained': [], 'contains': [], 'total_citations': [3], 'published_year': [2016]}

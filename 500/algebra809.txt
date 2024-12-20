@@ -1,0 +1,1 @@
+{'label': 809, 'axioms': '   a(x,x) = 0 -> x = 0.\n  ', 'names': ['(Weak) Inner Product'], 'bib_s': ['2005.01566'], 'msc_s': [['68Q87']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2020]}

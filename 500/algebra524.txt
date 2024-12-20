@@ -1,0 +1,1 @@
+{'label': 524, 'axioms': '   x*a(y,z) = a(x*y,z) + a(y,x*z).\n  ', 'names': ['(Weak) left post-Lie algebra'], 'bib_s': ['1701.07786'], 'msc_s': [['16T05', '16T10', '16T25', '16T30', '17D25']], 'contained': [], 'contains': [385, 586], 'total_citations': [12], 'published_year': [2017]}

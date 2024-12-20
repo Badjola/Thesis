@@ -1,0 +1,1 @@
+{'label': 184, 'axioms': ' (v*u)+(x*w) = (v+x)*(u+w). \n  ', 'names': ['Lie group-groupoid'], 'bib_s': ['0902.2925'], 'msc_s': [['22A22', '57M10']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2009]}

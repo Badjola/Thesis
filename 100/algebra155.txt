@@ -1,0 +1,1 @@
+{'label': 155, 'axioms': ' x+(y+z) = (x+y)+z. \n 1+x = x. \n x+1 = x. \n x+y = y+x. \n x*x = 1. \n (x*y)+x = (y*x)+y. \n x*(y*z) = (x+y)*z. \n    (x*y)*y = (y*x)*x.\n  ', 'names': [' Wajsberg hoop'], 'bib_s': ['0806.4946'], 'msc_s': [['06F05', '08B30', '03G10', '03G25']], 'contained': [], 'contains': [], 'total_citations': [25], 'published_year': [2008]}

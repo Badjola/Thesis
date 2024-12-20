@@ -1,0 +1,1 @@
+{'label': 679, 'axioms': '    a(u,a(v,w)) = a(u*v,w).\n      a(u,w)*a(v,w) = a(u+v,w).\n      a(0,x)=x.\n      a(u,w)*a(u,v) = a(u,w*v). \n  ', 'names': ['(Weak) K-vector space'], 'bib_s': ['1812.07375'], 'msc_s': [['28A15', '53C17', '58C20', '46G05']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2018]}

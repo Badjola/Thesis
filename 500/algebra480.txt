@@ -1,0 +1,1 @@
+{'label': 480, 'axioms': '     a(x,y) * a(y,x) = 0.\n        a(f(x,y),z) = f(x,a(y,z)) * f(a(x,z),y).\n        a(x,f(y,z)) = f(a(x,y),z) * f(y,a(x,z)). \n  ', 'names': ['(Weak) Biderivation Linear map'], 'bib_s': ['1605.02602'], 'msc_s': [['17B05', '17B40', '17B60', '17B65', '17B70']], 'contained': [], 'contains': [], 'total_citations': [45], 'published_year': [2016]}

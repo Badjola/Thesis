@@ -1,0 +1,1 @@
+{'label': 529, 'axioms': '     (x*y)*z = x*(y*z) & x*y = y*x.\n        x*x=x & x*a(x) = 0.\n        a(x*y) = a(x)*a(y) & a(a(x)) = x. \n  ', 'names': ['(Weak) F-module'], 'bib_s': ['1701.02178'], 'msc_s': [['16Y99', '11G99']], 'contained': [259, 523], 'contains': [], 'total_citations': [2], 'published_year': [2017]}

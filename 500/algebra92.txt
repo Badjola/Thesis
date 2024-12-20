@@ -1,0 +1,1 @@
+{'label': 92, 'axioms': '   (x*x)*y = x*(x*y).\n    x*(y*y) = (x*y)*y. \n  ', 'names': ['(Weak) Left alternative algebra'], 'bib_s': ['math0412397'], 'msc_s': [['17B69', '17A30', '17D05', '17D10', '17C05']], 'contained': [], 'contains': [112, 798, 882], 'total_citations': [20], 'published_year': [2004]}

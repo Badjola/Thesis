@@ -1,0 +1,1 @@
+{'label': 288, 'axioms': '   y*(z*x) = (z*y)*x.\n    u*(x+y) = (u*x)+(u*y).\n    1*x=x.\n    0*x=0.\n    a(x)=0 -> x=0.\n    a(x*y)=x*a(y).\n  ', 'names': ['(Weak) Module'], 'bib_s': ['1201.2077'], 'msc_s': [['54E99']], 'contained': [], 'contains': [185], 'total_citations': [0], 'published_year': [2012]}

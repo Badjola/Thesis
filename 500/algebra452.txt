@@ -1,0 +1,1 @@
+{'label': 452, 'axioms': ' x+(y*z) = ((x+y)*a(x))*(x+z).  ', 'names': ['(Weak) Skew left brace'], 'bib_s': ['1511.03171'], 'msc_s': [['16T25', '81R50']], 'contained': [], 'contains': [], 'total_citations': [254], 'published_year': [2015]}

@@ -1,0 +1,1 @@
+{'label': 372, 'axioms': '   (x*y)*z = (x*z)*(y*z). \n  ', 'names': ['Shelf'], 'bib_s': ['1403.4148'], 'msc_s': [['16T05', '16T10', '17A32', '17B35', '17B37']], 'contained': [], 'contains': [160, 539, 820], 'total_citations': [15], 'published_year': [2014]}

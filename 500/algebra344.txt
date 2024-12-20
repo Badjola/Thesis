@@ -1,0 +1,1 @@
+{'label': 344, 'axioms': '     a(u,u) = 0. \n         a(v,u) = f(a(u,v)). \n         (a(u,a(v,w)) * a(v,a(w,u))) * a(w,a(u,v)) = 0.\n  ', 'names': ['(Weak) Lie ring'], 'bib_s': ['1308.2069'], 'msc_s': [['94A17', '20D15']], 'contained': [], 'contains': [], 'total_citations': [9], 'published_year': [2013]}

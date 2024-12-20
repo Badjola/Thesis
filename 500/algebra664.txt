@@ -1,0 +1,1 @@
+{'label': 664, 'axioms': '    a(x*(a(y)))*a(y) = a(y*a(x))*(a(x)). \n  ', 'names': ['(Weak) Lukasiewicz near semiring'], 'bib_s': ['1810.09345'], 'msc_s': [['06F25', '16Y60', '16Y30', '06C15', '06D35', '03G25']], 'contained': [], 'contains': [], 'total_citations': [16], 'published_year': [2018]}

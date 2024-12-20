@@ -1,0 +1,1 @@
+{'label': 185, 'axioms': '   (x+y)+z=x+(y+z).\n    x+y=y+x.\n    x+0=x.\n    x+a(x)=0.\n    (x* y)* z=x*(y* z).\n    x* y=y* x.\n    x* 1=x.\n    x*(y+z)=(x* y)+(x* z). \n  ', 'names': ['commutative ring'], 'bib_s': ['0903.1196'], 'msc_s': [['68Q65', '13M99']], 'contained': [], 'contains': [], 'total_citations': [9], 'published_year': [2009]}

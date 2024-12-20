@@ -1,0 +1,1 @@
+{'label': 465, 'axioms': '   a(f(x,y)) = f(a(x),a(y)).\n  ', 'names': ['Homomorphism of Hom-Leibniz algebras'], 'bib_s': ['1601.07827'], 'msc_s': [['17A30', '17B55', '17B60', '18G35', '18G60']], 'contained': [], 'contains': [], 'total_citations': [6], 'published_year': [2016]}

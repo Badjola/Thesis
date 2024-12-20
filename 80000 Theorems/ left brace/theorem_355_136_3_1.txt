@@ -1,0 +1,59 @@
+Generalizes:    left brace
+ 
+Theory used:
+x*(y*z) = (x*y)*z. 
+ 1*x = x. 
+ x*1 = x. 
+ x*a(x) = 1. 
+ a(x)*x = 1. 
+x+(y+z) = (x+y)+z. 
+ 0+x = x. 
+ x+0 = x. 
+ x+f(x) = 0. 
+ f(x)+x = 0. 
+ x+y = y+x. 
+  (x*(y+z)) + x = (x*y)+(x*z).  
+  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = g2((g1(f(y)) + a(x))).
+                    x \ y = (f1((x + y)) * a(f1(x))).
+                    x / y = f((a(f(y)) + f(x))).
+                    b(x) = (f2(a(x)) + f2((x + x))).
+                    
+Axioms Satisfied by that Theory:
+x v (x v y) = y.
+(x / y) / z = (x / z) / y.
+(x v (y / z)) / z = x v y.
+b((x / y) / z) = b((x / z) / y).
+((x / y) / z) / u = ((x / u) / y) / z.
+x v ((y / z) / u) = x v ((y / u) / z).
+((x / y) / z) / u = ((x / z) / y) / u.
+((x / y) / z) / u = ((x / u) / z) / y.
+x / ((y / z) / u) = x / ((y / u) / z).
+((x v (y / z)) / u) / z = (x v y) / u.

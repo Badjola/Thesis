@@ -1,0 +1,1 @@
+{'label': 16, 'axioms': ' (u*v)+(w*x)=(u+w)*(v+x).\n  ', 'names': ['(Weak) trialgebra'], 'bib_s': ['hep-th0103176'], 'msc_s': [['82B20', '81R12', '81R50', '81T40']], 'contained': [], 'contains': [], 'total_citations': [6], 'published_year': [2001]}

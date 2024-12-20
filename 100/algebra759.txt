@@ -1,0 +1,1 @@
+{'label': 759, 'axioms': ' x + y = y + x.\n  x*y=y*x.\n   x + ( (x + y) + z ) = (x + y) + z.\n  x * ( (x * y) * z ) = (x * y) * z. \n x*(x+y) = x.\n x+(x*y)=x.', 'names': ['lambda-lattice'], 'bib_s': ['1909.05186'], 'msc_s': [['06A11', '06B75', '06C10']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2019]}

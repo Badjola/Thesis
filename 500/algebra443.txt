@@ -1,0 +1,1 @@
+{'label': 443, 'axioms': '    a(x*y) = a(x)*a(y).\n      a(a(x)) = x.\n  ', 'names': ['(Weak) Involution Hom-associative algebra'], 'bib_s': ['1509.03948'], 'msc_s': [['17A42', '17B99']], 'contained': [14, 633], 'contains': [], 'total_citations': [17], 'published_year': [2015]}

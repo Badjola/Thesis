@@ -1,0 +1,1 @@
+{'label': 60, 'axioms': '   a(x*y,z) = (x*a(y,z)) + (y*a(x,z)).\n      ( a(x,a(y,z)) + a(y,a(z,x)) ) + a(z,a(x,y)) = 0.\n  ', 'names': ['(Weak) Poisson manifold'], 'bib_s': ['nlin0310028'], 'msc_s': [['14H70', '37J35', '37K10', '70H20']], 'contained': [], 'contains': [], 'total_citations': [6], 'published_year': [2003]}

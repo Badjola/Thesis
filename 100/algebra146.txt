@@ -1,0 +1,1 @@
+{'label': 146, 'axioms': '   x*x = x.\n    x*(x*y) = y.\n    x*(y*z) = (x*y)*(x*z). \n  ', 'names': ['Discrete symmetric space'], 'bib_s': ['0804.1569'], 'msc_s': [['20F55', '20F05', '17B20', '17B67']], 'contained': [], 'contains': [], 'total_citations': [3], 'published_year': [2008]}

@@ -1,0 +1,1 @@
+{'label': 254, 'axioms': '   (x*y)*a(z) = (a(x)*(y*z)) + (a(x)*(z*y)).  \n  ', 'names': ['(Weak) Hom-Zinbiel algebra'], 'bib_s': ['1101.0435'], 'msc_s': [['16W20', '17D25']], 'contained': [], 'contains': [], 'total_citations': [33], 'published_year': [2011]}

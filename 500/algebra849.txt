@@ -1,0 +1,1 @@
+{'label': 849, 'axioms': '   (x*(y+z))+x = ((x*y)+(x*z))+a(x). \n  ', 'names': ['(Weak) Truss'], 'bib_s': ['2008.06033'], 'msc_s': [['16A22', '16S37', '14A22']], 'contained': [], 'contains': [], 'total_citations': [6], 'published_year': [2020]}

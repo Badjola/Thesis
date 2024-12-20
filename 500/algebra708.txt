@@ -1,0 +1,1 @@
+{'label': 708, 'axioms': '  ((x*y)*z) + (y*(x*z)) = ((y*x)*z) + (x*(y*z)).\n  (x*y)*z = (x*z)*y. \n  ', 'names': ['(Weak) Novikov-Poisson algebra'], 'bib_s': ['1903.08145'], 'msc_s': [['15A04', '17A99', '17D99']], 'contained': [722], 'contains': [750], 'total_citations': [19], 'published_year': [2019]}

@@ -1,0 +1,1 @@
+{'label': 416, 'axioms': '   a(a(y,z),x) = (a(a(y,x),z)) * (a(y,a(z,x))).\n  ', 'names': ['right Leibniz algebra'], 'bib_s': ['1504.04236'], 'msc_s': [['17A32', '17A60', '17B22', '17B65']], 'contained': [], 'contains': [], 'total_citations': [12], 'published_year': [2015]}

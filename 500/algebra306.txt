@@ -1,0 +1,1 @@
+{'label': 306, 'axioms': ' x*y=y*x.\n    x*(y*z) = (x*y)*z. \n a(x*y,z,w) = a(x,z,w)*a(y,z,w).\n a(x,y*z,w) = a(x,y,w)*a(x,z,w).\n a(x,y,z*w)=a(x,y,z)*a(x,y,w). ', 'names': ['(Weak) Triple system'], 'bib_s': ['1206.0694'], 'msc_s': [['46L70', '46L57']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2012]}

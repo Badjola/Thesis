@@ -1,0 +1,1 @@
+{'label': 322, 'axioms': '  (x*y)*(z+u) = ((x*y)*z) + ((x*y)*u).\n  (x+y)*(z*u) = ((x*z)*u) + ((y*z)*u).\n  (x*(u+v))*y = ((x*u)*y) + ((x*v)*y).\n  (x*y)*((u*v)*w) = ((x*y)*u) * (v*w).  \n  ', 'names': ['(Weak) Gamma-semiring'], 'bib_s': ['1212.3949'], 'msc_s': [['16Y30', '16Y99']], 'contained': [], 'contains': [123, 87], 'total_citations': [0], 'published_year': [2012]}

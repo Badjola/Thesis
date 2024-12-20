@@ -1,0 +1,1 @@
+{'label': 329, 'axioms': '    x*x=x.\n      x*(x*y)=y.\n      x*(y*z)=(x*y)*(x*z).\n      x*a(x)=a(x) -> x=a(x). \n  ', 'names': ['(Weak) Symmetric space'], 'bib_s': ['1302.3387'], 'msc_s': [['65L99', '53C35', '58J70', '34A26']], 'contained': [], 'contains': [], 'total_citations': [15], 'published_year': [2013]}

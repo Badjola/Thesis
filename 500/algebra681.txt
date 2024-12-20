@@ -1,0 +1,1 @@
+{'label': 681, 'axioms': '   1*x = x & x*1 = x.\n    x*0 = 0 & 0*x = 0. \n  ', 'names': ['(Weak) Absorver unital Truss'], 'bib_s': ['1901.07033'], 'msc_s': [['16Y99', '08A99']], 'contained': [726], 'contains': [], 'total_citations': [34], 'published_year': [2019]}

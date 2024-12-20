@@ -1,0 +1,54 @@
+Generalizes:    Nelson algebra
+ 
+Theory used:
+ x*(x+y)=x. 
+ x*(y+z) = (z*x)+(y*x). 
+ a(a(x)) = x. 
+ a(x*y) = a(x)+a(y). 
+ x*a(x) = (x*a(x))*(y+a(y)). 
+ x^x = 1. 
+ x ^ (y ^ z) = (x*y) ^ z. 
+ x*(x^y) = x*(a(x)+y). 
+ 
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = (g1(f1(x)) * a(y)).
+                    b(x) = f2(((x ^ x) + (x * x))).
+                    c(x) = ((x * x) + g2(a(x))).
+                    
+Axioms Satisfied by that Theory:
+b(x) = b(y).
+c(b(x)) = b(y).
+c(b(x)) = c(b(y)).
+c(c(b(x))) = b(y).
+c(x v b(y)) = b(z).
+x v b(y) = z v b(u).
+b(x) v y = b(z) v y.
+c(c(b(x))) = c(b(y)).
+c(c(c(b(x)))) = b(y).
+c(b(x)) = c(y v b(z)).

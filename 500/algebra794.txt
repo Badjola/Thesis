@@ -1,0 +1,1 @@
+{'label': 794, 'axioms': '   (x*z)=y*z -> x=y. \n  ', 'names': ['(Weak) Cancellative cone'], 'bib_s': ['2002.02647'], 'msc_s': [['46B20', '39B82', '46A22']], 'contained': [68], 'contains': [167, 376], 'total_citations': [5], 'published_year': [2020]}

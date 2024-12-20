@@ -1,0 +1,1 @@
+{'label': 583, 'axioms': '  (x*y)+z = x*(y+z).\n  (x+y)*z = x+(y*z). ', 'names': ['(Weak) Matching Dialgebra'], 'bib_s': ['1711.04080'], 'msc_s': [['16T10']], 'contained': [766], 'contains': [156], 'total_citations': [8], 'published_year': [2017]}

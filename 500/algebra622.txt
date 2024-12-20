@@ -1,0 +1,1 @@
+{'label': 622, 'axioms': '   x*y=y*x.\n    x*x=x.\n    x*(x*y) = y.\n  ', 'names': ['Steiner quasigroup'], 'bib_s': ['1805.06767'], 'msc_s': [['03C10', '03C45', '05B07']], 'contained': [167, 516, 804], 'contains': [], 'total_citations': [10], 'published_year': [2018]}

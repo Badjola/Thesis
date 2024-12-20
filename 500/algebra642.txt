@@ -1,0 +1,1 @@
+{'label': 642, 'axioms': '   x*y = y*x. \n     (x*y)*a(z) = a(x)*(y*z). \n     (((x^y)+(y^x)) + (x*y))^a(z) = a(x)^(y^z). \n     (x^y)*a(z) = a(x)^(y*z). \n  ', 'names': ['(Weak) Commutative Hom-dendriform trialgebra'], 'bib_s': ['1807.06412'], 'msc_s': [['16T05', '17A30', '17B62']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2018]}

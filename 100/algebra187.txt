@@ -1,0 +1,1 @@
+{'label': 187, 'axioms': '    u*v = v*u.\n      (x*y)*z = x*(y*z).\n      x*a(x)=1.\n      x*0=x.\n      a(a(x)) = x.\n      a(0)=1.\n      x*1=1.\n      a(a(x)*y)*y = a(x*a(y)) * x. \n  ', 'names': ['MV-algebra'], 'bib_s': ['0904.3229'], 'msc_s': [['81P10']], 'contained': [], 'contains': [], 'total_citations': [9], 'published_year': [2009]}

@@ -1,0 +1,1 @@
+{'label': 164, 'axioms': '  x*(y*z) = ((x*y)*z) + (y*(x*z)). \n  ', 'names': ['Leibniz algebra'], 'bib_s': ['0810.2849'], 'msc_s': [['17A32']], 'contained': [], 'contains': [], 'total_citations': [7], 'published_year': [2008]}

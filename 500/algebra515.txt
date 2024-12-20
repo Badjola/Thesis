@@ -1,0 +1,1 @@
+{'label': 515, 'axioms': '  x*(y*x) = (x*y)*x. ', 'names': ['(Weak) Flexible quandle'], 'bib_s': ['1611.00936'], 'msc_s': [['20N05', '55N35', '57K18', '20L05']], 'contained': [], 'contains': [112, 160, 421, 518, 605, 882], 'total_citations': [7], 'published_year': [2016]}

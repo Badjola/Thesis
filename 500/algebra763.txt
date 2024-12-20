@@ -1,0 +1,1 @@
+{'label': 763, 'axioms': ' x*(y+z) = (x*y)+z. \n  ', 'names': ['L-algebra'], 'bib_s': ['1910.00670'], 'msc_s': [['16Y99', '05E15']], 'contained': [], 'contains': [], 'total_citations': [6], 'published_year': [2019]}

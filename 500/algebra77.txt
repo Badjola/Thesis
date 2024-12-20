@@ -1,0 +1,1 @@
+{'label': 77, 'axioms': ' ((u*v)*a(x,y,z)) + ((x*a(v,u,y))*z) = (a(u,v,x)*(y*z)) + ((x*y)*a(u,v,z)). ', 'names': ['(Weak) Generalized Jordan triple system'], 'bib_s': ['math0404550'], 'msc_s': [['17A15', '17A40', '17B70']], 'contained': [], 'contains': [], 'total_citations': [36], 'published_year': [2004]}

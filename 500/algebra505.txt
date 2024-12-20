@@ -1,0 +1,1 @@
+{'label': 505, 'axioms': '    a(x)*y = y*x.\n      f(g(x,y)) = a(g(f(x),f(y))) & f(x*y) = a(f(x))*f(y). \n  ', 'names': ['(Weak) post-Hom-Lie algebra'], 'bib_s': ['1610.02845'], 'msc_s': [['16W10', '15A78', '16D10', '16D20']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2016]}

@@ -1,0 +1,1 @@
+{'label': 654, 'axioms': '   x*((y*z)*(y*x)) = z. \n  ', 'names': ['(Weak) Neumann quasigroup'], 'bib_s': ['1809.07095'], 'msc_s': [['20N05']], 'contained': [167, 655], 'contains': [], 'total_citations': [4], 'published_year': [2018]}

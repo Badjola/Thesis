@@ -1,0 +1,1 @@
+{'label': 292, 'axioms': '  a(f(u),a(v,w)) = a(a(u,v),f(w)).\n  ', 'names': ['color Hom-associative algebra'], 'bib_s': ['1204.5155'], 'msc_s': [['17B61', '17B75', '17B56']], 'contained': [], 'contains': [], 'total_citations': [14], 'published_year': [2012]}

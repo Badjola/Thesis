@@ -1,0 +1,60 @@
+Generalizes:   orthocomplemented lattice
+ 
+Theory used:
+   x*(y*z)=(x*y)*z.
+    x+(y+z) = (x+y)+z.
+    x*y=y*x.
+    x+y=y+x.
+    x*(y+x)=x.
+    x+(y*x)=x.
+    1*x=x.
+    0+x=x.
+    (a(x*y)) = a(x)+a(y).
+    a(x+y)=a(x)*a(y).
+    a(a(x)*a(y)) = x+y.
+    a(a(x)+a(y)) = x*y.
+    x*a(x) = 0.
+    x+a(x) = 1. 
+  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = (a((x + x)) + f2((y + x))).
+                    x \ y = (a(g1(y)) * a(x)).
+                    x / y = g2(((x * x) * a((x * y)))).
+                    
+Axioms Satisfied by that Theory:
+x / x = y / y.
+x v (y / y) = x v x.
+(x / x) / y = z / z.
+x v ((y / y) / z) = x v x.
+(x / x) / y = (z / z) / u.
+x v (y / y) = x v (z / z).
+(x / x) v y = (z / z) v u.
+((x / x) v y) \ z = u / u.
+x \ (y / y) = x \ (z / z).
+((x / x) \ y) \ y = z / z.

@@ -1,0 +1,1 @@
+{'label': 841, 'axioms': '   ((x*y)*z) + (x*(y*z)) = 0. \n  ', 'names': ['(Weak) antiassociative algebra'], 'bib_s': ['2007.06736'], 'msc_s': [['16T25', '05C25', '16S99', '16Z05']], 'contained': [], 'contains': [825], 'total_citations': [2], 'published_year': [2020]}

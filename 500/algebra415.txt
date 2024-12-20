@@ -1,0 +1,1 @@
+{'label': 415, 'axioms': '     0*x = x & x = x*0.\n        x*y=y*x.\n        a(a(x)) = x.\n        a(x*y)=a(y)*a(x).\n        f(a(x)*x) = f(x)*f(x). \n  ', 'names': ['(Weak) Algebra'], 'bib_s': ['1504.02730'], 'msc_s': [['46L05', '06B35', '03G05', '06E15', '06C15']], 'contained': [], 'contains': [], 'total_citations': [12], 'published_year': [2015]}

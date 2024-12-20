@@ -1,0 +1,1 @@
+{'label': 248, 'axioms': '    a(x,x) = 0 & a(x,y) = a(y,x). \n  ', 'names': ['(Weak) similarity network'], 'bib_s': ['1011.5696'], 'msc_s': [['81P45']], 'contained': [], 'contains': [307], 'total_citations': [10], 'published_year': [2010]}

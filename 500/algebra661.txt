@@ -1,0 +1,1 @@
+{'label': 661, 'axioms': '    a(x)*(y*z) = (x*y)*a(z). \n  ', 'names': ['(Weak) Hom-associative rho algebra'], 'bib_s': ['1810.13298'], 'msc_s': [['53A45', '53B05', '17B61', '53D05']], 'contained': [], 'contains': [844], 'total_citations': [0], 'published_year': [2018]}

@@ -1,0 +1,1 @@
+{'label': 444, 'axioms': '   a(u*x) = (u*u)*a(x).\n    a(x+y) = (a(x)+a(y)) + f(x,y). \n  ', 'names': ['(Weak) quadratic module'], 'bib_s': ['1509.01039'], 'msc_s': [['15A03', '15A09', '15A15', '16Y60']], 'contained': [], 'contains': [], 'total_citations': [9], 'published_year': [2015]}

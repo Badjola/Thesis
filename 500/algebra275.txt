@@ -1,0 +1,1 @@
+{'label': 275, 'axioms': '  x*(y+z) = x*(y*z) & (x*y)+z = (x+y)+z.\n  x+(y+z) = (x+y)+z.\n  x*(y*z) = (x*y)*z.\n  x+(y*z) = (x+y)*z. \n  ', 'names': ['Associative dialgebra (or diassociative algebra)'], 'bib_s': ['1108.0505'], 'msc_s': [['17B69', '17A32']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2011]}

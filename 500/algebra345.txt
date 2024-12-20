@@ -1,0 +1,1 @@
+{'label': 345, 'axioms': '    u*(x+a(y)) = (u*x) + (a(u*y)).\n      (u+a(v))*x = (u*x) + (a(v*x)). \n      u*(v*x) = (u*v)*x.\n      0*x=x.  \n  ', 'names': ['(Weak) Riesz MV-algebra'], 'bib_s': ['1309.1575'], 'msc_s': [['06D35', '03B50']], 'contained': [], 'contains': [], 'total_citations': [52], 'published_year': [2013]}

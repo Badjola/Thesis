@@ -1,0 +1,1 @@
+{'label': 57, 'axioms': '   a(u*v) = u*a(v). \n  ', 'names': ['GNS map'], 'bib_s': ['math0309338'], 'msc_s': [['20G42']], 'contained': [], 'contains': [], 'total_citations': [159], 'published_year': [2003]}

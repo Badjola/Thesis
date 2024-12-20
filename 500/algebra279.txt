@@ -1,0 +1,1 @@
+{'label': 279, 'axioms': '  ((x*y)*z) + (x*(y*z)) = ((y*x)*z) + (y*(x*z)). \n  ', 'names': ['(Weak) Left-symmetric algebra'], 'bib_s': ['1109.1344'], 'msc_s': [['17B62']], 'contained': [], 'contains': [356, 413], 'total_citations': [31], 'published_year': [2011]}

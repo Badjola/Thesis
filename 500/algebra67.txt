@@ -1,0 +1,1 @@
+{'label': 67, 'axioms': ' ((x*x = x*y) & (y*y = y*x)) -> x = y.\n ((x*x = y*x) & (y*y = x*y)) -> x=y. ', 'names': ['(Weak) Separative Semigroup'], 'bib_s': ['math0311414'], 'msc_s': [['20M10']], 'contained': [68], 'contains': [167, 605, 798], 'total_citations': [7], 'published_year': [2003]}

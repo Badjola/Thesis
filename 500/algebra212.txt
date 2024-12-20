@@ -1,0 +1,1 @@
+{'label': 212, 'axioms': '   y*y = 0.\n    (((x*x)*y) + ((x*y)*x)) + (y*(x*x)) = 0. \n  ', 'names': ['(Weak) Algebra BV'], 'bib_s': ['0912.4895'], 'msc_s': [['18G10']], 'contained': [], 'contains': [], 'total_citations': [17], 'published_year': [2009]}

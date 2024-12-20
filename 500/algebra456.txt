@@ -1,0 +1,1 @@
+{'label': 456, 'axioms': '  ((x*y)*z) + (y*(x*z)) = ((y*x)*z) + (x*(y*z)).\n  ', 'names': ['Pre-Lie algebra'], 'bib_s': ['1511.06859'], 'msc_s': [['81T18', '17B81', '16T30', '35J08']], 'contained': [], 'contains': [], 'total_citations': [3], 'published_year': [2015]}

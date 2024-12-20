@@ -1,0 +1,1 @@
+{'label': 501, 'axioms': '   a(a(x,y,z),u,v) = a(x,y,a(z,u,v)).\n    a(x,x,y) = y & y = a(y,x,x). \n  ', 'names': ['heap'], 'bib_s': ['1610.00370'], 'msc_s': [['03E15']], 'contained': [50, 52, 567], 'contains': [], 'total_citations': [6], 'published_year': [2016]}

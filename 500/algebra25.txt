@@ -1,0 +1,1 @@
+{'label': 25, 'axioms': ' u*(v+w) = (u*v)+(u*w). \n   u+(v*w) = (u+v)*(u+w). \n  ', 'names': ['Distributive Lattice'], 'bib_s': ['math0204116'], 'msc_s': [['03E50', '06B35', '06F30', '54A35', '54D45']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2002]}

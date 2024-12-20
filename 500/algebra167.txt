@@ -1,0 +1,1 @@
+{'label': 167, 'axioms': '   (x*y = x*z -> y = z) & (y*x = z*x -> y=z).  \n  ', 'names': ['Cancellation groupoid'], 'bib_s': ['0811.1725'], 'msc_s': [['20N05']], 'contained': [291, 67, 794], 'contains': [622, 654], 'total_citations': [27], 'published_year': [2008]}

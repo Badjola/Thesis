@@ -1,0 +1,49 @@
+Generalizes:   double semigroup
+ 
+Theory used:
+ (x*y)*z = x*(y*z). 
+ (x+y)+z = x+(y+z). 
+  (x*y)+(z*w) = (x+z)*(y+w). 
+  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = f2((f1(y) * f1(x))).
+                    x \ y = (g1((x * x)) + (x + y)).
+                    b(x) = f1(((x + x) + g1(x))).
+                    
+Axioms Satisfied by that Theory:
+b(x v y) = b(x) v b(y).
+(x v y) v z = x v (y v z).
+(x v x) \ (y v z) = (x \ y) v (x \ z).
+(x \ (y v z)) v (x \ u) = (x \ y) v (x \ (z v u)).
+(x \ (y v z)) v (u \ w) = (x \ y) v (u \ (z v w)).
+b(x \ (y v z)) v b(x \ u) = b(x \ y) v b(x \ (z v u)).
+b(x \ (y v z)) v b(u \ w) = b(x \ y) v b(u \ (z v w)).
+(x \ (y v z)) v (u \ b(w)) = (x \ y) v (u \ (z v b(w))).
+(x \ b(y)) v (z \ (u v w)) = (x \ (b(y) v u)) v (z \ w).
+(x \ (y \ (z v u))) v b(w) = (x \ ((y \ z) v u)) v b(w).

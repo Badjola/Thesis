@@ -1,0 +1,1 @@
+{'label': 842, 'axioms': '   x*y=y*x.\n    (((x*y)*z) + ((z*x)*y)) + ((y*z)*x) = 0. \n  ', 'names': ['(Weak) JJ algebra'], 'bib_s': ['2007.06736'], 'msc_s': [['16T25', '05C25', '16S99', '16Z05']], 'contained': [430, 53], 'contains': [], 'total_citations': [2], 'published_year': [2020]}

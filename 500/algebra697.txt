@@ -1,0 +1,1 @@
+{'label': 697, 'axioms': '   x * a(0) = a(0) & x+a(1) = a(1).\n  ', 'names': ['(Weak) Bounded lattice'], 'bib_s': ['1902.06378'], 'msc_s': [['76T99', '65D18', '06E99']], 'contained': [], 'contains': [870], 'total_citations': [0], 'published_year': [2019]}

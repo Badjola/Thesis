@@ -1,0 +1,1 @@
+{'label': 834, 'axioms': '   (u*x)+u = (x*u)+u.\n    (x*x)+u = u+x.\n   ', 'names': ['(Weak) Multiplicative Hom-coassociative coalgebra'], 'bib_s': ['2007.06053'], 'msc_s': [['17B38', '17B61', '16T10']], 'contained': [], 'contains': [420, 87], 'total_citations': [0], 'published_year': [2020]}

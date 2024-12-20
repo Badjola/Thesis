@@ -1,0 +1,1 @@
+{'label': 530, 'axioms': '    x*0 = 0 & 0*x = 0.\n      a(x)*y = x*a(y) & x*a(y) = a(x*y).\n      x*(y+z) = (x*y)+(x*z) & (x+y)*z = (x*z)+(y*z). \n  ', 'names': ['(Weak) F-ring'], 'bib_s': ['1701.02178'], 'msc_s': [['16Y99', '11G99']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2017]}

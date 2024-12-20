@@ -1,0 +1,1 @@
+{'label': 482, 'axioms': '   a(x*y) = (a(x)*y) + (x*a(y)). \n  ', 'names': ['(Weak) Derivation Linear map'], 'bib_s': ['1606.03119'], 'msc_s': [['16D70']], 'contained': [], 'contains': [290], 'total_citations': [3], 'published_year': [2016]}

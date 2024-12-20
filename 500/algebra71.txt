@@ -1,0 +1,1 @@
+{'label': 71, 'axioms': ' (u*v)+(w*x) = (u+w)*(v+x).\n x*(y*z) = (x*y)*z.\n (x+y)+z = x+(y+z). ', 'names': ['(Weak) Trialgebra'], 'bib_s': ['math0402061'], 'msc_s': [['81T30', '81T40']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2004]}

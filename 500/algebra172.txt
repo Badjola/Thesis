@@ -1,0 +1,1 @@
+{'label': 172, 'axioms': '   (a(a(x,y),z) + a(a(z,x),y)) + a(a(y,z),x) = ( (f(a(x,y))*z) + (f(a(z,x))*y) ) + (f(a(y,z))*x). \n  ', 'names': ['(Weak) Multiplicative Omega-Lie algebra'], 'bib_s': ['0812.0080'], 'msc_s': [['17A60', '17B05', '17B40']], 'contained': [], 'contains': [], 'total_citations': [13], 'published_year': [2008]}

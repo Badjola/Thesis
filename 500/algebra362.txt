@@ -1,0 +1,1 @@
+{'label': 362, 'axioms': '   a(x,u*y) = (u*a(x,y)) + (f(x)*(u*y)). \n  ', 'names': ['(Weak) Lie-Rinehart algebra'], 'bib_s': ['1401.7760'], 'msc_s': [['14C30', '14F10', '14F40']], 'contained': [], 'contains': [], 'total_citations': [10], 'published_year': [2014]}

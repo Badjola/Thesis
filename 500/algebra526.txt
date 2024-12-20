@@ -1,0 +1,1 @@
+{'label': 526, 'axioms': '  x*y = y*x. \n     ((a(x,y)*z) + (y*(x*z))) + (f(x,y)*z) = x*(y*z). \n     x*(a(y,z)) = (a(x*y,z)) + a(y,x*z).  ', 'names': ['(Weak) Commutative post-Lie algebra'], 'bib_s': ['1701.00200'], 'msc_s': [['17A30', '17A42', '17B60', '18D50']], 'contained': [], 'contains': [], 'total_citations': [9], 'published_year': [2017]}

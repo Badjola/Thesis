@@ -1,0 +1,1 @@
+{'label': 188, 'axioms': '  1*((x*y)*z) = (x*z)*(y*z). ', 'names': ['(Weak) combinatory algebra'], 'bib_s': ['0904.4756'], 'msc_s': [['03B40']], 'contained': [], 'contains': [470], 'total_citations': [16], 'published_year': [2009]}

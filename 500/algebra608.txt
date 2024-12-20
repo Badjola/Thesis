@@ -1,0 +1,1 @@
+{'label': 608, 'axioms': '   a(f(u),a(v,w)) = a(a(u,v),f(w)). \n  ', 'names': ['Hom-associative superalgebra'], 'bib_s': ['1803.01354'], 'msc_s': [['17A60']], 'contained': [], 'contains': [], 'total_citations': [7], 'published_year': [2018]}

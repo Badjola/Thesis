@@ -1,0 +1,1 @@
+{'label': 194, 'axioms': '    a(x*v,w) = a(v,f(x)*w).\n  ', 'names': ['Hilbert P-module'], 'bib_s': ['0906.4311'], 'msc_s': [['46L37']], 'contained': [], 'contains': [], 'total_citations': [7], 'published_year': [2009]}

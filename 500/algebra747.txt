@@ -1,0 +1,1 @@
+{'label': 747, 'axioms': '  x*(y*z)=(x*y)*z.\n  x+(y+z)=(x+y)+z.\n x*(y*z) = (x*y)+z. ', 'names': ['(Weak) graded diassociative algebra'], 'bib_s': ['1907.08255'], 'msc_s': [['16T15', '17A30', '16E40', '18G55']], 'contained': [853], 'contains': [], 'total_citations': [3], 'published_year': [2019]}

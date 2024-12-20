@@ -1,0 +1,1 @@
+{'label': 398, 'axioms': '    a(f(u),a(v,w)) = (a(a(u,v),f(w))) * (a(f(v),a(u,w))).\n  ', 'names': ['hom-Leibniz algebra'], 'bib_s': ['1411.6839'], 'msc_s': [['17B99', '55U15']], 'contained': [], 'contains': [], 'total_citations': [87], 'published_year': [2014]}

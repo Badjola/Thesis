@@ -1,0 +1,1 @@
+{'label': 686, 'axioms': '     (a(f(x),a(y,z)) * a(f(y),a(z,x))) * a(f(z),a(x,y)) = 0. \n  ', 'names': ['Hom-Lie algebra'], 'bib_s': ['1902.07360'], 'msc_s': [['16T25', '17B62', '17B99']], 'contained': [], 'contains': [], 'total_citations': [3], 'published_year': [2019]}

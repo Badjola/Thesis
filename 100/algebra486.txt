@@ -1,0 +1,1 @@
+{'label': 486, 'axioms': '    (x*y)*a(z) = (x*z)*(y*z).   \n  ', 'names': ['Twisted-Shelf'], 'bib_s': ['1606.00353'], 'msc_s': [['20N02', '17A30', '20G10', '55N35']], 'contained': [], 'contains': [], 'total_citations': [3], 'published_year': [2016]}

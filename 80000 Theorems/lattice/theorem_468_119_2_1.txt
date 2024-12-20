@@ -1,0 +1,54 @@
+Generalizes:   Lattice
+ 
+Theory used:
+  (x+y)+z = x+(y+z).
+  (x*y)*z = x*(y*z).
+  x+y=y+x.
+  x*y=y*x.
+  x+x=x.
+  x*x=x.
+  x*(y+x) = x.
+  x+(y*x) = x. 
+  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = (g2(x) * f1((y + y))).
+                    x \ y = ((y * y) + f2(f2(x))).
+                    b(x) = (g1(f2(x)) + (x * x)).
+                    
+Axioms Satisfied by that Theory:
+x \ (x \ y) = x \ y.
+(x v (y v z)) \ z = z.
+b(x \ y) = b(x) \ b(y).
+x \ (y \ z) = y \ (x \ z).
+x \ (b(x) \ y) = b(x) \ y.
+(x v (y v z)) \ b(z) = b(z).
+b(x v (y v z)) \ b(z) = b(z).
+(x v b(y v z)) \ b(z) = b(z).
+x \ (b(b(x)) \ y) = b(b(x)) \ y.
+x \ (y \ (x \ z)) = y \ (x \ z).

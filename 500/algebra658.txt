@@ -1,0 +1,1 @@
+{'label': 658, 'axioms': '   (x*y)+(y*x) = 0. \n  ', 'names': ['(Weak) Prelinear Residuated lattice'], 'bib_s': ['1809.07646'], 'msc_s': [['06B23', '06B99', '16Y60']], 'contained': [], 'contains': [153], 'total_citations': [1], 'published_year': [2018]}

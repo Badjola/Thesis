@@ -1,0 +1,1 @@
+{'label': 176, 'axioms': '  x*(y+z) = (x*y)+(x*z). \n  ', 'names': ['(Weak) Distributive ortholattice'], 'bib_s': ['0812.2702'], 'msc_s': [['03B60', '03G12', '06C15', '68T27']], 'contained': [], 'contains': [250, 489, 572, 767, 79], 'total_citations': [5], 'published_year': [2008]}

@@ -1,0 +1,52 @@
+Generalizes:    Inverse monoid
+ 
+Theory used:
+ ( (((x*z)*x = x & (z*x)*z = z ) & (x*w)*x = x ) & (w*x)*w = w) -> z = w. 
+ (x*a(x))*x=x. 
+ (a(x)*x)*a(x)=a(x).
+ x*(y*z) = (x*y)*z.
+ 1*x=x.
+ x*1=x. 
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = (a(a(y)) * f2(f1(x))).
+                    x \ y = ((x * y) * a(f1(y))).
+                    x / y = (a((y * y)) * f1((x * y))).
+                    b(x) = a(((x * x) * g1(x))).
+                    c(x) = (a(x) * g2((x * x))).
+                    
+Axioms Satisfied by that Theory:
+(x v y) \ z = (x \ z) v y.
+(x v y) v z = x v (y v z).
+x v (y v x) != x | y v (x v y) != y | x v (z v x) != x | z v (x v z) != z | z = y.
+x v (y v (z v x)) != x | y v (z v (x v (y v z))) != y v z | x v (u v x) != x | u v (x v u) != u | y v z = u.
+x v (y v (z v (x v y))) != x v y | z v (x v (y v z)) != z | x v (y v (u v (x v y))) != x v y | u v (x v (y v u)) != u | u = z.
+x v (y v (z v x)) != x | y v (z v (x v (y v z))) != y v z | x v (u v (w v x)) != x | u v (w v (x v (u v w))) != u v w | y v z = u v w.
+x v (y v (z v (u v x))) != x | y v (z v (u v (x v (y v (z v u))))) != y v (z v u) | x v (w v x) != x | w v (x v w) != w | y v (z v u) = w.
+x v (y v (z v (u v (x v y)))) != x v y | z v (u v (x v (y v (z v u)))) != z v u | x v (y v (w v (x v y))) != x v y | w v (x v (y v w)) != w | z v u = w.
+x v (y v (z v (u v (x v (y v z))))) != x v (y v z) | u v (x v (y v (z v u))) != u | x v (y v (z v (w v (x v (y v z))))) != x v (y v z) | w v (x v (y v (z v w))) != w | w = u.

@@ -1,0 +1,1 @@
+{'label': 656, 'axioms': '    x*(y*x) = 0.\n      (x*(y*z)) * ((x*y)*(x*z)) = 0.\n      (x*y = 0 & y*x = 0) -> x=y. \n  ', 'names': ['(Weak) Hilbert algebra'], 'bib_s': ['1809.02171'], 'msc_s': [['06D20', '18B35', '18A22']], 'contained': [565, 729, 821], 'contains': [565, 618], 'total_citations': [3], 'published_year': [2018]}

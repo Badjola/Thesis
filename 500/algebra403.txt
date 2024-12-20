@@ -1,0 +1,1 @@
+{'label': 403, 'axioms': '    a(u*v) = a(u)*a(v). \n       (x*y)*a(z) = a(x)*(y*z). \n  ', 'names': ['Hom-associative superalgebra'], 'bib_s': ['1501.00229'], 'msc_s': [['17B61', '17B30', '17B75']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2015]}

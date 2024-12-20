@@ -1,0 +1,1 @@
+{'label': 198, 'axioms': '   a(a(x,y),a(z,x)) = a(a(x,a(y,z)),x). \n  ', 'names': ['(Weak) Left Moufang algebra'], 'bib_s': ['0907.1548'], 'msc_s': [['17A30', '16E40']], 'contained': [], 'contains': [728], 'total_citations': [13], 'published_year': [2009]}

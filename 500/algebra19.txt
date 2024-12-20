@@ -1,0 +1,1 @@
+{'label': 19, 'axioms': '    u*v = 0 -> a(u)*a(v) = 0. \n  ', 'names': ['(Weak) Separating Linear Map'], 'bib_s': ['math0106107'], 'msc_s': [['47L10', '46H40', '46B28']], 'contained': [], 'contains': [195, 334, 523], 'total_citations': [56], 'published_year': [2001]}

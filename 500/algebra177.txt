@@ -1,0 +1,1 @@
+{'label': 177, 'axioms': '   (x*y)*z = x*(y*z).\n    (x+y)*z = (x*z)+(y*z).\n    x*(y + a(y)) = (x*y) + (x*a(y)).\n    1*x=x.\n    x*0 = 0 & 0 = 0*x.  \n  ', 'names': ['(Weak) Semimodule'], 'bib_s': ['0812.3496'], 'msc_s': [['15A03']], 'contained': [], 'contains': [596], 'total_citations': [170], 'published_year': [2008]}

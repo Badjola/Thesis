@@ -1,0 +1,1 @@
+{'label': 231, 'axioms': '  (x*y)*z = x*(y*z).\n  (x+y)+z = x+(y+z).\n  (x*y)+z = x*(y+z). \n  ', 'names': ['(Weak) duplicial algebra'], 'bib_s': ['1007.1547'], 'msc_s': [['16T30', '05E15', '05E05', '05C05']], 'contained': [766], 'contains': [], 'total_citations': [10], 'published_year': [2010]}

@@ -1,0 +1,1 @@
+{'label': 823, 'axioms': '   x+x=x.\n    x+y=y+x.\n    x+(y+z)=(x+y)+z.\n    a(a(x)) = x.\n    x*y = a(a(x)+a(y)).\n    x*(a(x)+y) = x*y.\n    0+x=x.\n    1=a(0).\n  ', 'names': ['involutive bisemilattice'], 'bib_s': ['2007.12440'], 'msc_s': [['60B99', '06E75']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2020]}

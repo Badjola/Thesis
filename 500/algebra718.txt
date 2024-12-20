@@ -1,0 +1,1 @@
+{'label': 718, 'axioms': '    a(f(x)) = f(a(x)).\n      a(g(x,y,z)) = g(a(x),a(y),a(z)) &  f(g(x,y,z)) = g(f(x),f(y),f(z)). ', 'names': ['(Weak) 3-BiHom-Lie superalgebra'], 'bib_s': ['1905.04518'], 'msc_s': [['17A40', '17B70']], 'contained': [], 'contains': [], 'total_citations': [11], 'published_year': [2019]}

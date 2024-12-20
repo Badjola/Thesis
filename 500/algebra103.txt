@@ -1,0 +1,1 @@
+{'label': 103, 'axioms': '  u*(v*w) = (u*v)*w & (u*v)*w = u*(v+w).\n  (u+v)*w = u+(v*w).\n  (u+v)+w = u+(v+w) & u+(v+w) = (u*v)+w.\n  ', 'names': ['(Weak) Dialgebra '], 'bib_s': ['math0510544'], 'msc_s': [['17A32', '17A99', '17B35', '17B55']], 'contained': [], 'contains': [], 'total_citations': [13], 'published_year': [2005]}

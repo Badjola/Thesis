@@ -1,0 +1,1 @@
+{'label': 693, 'axioms': '  x*(0+y) = x*(y+0).\n      x*(y+y) = y*x.  ', 'names': ['(Weak) Hom-associative algebra'], 'bib_s': ['1902.02229'], 'msc_s': [['17B61', '17B56', '17B62']], 'contained': [], 'contains': [466], 'total_citations': [6], 'published_year': [2019]}

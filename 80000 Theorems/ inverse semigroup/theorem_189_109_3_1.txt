@@ -1,0 +1,50 @@
+Generalizes:    inverse semigroup
+ 
+Theory used:
+ x*(y*z) = (x*y)*z. 
+ ((((x*y)*x = x & (y*x)*y = y) & (x*z)*x = x) & (z*x)*z = z) -> y = z. 
+    (x*a(x))*x = x & (a(x)*x)*a(x) = a(x).
+  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = f1(((x * y) * a(g2(y)))).
+                    x \ y = (f2((x * x)) * a((y * y))).
+                    x / y = g2(a(a(g1((x * y))))).
+                    b(x) = (g1((x * x)) * g1(x)).
+                    
+Axioms Satisfied by that Theory:
+b(x / x) = b(x) / b(x).
+(x / y) / z = x / (y / z).
+b(x / (x / x)) = b(x) / (b(x) / b(x)).
+b(x / (y / (x / y))) = b(x / y) / b(x / y).
+x / (x / ((x \ y) v z)) = ((x / x) \ y) v z.
+x / (y / x) != x | y / (x / y) != y | x / (z / x) != x | z / (x / z) != z | z = y.
+x / (y / (z / x)) != x | y / (z / (x / (y / z))) != y / z | x / (u / x) != x | u / (x / u) != u | y / z = u.
+x / (y / (z / (x / y))) != x / y | z / (x / (y / z)) != z | x / (y / (u / (x / y))) != x / y | u / (x / (y / u)) != u | u = z.
+x / (y / (z / x)) != x | y / (z / (x / (y / z))) != y / z | x / (u / (w / x)) != x | u / (w / (x / (u / w))) != u / w | y / z = u / w.
+x / (y / (z / (u / x))) != x | y / (z / (u / (x / (y / (z / u))))) != y / (z / u) | x / (w / x) != x | w / (x / w) != w | y / (z / u) = w.

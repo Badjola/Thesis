@@ -1,0 +1,1 @@
+{'label': 605, 'axioms': '  x*x=x.\n    x*(x*y) = y.\n    x*(y*z) = (x*y)*(x*z).\n    x*y=y -> x=y. ', 'names': ['(Weak) Topological symmetric space'], 'bib_s': ['1802.09351'], 'msc_s': [['22E65', '20G44', '22F30']], 'contained': [146, 515, 516, 67, 781, 91], 'contains': [], 'total_citations': [1], 'published_year': [2018]}

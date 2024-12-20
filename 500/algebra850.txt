@@ -1,0 +1,1 @@
+{'label': 850, 'axioms': '   x+y=y+x.\n    (((x*y)+0)*(x+0))+0=x.\n    (((x*y)+0)*(x+0))*x = x*y.\n    (x*y)+(x+0) = ((x*y)+0)*(x+0). \n  ', 'names': ['(Weak) Ring-like structure of events'], 'bib_s': ['2008.04961'], 'msc_s': [['06C15', '03G12', '81P16']], 'contained': [178, 342, 53, 822], 'contains': [], 'total_citations': [1], 'published_year': [2020]}

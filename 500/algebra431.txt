@@ -1,0 +1,1 @@
+{'label': 431, 'axioms': '    x*(x*0) = x*(0*x).\n  ', 'names': ['(Weak) Associative algebra'], 'bib_s': ['1507.06171'], 'msc_s': [['13P10', '18G10']], 'contained': [], 'contains': [171, 186, 260, 519, 729], 'total_citations': [0], 'published_year': [2015]}

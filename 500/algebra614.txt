@@ -1,0 +1,1 @@
+{'label': 614, 'axioms': '    a(x*y) = x*a(y). \n  ', 'names': ['Negation map'], 'bib_s': ['1803.08093'], 'msc_s': [['15A75', '16Y60', '15A18', '12K10', '14T10']], 'contained': [], 'contains': [], 'total_citations': [16], 'published_year': [2018]}

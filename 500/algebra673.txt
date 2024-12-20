@@ -1,0 +1,1 @@
+{'label': 673, 'axioms': '  x*((w*y)+z) = w*((x*y)+(x*z)).\n  (x*y)*z = (x*z)+(y*z).\n  ', 'names': ['(Weak) Algebra'], 'bib_s': ['1811.08333'], 'msc_s': [['46L99']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2018]}

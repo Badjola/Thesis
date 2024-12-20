@@ -1,0 +1,1 @@
+{'label': 592, 'axioms': '   a(x)*(y*z) = a(x)*(y+z).\n    (x+y)*a(z) = a(x)+(y*z).\n    (x+y)+a(z) = (x*y)+a(z). \n  ', 'names': ['(Weak) Hom-associative dialgebra'], 'bib_s': ['1801.05683'], 'msc_s': [['16T25', '05C25', '16S99', '16Z05']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2018]}

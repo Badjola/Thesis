@@ -1,0 +1,1 @@
+{'label': 504, 'axioms': '   a(z)*f(x,y) = f(z*x,a(y)) + f(a(x),z*y).\n    ((a(z)*(y*x)) + ((y*z)*a(x))) + (f(y,z)*a(x)) = (a(y)*(z*x)) + ((z*y)*a(x)).   \n  ', 'names': ['(Weak) Hom-post-Lie algebra'], 'bib_s': ['1610.02845'], 'msc_s': [['16W10', '15A78', '16D10', '16D20']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2016]}

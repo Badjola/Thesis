@@ -1,0 +1,1 @@
+{'label': 637, 'axioms': '    (x*y)*a(z) = a(x)*(y*z). \n  ', 'names': ['Hom-associative algebra'], 'bib_s': ['1807.10944'], 'msc_s': [['17A99', '16G99', '17B01', '17B10', '17B30']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2018]}

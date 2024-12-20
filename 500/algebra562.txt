@@ -1,0 +1,1 @@
+{'label': 562, 'axioms': ' x + z = y + z -> x + z = (x * y) + z. \n x*z = y*z -> x*z = (x+y)*z. ', 'names': ['(Weak) Lattice'], 'bib_s': ['1707.07574'], 'msc_s': [['16G10', '16G20', '05E10', '05E45', '06B10', '52B11']], 'contained': [], 'contains': [563, 87], 'total_citations': [31], 'published_year': [2017]}

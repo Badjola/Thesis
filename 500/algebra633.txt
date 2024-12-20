@@ -1,0 +1,1 @@
+{'label': 633, 'axioms': '   a(u*v) = a(u)*a(v).\n  ', 'names': ['(Weak) Multiplicative Hom algebra'], 'bib_s': ['1807.10944'], 'msc_s': [['17A99', '16G99', '17B01', '17B10', '17B30']], 'contained': [], 'contains': [232, 443, 844], 'total_citations': [4], 'published_year': [2018]}

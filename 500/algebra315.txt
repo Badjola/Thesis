@@ -1,0 +1,1 @@
+{'label': 315, 'axioms': ' (a(x)*a(y)) = (a(x*a(y))) + (a(y*a(x))). ', 'names': ['(Weak) Rota-Baxter algebra'], 'bib_s': ['1210.2950'], 'msc_s': [['65L10', '34B05', '13P10', '54J05', '45P05', '68W30']], 'contained': [], 'contains': [], 'total_citations': [58], 'published_year': [2012]}

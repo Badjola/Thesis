@@ -1,0 +1,1 @@
+{'label': 849, 'axioms': 'x+(y+z) = (x+y)+z. \n 0+x = x. \n x+0 = x. \n x+f(x) = 0. \n f(x)+x = 0. \n x+y = y+x. \n x*(y*z) = (x*y)*z. \n    (x*(y+z))+x = ((x*y)+(x*z))+a(x). \n  ', 'names': [' Truss'], 'bib_s': ['2008.06033'], 'msc_s': [['16A22', '16S37', '14A22']], 'contained': [], 'contains': [], 'total_citations': [6], 'published_year': [2020]}

@@ -1,0 +1,1 @@
+{'label': 311, 'axioms': '   a(f(x)) = x.\n    a(x*y) = (a(x)*y) + (x*a(y)).\n    f(a(x)*y) + f(x*a(y)) = (x*y). \n  ', 'names': ['(Weak) integro-differential algebra'], 'bib_s': ['1209.1310'], 'msc_s': [['34B10', '13N10', '44A40']], 'contained': [314], 'contains': [], 'total_citations': [2], 'published_year': [2012]}

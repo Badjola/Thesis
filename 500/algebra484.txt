@@ -1,0 +1,1 @@
+{'label': 484, 'axioms': '   a(y*x)+a(x+y) = a(y).\n    a(x+y)*a(y*x)=a(x).\n    a(a(x)) = x.\n  ', 'names': ['(Weak) Twisted Biquandle'], 'bib_s': ['1606.01446'], 'msc_s': [['57M25', '57M27']], 'contained': [], 'contains': [], 'total_citations': [10], 'published_year': [2016]}

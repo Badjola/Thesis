@@ -1,0 +1,1 @@
+{'label': 805, 'axioms': '  a(x,y,(a(x,z,x))) = a(x,(a(y,x,z)),x). \n     a((a(x,y,x)),y,z) = a(x,(a(y,x,y)),z). \n     a(x,(a(y,(a(x,z,x)),y)),x) = (a((a(x,y,x)),z,x),x).\n  ', 'names': ['(Weak) Jordan triple system'], 'bib_s': ['2004.05293'], 'msc_s': [['17B60', '17C50']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2020]}

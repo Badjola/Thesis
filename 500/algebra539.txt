@@ -1,0 +1,1 @@
+{'label': 539, 'axioms': '  x*x=x.\n (x*y)*y=x.\n (x*y)*z = (x*z)*(x*y).  ', 'names': ['(Weak) kei'], 'bib_s': ['1703.09155'], 'msc_s': [['03C05', '08B05', '08B10', '08B99', '08C05']], 'contained': [236, 274, 283, 372, 376, 446, 516, 616, 813, 882], 'contains': [], 'total_citations': [5], 'published_year': [2017]}

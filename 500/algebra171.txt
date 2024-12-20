@@ -1,0 +1,1 @@
+{'label': 171, 'axioms': '    x*(y*z) = (x*y)*z.\n      x = x*0. \n  ', 'names': ['(Weak) Right act'], 'bib_s': ['0811.1336'], 'msc_s': [['16D40', '16P90', '16S10', '20E05', '20M30']], 'contained': [431], 'contains': [598, 774], 'total_citations': [5], 'published_year': [2008]}

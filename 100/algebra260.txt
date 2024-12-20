@@ -1,0 +1,1 @@
+{'label': 260, 'axioms': ' x+(y+z) = (x+y)+z. \n 1+x = x. \n x+1 = x. \n x+y = y+x. \n x*x = 1. \n (x*y)+x = (y*x)+y. \n x*(y*z) = (x+y)*z. \n ', 'names': [' hoop'], 'bib_s': ['1103.5943'], 'msc_s': [['03B47', '03B50', '03C05', '06D35']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2011]}

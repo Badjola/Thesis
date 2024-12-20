@@ -1,0 +1,47 @@
+Generalizes:   Symmetric system
+ 
+Theory used:
+   x*(x*y) = y.
+    x*(y*z) = (x*y)*(x*z). 
+  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = (f1(y) * g1((y * x))).
+                    x \ y = g1((g1(y) * f1(x))).
+                    x / y = (g1((x * y)) * g2(y)).
+                    b(x) = f2(f2(f2((x * x)))).
+                    c(x) = (g2(f1(x)) * f1(x)).
+                    
+Axioms Satisfied by that Theory:
+b(x v x) = b(x) v b(x).
+c(b(b(x))) = b(b(c(x))).
+c(b(b(x)) v b(b(y))) = b(b(c(x v y))).
+x v b(b(y v z)) = x v (b(b(y)) v b(b(z))).
+b(b(x v y)) / z = (b(b(x)) v b(b(y))) / z.
+x v b(b(y / z)) = x v (b(b(y)) / b(b(z))).
+b(b(x / y)) / z = (b(b(x)) / b(b(y))) / z.

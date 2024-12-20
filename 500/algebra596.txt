@@ -1,0 +1,1 @@
+{'label': 596, 'axioms': '   x+(y+z) = (x+y)+z.\n    x+y = y+x.\n    x+0=x.\n    x+a(x) = 0.\n    x*(y*z) = (x*y)*z.\n    x*1 = x & x = 1*x.\n    x*(y+z) = (x*y)+(x*z) & (x+y)*z = (x*z)+(y*z).\n  ', 'names': ['Unitary ring'], 'bib_s': ['1801.02088'], 'msc_s': [['08A99']], 'contained': [177, 208, 337], 'contains': [185], 'total_citations': [5], 'published_year': [2018]}

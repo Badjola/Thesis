@@ -1,0 +1,1 @@
+{'label': 454, 'axioms': '  ((x*y)*z) + (x*(z*y)) = ((x*z)*y) + (x*(y*z)). \n  ', 'names': ['(Weak) Prelie algebra'], 'bib_s': ['1511.07403'], 'msc_s': [['16T05', '16T30', '16S30', '16W10']], 'contained': [], 'contains': [750], 'total_citations': [12], 'published_year': [2015]}

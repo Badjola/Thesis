@@ -1,0 +1,1 @@
+{'label': 262, 'axioms': '   a(x,y,z) = ((x*y)*z) + (x*(y*z)).\n    a(x,y,z) = a(y,x,z). \n  ', 'names': ['(Weak) Pre-Lie algebra'], 'bib_s': ['1104.0282'], 'msc_s': [['16W30', '17A30', '17B60']], 'contained': [], 'contains': [], 'total_citations': [14], 'published_year': [2011]}

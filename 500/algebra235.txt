@@ -1,0 +1,1 @@
+{'label': 235, 'axioms': '    (a(x)*y = y*a(x) & a(x*y) = a(y*x)) & a(x)*a(y) = a(a(x)*y). \n  ', 'names': ['(Weak) algebra with trace'], 'bib_s': ['1008.3103'], 'msc_s': [['57M27', '57M05', '18E05']], 'contained': [490, 623], 'contains': [], 'total_citations': [23], 'published_year': [2010]}

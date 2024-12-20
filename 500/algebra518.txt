@@ -1,0 +1,1 @@
+{'label': 518, 'axioms': '  x*y=y*x. ', 'names': ['(Weak) Commutative S-Structure'], 'bib_s': ['1611.06838'], 'msc_s': [['08A99']], 'contained': [515, 721], 'contains': [804], 'total_citations': [0], 'published_year': [2016]}

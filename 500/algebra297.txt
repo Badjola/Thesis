@@ -1,0 +1,1 @@
+{'label': 297, 'axioms': '  a(a(u,v),f(u)) = a(f(u),a(v,u)).\n  ', 'names': ['(Weak) Flexible Hom-algebra'], 'bib_s': ['1205.0683'], 'msc_s': [['17B56']], 'contained': [], 'contains': [], 'total_citations': [14], 'published_year': [2012]}

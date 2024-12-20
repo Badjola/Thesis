@@ -1,0 +1,1 @@
+{'label': 208, 'axioms': '   (u+v)+w = u+(v+w).\n    u+v=v+u.\n    u+0 = u.\n    u+a(u) = 0.\n    1*u=u.\n    u*(v+w)=(u*v) + (u*w).\n    (u+v)*w = (u*w) + (v*w). \n  ', 'names': ['(Weak) K-Vectorial space'], 'bib_s': ['0911.4051'], 'msc_s': [['68Q42', '15A03', '15A69']], 'contained': [], 'contains': [596], 'total_citations': [20], 'published_year': [2009]}

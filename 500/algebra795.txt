@@ -1,0 +1,1 @@
+{'label': 795, 'axioms': '     a(u,u) = 0. \n         (a(u,a(v,w)) * a(v,a(w,u))) * a(w,a(u,v)) = 0. \n  ', 'names': ['Lie algebra'], 'bib_s': ['2002.08620'], 'msc_s': [['17B69', '11F22', '11F85', '20C20', '20C11']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2020]}

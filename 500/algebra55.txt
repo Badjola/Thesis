@@ -1,0 +1,1 @@
+{'label': 55, 'axioms': ' a(x*y,z) = (a(x,z)*y) + (x*a(y,z)).\n  a(x,y*z) = (y*a(x,z)) + (z*a(x,y)). \n  ', 'names': ['(Weak) Leibniz manifold'], 'bib_s': ['math0309263'], 'msc_s': [['70F25', '37J60', '53D20']], 'contained': [], 'contains': [], 'total_citations': [91], 'published_year': [2003]}

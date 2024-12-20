@@ -1,0 +1,1 @@
+{'label': 15, 'axioms': '  x*u = (a(u)*x) + f(u).\n  ', 'names': ['(Weak) Ore extension'], 'bib_s': ['math0103066'], 'msc_s': [['57R19', '57R20', '57R25']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2001]}

@@ -1,0 +1,1 @@
+{'label': 90, 'axioms': '  (u*v)+(w*x) = (u+w)*(v+x). \n  ', 'names': ['Trialgebra'], 'bib_s': ['hep-th0412161'], 'msc_s': [['58B32', '17A30']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2004]}

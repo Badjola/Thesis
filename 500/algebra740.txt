@@ -1,0 +1,1 @@
+{'label': 740, 'axioms': '  f(a(a(x)),f(y,f(x,x))) = f(f(a(x),y),a(f(x,x))). ', 'names': ['(Weak) Hom Jordan algebra'], 'bib_s': ['1906.04561'], 'msc_s': [['17C10', '17C20', '17C50', '17B10', '17A30']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2019]}

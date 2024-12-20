@@ -1,0 +1,1 @@
+{'label': 488, 'axioms': '    x*(y*z) = (x*y)*z.\n      x*y = y*x.\n      x*0 = x & x = 0*x. \n  ', 'names': ['Commutative monoid'], 'bib_s': ['1608.03128'], 'msc_s': [['68Q85']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2016]}

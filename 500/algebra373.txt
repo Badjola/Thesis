@@ -1,0 +1,1 @@
+{'label': 373, 'axioms': '   ((u*x)*y) + (x*(u*y)) = u*a(x,y).\n    ((x*u)*y) + (u*a(x,y)) = x*(u*y).\n    (a(x,y)*u) + (y*(x*u)) = x*(y*u).\n  ', 'names': ['(Weak) Bimodule of Leibniz algebra'], 'bib_s': ['1403.7888'], 'msc_s': [['17A32', '17B50']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2014]}

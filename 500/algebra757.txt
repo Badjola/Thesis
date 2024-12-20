@@ -1,0 +1,1 @@
+{'label': 757, 'axioms': '  a(x*y) = a(x)*y.\n f(x*y) = x*f(y).\n x*a(y) = f(x)*y.  ', 'names': ['(Weak) Multiplier'], 'bib_s': ['1909.00650'], 'msc_s': [['20J06', '20M18', '20M30', '20M50']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2019]}

@@ -1,0 +1,1 @@
+{'label': 79, 'axioms': ' x*(y*z) = (x*y)*z. \n x*(y*z) = (x*y)*(x*z).\n x*(y*z) = (x+y)*z.\n x*(y+z) = (x*y)+(x*z). ', 'names': ['ALD-system'], 'bib_s': ['math0407097'], 'msc_s': [['20F36', '20N02', '57M25', '57S05']], 'contained': [], 'contains': [], 'total_citations': [84], 'published_year': [2004]}

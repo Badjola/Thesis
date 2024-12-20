@@ -1,0 +1,1 @@
+{'label': 567, 'axioms': '   a(x,x,y) = y & y = a(y,x,x). \n  ', 'names': ['Maltsev'], 'bib_s': ['1709.08311'], 'msc_s': [['03D15']], 'contained': [], 'contains': [501], 'total_citations': [0], 'published_year': [2017]}

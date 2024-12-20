@@ -1,0 +1,1 @@
+{'label': 313, 'axioms': '    x*(y*z) = (x*y)*z & 0*v = v. \n  ', 'names': ['Left module over an algebra A'], 'bib_s': ['1210.1142'], 'msc_s': [['14B12', '16D20', '11G09', '14A22', '16T05']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2012]}

@@ -1,0 +1,1 @@
+{'label': 136, 'axioms': '  u+(v+w)=(u+v)+w & u+v = v+u.\n    (x*y)*z = x*(y*z) & 0*u = u. \n x*(y+z)=(x*y)+(x*z). \n (x+y)*z = (x*z)+(y*z). ', 'names': ['(Weak) Semi-vector space'], 'bib_s': ['0710.1313'], 'msc_s': [['15A69', '12K10', '16Y60']], 'contained': [502, 53], 'contains': [466], 'total_citations': [17], 'published_year': [2007]}

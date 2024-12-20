@@ -1,0 +1,1 @@
+{'label': 502, 'axioms': '   x*(u+v) = (x*(u))+(x*(v)). \n     (u+v)*x = (u*x)+(v*x). \n     (u*v)*x = u*(v*x). \n     0*x = x. \n  ', 'names': ['(Weak) Left R-module'], 'bib_s': ['1610.02418'], 'msc_s': [['11E88', '15A66', '16G10', '16S35', '20B05', '20C05', '68W30']], 'contained': [209], 'contains': [124, 136], 'total_citations': [2], 'published_year': [2016]}

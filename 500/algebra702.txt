@@ -1,0 +1,1 @@
+{'label': 702, 'axioms': '  x*(y+z)=(x*y)+(x*z).\n  (x*y)*z = x*(y*z).\n  0*x=0.\n  (x+y)*z = (x*z)+(y*z).\n  1*x=x.\n  x*0=0. \n  ', 'names': ['(Weak) Cone'], 'bib_s': ['1903.07472'], 'msc_s': [['18C20', '46A99', '28E99']], 'contained': [], 'contains': [730], 'total_citations': [5], 'published_year': [2019]}

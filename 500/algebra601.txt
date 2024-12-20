@@ -1,0 +1,1 @@
+{'label': 601, 'axioms': '     (x*y)*a(z) = f(x)*(y*z) & 0*x = a(x). \n  ', 'names': ['(Weak) Left G-module'], 'bib_s': ['1801.07398'], 'msc_s': [['20N99', '17D30', '20J05']], 'contained': [], 'contains': [], 'total_citations': [10], 'published_year': [2018]}

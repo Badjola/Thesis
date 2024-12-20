@@ -1,0 +1,1 @@
+{'label': 104, 'axioms': '  u*(v*w) = (u*v)*w & (u*v)*w = u*(v+w).\n  (u+v)+w = u+(v+w) & u+(v+w) = (u*v)+w.\n (u+v)*w = u+(v*w).\n 1+u=u.\n u*1=u.  ', 'names': ['(Weak) Unital Dialgebra '], 'bib_s': ['math0510546'], 'msc_s': [['17A32', '17A99', '17B35', '17B55']], 'contained': [342, 53], 'contains': [], 'total_citations': [36], 'published_year': [2005]}

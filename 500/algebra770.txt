@@ -1,0 +1,1 @@
+{'label': 770, 'axioms': '   a(x*y) = a(x)+a(y) & (x*y)*z = x*(y*z). \n  ', 'names': ['left ${\\mathbb{Z}}_{3}$-graded ${\\cal A}$-module'], 'bib_s': ['1911.06125'], 'msc_s': [['16E45', '17B37', '46L87', '58B32', '81R60']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2019]}

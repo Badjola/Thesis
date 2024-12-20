@@ -1,0 +1,1 @@
+{'label': 200, 'axioms': '   x*(u+v) = (x*u)+(x*v).\n    x*(u*y) = (x*u)*(x*y).\n    a(x*u,x*v) = x*a(u,v). \n  ', 'names': ['(Weak) G-Hilbert A-module'], 'bib_s': ['0908.1066'], 'msc_s': [['19K99', '46L80', '55N91']], 'contained': [], 'contains': [], 'total_citations': [5], 'published_year': [2009]}

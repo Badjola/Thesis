@@ -1,0 +1,1 @@
+{'label': 133, 'axioms': '    a(f(x)*a(y*z)) = a(a(x*y)*f(z)). \n  ', 'names': ['(Weak) Hom-associative algebra'], 'bib_s': ['0709.2413'], 'msc_s': [['05E99', '05C20', '05C05']], 'contained': [], 'contains': [], 'total_citations': [204], 'published_year': [2007]}

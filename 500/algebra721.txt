@@ -1,0 +1,1 @@
+{'label': 721, 'axioms': '   (x*y)*z = (y*x)*z. \n  ', 'names': ['(Weak) Perm-algebra'], 'bib_s': ['1905.10147'], 'msc_s': [['17D25', '17A32']], 'contained': [], 'contains': [518, 725, 820], 'total_citations': [2], 'published_year': [2019]}

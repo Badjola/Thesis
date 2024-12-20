@@ -1,0 +1,1 @@
+{'label': 589, 'axioms': ' x*(y*z) = (x*y)*z. \n x+(y+z) = (x+y)+z. \n   x*(y+z)=(x*y)+a(x,z). \n  ', 'names': [' Left semi-truss'], 'bib_s': ['1712.09539'], 'msc_s': [['16Y99', '16T05', '20M18']], 'contained': [], 'contains': [], 'total_citations': [15], 'published_year': [2017]}

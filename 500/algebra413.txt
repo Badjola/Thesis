@@ -1,0 +1,1 @@
+{'label': 413, 'axioms': '  x*(y+z)=(x*y)+(x*z).\n  (x+y)*z=(x*z)+(y*z).\n  x*(y*z)=(x*y)*z.\n  (x*y)*z = (y*x)*z. \n  ', 'names': ['(Weak) bicomplex algebra'], 'bib_s': ['1503.00109'], 'msc_s': [['30G35', '46A22', '47A60']], 'contained': [279, 324, 458, 722, 85], 'contains': [87], 'total_citations': [37], 'published_year': [2015]}

@@ -1,0 +1,1 @@
+{'label': 420, 'axioms': '   x+y=y+x.\n      (x*x)+y = y+x.\n      (x*y)+x=(z*x)+x. ', 'names': ['(Weak) BiHom-coassociative coalgebra'], 'bib_s': ['1505.00469'], 'msc_s': [['17A99', '17B99', '16T99']], 'contained': [834], 'contains': [759], 'total_citations': [127], 'published_year': [2015]}

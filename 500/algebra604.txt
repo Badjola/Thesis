@@ -1,0 +1,1 @@
+{'label': 604, 'axioms': '   (x*y)*(z*x) = x*((y*z)*x).\n    x*(y*(x*z)) = ((x*y)*x)*z.\n    x*(y*(z*y)) = (x*(y*z))*y. \n  ', 'names': ['(Weak) Moufang Loop'], 'bib_s': ['1802.10471'], 'msc_s': [['20N05']], 'contained': [], 'contains': [882], 'total_citations': [0], 'published_year': [2018]}

@@ -1,0 +1,1 @@
+{'label': 277, 'axioms': '    a(u)*v = f(u,v).\n      a(x*u) = f(x,a(u)). \n  ', 'names': ['(Weak) Lie algebra crossed module'], 'bib_s': ['1109.2290'], 'msc_s': [['17B65']], 'contained': [], 'contains': [], 'total_citations': [20], 'published_year': [2011]}

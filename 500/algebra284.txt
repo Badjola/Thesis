@@ -1,0 +1,1 @@
+{'label': 284, 'axioms': '  x+0=x.\n  x+y=y+x.\n  (x+y)+z = x+(y+z).\n  x*1=x.\n  x*y=y*x.\n  (x*y)*z = x*(y*z).\n  x*(y+z) = (x*y)+(x*z).\n  ', 'names': ['(Weak) PA algebra'], 'bib_s': ['1201.5835'], 'msc_s': [['03F30']], 'contained': [65], 'contains': [672], 'total_citations': [13], 'published_year': [2012]}

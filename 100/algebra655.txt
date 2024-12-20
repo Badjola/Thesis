@@ -1,0 +1,1 @@
+{'label': 655, 'axioms': ' x*f(x,y) = y. \n g(x,y)*x = y. \n (x*z = y & x*w = y) -> z = w. \n (z*x = y & w*x = y) -> z = w. \n    (y*z)*(y*x) = x*z. \n  ', 'names': [' Schweizer quasigroup'], 'bib_s': ['1809.07095'], 'msc_s': [['20N05']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2018]}

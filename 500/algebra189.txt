@@ -1,0 +1,1 @@
+{'label': 189, 'axioms': '    (x*a(x))*x = x & (a(x)*x)*a(x) = a(x).\n  ', 'names': ['(Weak) inverse semigroup'], 'bib_s': ['0905.1340'], 'msc_s': [['20M18']], 'contained': [], 'contains': [], 'total_citations': [24], 'published_year': [2009]}

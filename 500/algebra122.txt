@@ -1,0 +1,1 @@
+{'label': 122, 'axioms': '    a(x,a(y,z)) = a(a(x,y),z) * a(a(x,z),y). \n  ', 'names': ['(Weak) Leibniz algebra'], 'bib_s': ['math0611642'], 'msc_s': [['17A32', '17A60', '17B30']], 'contained': [], 'contains': [], 'total_citations': [69], 'published_year': [2006]}

@@ -1,0 +1,1 @@
+{'label': 334, 'axioms': '     x*y = 0 -> a(x)*a(y)=0.\n        a(x*y) = a(x)*a(x*(x*y)).\n        a(a(x)*a(y)) = a(x)*a(y). \n  ', 'names': ['(Weak) left state BCK-algebra'], 'bib_s': ['1304.6963'], 'msc_s': [['06D72']], 'contained': [19], 'contains': [], 'total_citations': [37], 'published_year': [2013]}

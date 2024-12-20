@@ -1,0 +1,1 @@
+{'label': 135, 'axioms': ' x*(y + z) = (x*y) + (x*z).\n  ', 'names': ['Finite distributive lattice'], 'bib_s': ['0709.2383'], 'msc_s': [['60D05', '60K35', '82B43']], 'contained': [], 'contains': [], 'total_citations': [16], 'published_year': [2007]}

@@ -1,0 +1,1 @@
+{'label': 336, 'axioms': '     (x*a(x)) * (a(a(x))) = x*(a(x)*a(a(x))).\n        x*a(x) = a(x)*x.\n        0*x=x. \n  ', 'names': ['(Weak) Commutative monoid'], 'bib_s': ['1305.5531'], 'msc_s': [['16Y60', '16D10']], 'contained': [], 'contains': [195, 41], 'total_citations': [15], 'published_year': [2013]}

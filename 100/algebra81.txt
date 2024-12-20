@@ -1,0 +1,1 @@
+{'label': 81, 'axioms': '   (x*y)*(y*z) = y. \n  ', 'names': ['Central Groupoid'], 'bib_s': ['math0407070'], 'msc_s': [['05C30', '05C38', '05C50', '05c12']], 'contained': [], 'contains': [], 'total_citations': [11], 'published_year': [2004]}

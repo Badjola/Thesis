@@ -1,0 +1,1 @@
+{'label': 7, 'axioms': '  (a((u*x)+(v*y))=(u*a(x))+(v*a(y))).\n  ', 'names': ['(Weak) Free unital *-algebra'], 'bib_s': ['math-ph0011028'], 'msc_s': [['60J65']], 'contained': [], 'contains': [], 'total_citations': [30], 'published_year': [2000]}

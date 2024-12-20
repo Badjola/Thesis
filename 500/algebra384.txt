@@ -1,0 +1,1 @@
+{'label': 384, 'axioms': '   a(a(x)) = x.\n    a(x*y) = a(y)*a(x).\n    a(x+y) = a(x)+a(y).\n  ', 'names': ['*-algebra'], 'bib_s': ['1407.4754'], 'msc_s': [['81V70', '82B10', '82B31', '46L53']], 'contained': [], 'contains': [], 'total_citations': [3], 'published_year': [2014]}

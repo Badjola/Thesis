@@ -1,0 +1,1 @@
+{'label': 421, 'axioms': '   x*x=x.\n    x*(y*z) = (x*y)*(x*z).\n    x*z=y & x*w=y -> z=w. \n  ', 'names': ['(Weak) Quandle'], 'bib_s': ['1505.02122'], 'msc_s': [['57R56', '81T20']], 'contained': [291, 515, 516, 781, 91], 'contains': [146], 'total_citations': [7], 'published_year': [2015]}

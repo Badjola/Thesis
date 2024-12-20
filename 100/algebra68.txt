@@ -1,0 +1,1 @@
+{'label': 68, 'axioms': ' x*(y*z) = (x*y)*z. \n ( ((x*x = x*y) & (y*y = y*x)) & (x*y=y*x) ) -> x = y. ', 'names': [' Quasi-Separative Semigroup'], 'bib_s': ['math0311414'], 'msc_s': [['20M10']], 'contained': [], 'contains': [], 'total_citations': [7], 'published_year': [2003]}

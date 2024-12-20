@@ -1,0 +1,1 @@
+{'label': 380, 'axioms': '  a(x,x,z) = 0.\n      a(x,y,z) * ( a(y,z,x) * a(z,x,y) ) = 0. ', 'names': ['(Weak) Lie triple system'], 'bib_s': ['1407.3978'], 'msc_s': [['17A32', '17A40', '17A60', '17A65']], 'contained': [], 'contains': [], 'total_citations': [5], 'published_year': [2014]}

@@ -1,0 +1,1 @@
+{'label': 154, 'axioms': '    x*(x+y) = x^y.\n  ', 'names': ['(Weak) BL-algebra'], 'bib_s': ['0806.4946'], 'msc_s': [['06F05', '08B30', '03G10', '03G25']], 'contained': [], 'contains': [], 'total_citations': [25], 'published_year': [2008]}

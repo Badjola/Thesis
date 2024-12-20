@@ -1,0 +1,1 @@
+{'label': 179, 'axioms': '    x*y = 0 -> x=y. \n  ', 'names': ['(Weak) Orthomodular lattice'], 'bib_s': ['0812.2698'], 'msc_s': [['81P10', '03G12', '06C15']], 'contained': [], 'contains': [], 'total_citations': [32], 'published_year': [2008]}

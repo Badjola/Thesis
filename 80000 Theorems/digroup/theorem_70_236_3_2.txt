@@ -1,0 +1,57 @@
+Generalizes:   digroup
+ 
+Theory used:
+ x*(y*z) = (x*y)*z. 
+ (x*y)*z = x*(y+z).
+ (x+y)*z = x+(y*z).
+ (x*y)+z = (x+y)+z.
+ (x+y)+z = x+(y+z).
+ x*1=x.
+ 1+x=x.
+ x+1=1*x.
+ a(x)*x=1.
+ x+a(x)=1. 
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = (g1(g2(x)) + f2(a(y))).
+                    x \ y = f1((f2(y) * f2(x))).
+                    x / y = (a((x * y)) * g2(f2(y))).
+                    b(x) = g1((a((x + x)) + (x * x))).
+                    c(x) = ((x * x) + (x + x)).
+                    
+Axioms Satisfied by that Theory:
+b(x) \ y = y.
+c(b(x)) = b(x).
+x v b(y) = x v b(z).
+b(x) v y = b(z) v y.
+b(x / y) = b(z / u).
+x / b(y) = x / b(z).
+b(x v y) = b(z / u).
+b(x v y) = b(z v u).
+b(x) / y = b(z) / y.
+(b(x) / b(y)) \ z = z.

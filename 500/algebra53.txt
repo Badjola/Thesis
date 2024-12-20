@@ -1,0 +1,1 @@
+{'label': 53, 'axioms': '  (x+0)*x = (0+x)*x.\n  ', 'names': ['(Weak) Coalgebra'], 'bib_s': ['math0306332'], 'msc_s': [['18G55', '81T18', '81T30']], 'contained': [], 'contains': [104, 124, 136, 144, 153, 638, 64, 771, 842, 850], 'total_citations': [169], 'published_year': [2003]}

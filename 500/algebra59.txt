@@ -1,0 +1,1 @@
+{'label': 59, 'axioms': ' a(x,y*z) = (a(x,y)*z) + (a(x,z)*y).\n 0 = ((a(x,a(y,z))) + (a(y,a(z,x)))) + (a(z,a(x,y))).\n ', 'names': ['(Weak) Poisson algebra'], 'bib_s': ['math0310186'], 'msc_s': [['53D17', '14E15']], 'contained': [], 'contains': [], 'total_citations': [181], 'published_year': [2003]}

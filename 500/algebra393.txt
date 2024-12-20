@@ -1,0 +1,1 @@
+{'label': 393, 'axioms': '    a(x*y) = a(x)*a(y).\n  ', 'names': ['Morava module'], 'bib_s': ['1410.5269'], 'msc_s': [['55P60', '55Q10', '13J10']], 'contained': [], 'contains': [], 'total_citations': [17], 'published_year': [2014]}

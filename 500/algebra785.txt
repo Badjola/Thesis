@@ -1,0 +1,1 @@
+{'label': 785, 'axioms': '   a(x+y)=a(x)+a(y).\n    a(x*y)=a(y)*a(x).\n    a(a(x)) = x. \n  ', 'names': ['(Weak) Involution'], 'bib_s': ['2001.06061'], 'msc_s': [['11Y40', '20G30', '51M10']], 'contained': [], 'contains': [157], 'total_citations': [3], 'published_year': [2020]}

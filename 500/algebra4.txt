@@ -1,0 +1,1 @@
+{'label': 4, 'axioms': '        (a(x,y)) * (a(y,x)) = 0.\n                a((x+y),z) = (a(x,z)) * (a(y,z)).\n  ', 'names': ['(Weak) Commutation factor'], 'bib_s': ['math-ph0006012'], 'msc_s': [['81R99', '16Z05']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2000]}

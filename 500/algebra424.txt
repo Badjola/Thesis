@@ -1,0 +1,1 @@
+{'label': 424, 'axioms': '   x*a(y,z) = a(x*y,z) + a(y,x*z).\n  ', 'names': ['post-Lie algebra'], 'bib_s': ['1505.02436'], 'msc_s': [['17B35', '37J35', '70G65', '70H06']], 'contained': [], 'contains': [], 'total_citations': [20], 'published_year': [2015]}

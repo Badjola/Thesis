@@ -1,0 +1,1 @@
+{'label': 623, 'axioms': '    x*a(x) = a(x)*x.\n  ', 'names': ['(Weak) Embedded Quadratic Space'], 'bib_s': ['1805.02630'], 'msc_s': [['15A66', '15A63', '16W10']], 'contained': [], 'contains': [235, 472], 'total_citations': [1], 'published_year': [2018]}

@@ -1,0 +1,1 @@
+{'label': 307, 'axioms': '    a(x,y) = 0 <-> x = y.\n      a(x,y) = a(y,x). \n  ', 'names': ['(Weak) Semimetric space'], 'bib_s': ['1207.6076'], 'msc_s': [['62G10', '46N30', '68T05', '68Q32']], 'contained': [248], 'contains': [], 'total_citations': [652], 'published_year': [2012]}

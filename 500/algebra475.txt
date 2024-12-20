@@ -1,0 +1,1 @@
+{'label': 475, 'axioms': ' (x^y)*z = x^(y*z).\n a(x*y) = (a(x)*y) + (x*a(y)).\n a(x^y) + ((x^y)^a(1)) = (a(x)^y) + (x^a(y)).', 'names': ['(Weak) GDN-Poisson admissible algebra'], 'bib_s': ['1604.06676'], 'msc_s': [['16S10', '17A30', '17A50']], 'contained': [], 'contains': [], 'total_citations': [23], 'published_year': [2016]}

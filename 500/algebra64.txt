@@ -1,0 +1,1 @@
+{'label': 64, 'axioms': '   z*x = (x*z) + 0.\n    0*x = (u*x)*0.\n    z*0 = (u*0)*z.  \n  ', 'names': ['(Weak) q-Weyl algebra'], 'bib_s': ['math0311128'], 'msc_s': [['17B37', '81R50', '81R05']], 'contained': [53], 'contains': [466], 'total_citations': [23], 'published_year': [2003]}

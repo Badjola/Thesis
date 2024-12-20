@@ -1,0 +1,1 @@
+{'label': 186, 'axioms': '   x*0 = 0.\n      x*x=x. \n x*y=y*x.\n x*(y*z) = (x*y)*z.   ', 'names': ['(Weak) synchronization algebra'], 'bib_s': ['0904.3961'], 'msc_s': [['18A99']], 'contained': [431], 'contains': [], 'total_citations': [0], 'published_year': [2009]}

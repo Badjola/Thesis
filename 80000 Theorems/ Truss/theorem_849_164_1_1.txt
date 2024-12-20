@@ -1,0 +1,50 @@
+Generalizes:    Truss
+ 
+Theory used:
+x+(y+z) = (x+y)+z. 
+ 0+x = x. 
+ x+0 = x. 
+ x+f(x) = 0. 
+ f(x)+x = 0. 
+ x+y = y+x. 
+ x*(y*z) = (x*y)*z. 
+    (x*(y+z))+x = ((x*y)+(x*z))+a(x). 
+  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = f(((y + x) + f((y * y)))).
+                    b(x) = a(((x * x) * g1(a(x)))).
+                    
+Axioms Satisfied by that Theory:
+(x v y) v y = x.
+(((x v y) v z) v u) v y = (x v u) v z.
+((x v y) v z) v u = ((x v u) v z) v y.
+(((x v y) v z) v u) v w = (((x v u) v w) v y) v z.
+(((x v y) v z) v u) v w = (((x v u) v z) v y) v w.
+x v (((y v z) v u) v w) = x v (((y v w) v u) v z).
+(x v (((y v z) v u) v w)) v (((y v w) v u) v z) = x.

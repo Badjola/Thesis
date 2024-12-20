@@ -1,0 +1,1 @@
+{'label': 33, 'axioms': '   a(x)*f(y) = x*y.\n  ', 'names': ['(Weak) Orthomorphism'], 'bib_s': ['math0211320'], 'msc_s': [['06F07', '06B23']], 'contained': [], 'contains': [], 'total_citations': [35], 'published_year': [2002]}

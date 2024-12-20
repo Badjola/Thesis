@@ -1,0 +1,1 @@
+{'label': 283, 'axioms': '   (x*y)*(z*(u*v)) = (x*(u*(z*y)))*v & (x*(u*(z*y)))*v = (x*(y*z))*(u*v).  \n  ', 'names': ['(Weak) Binary Semitorsor'], 'bib_s': ['1201.6201'], 'msc_s': [['17C50']], 'contained': [], 'contains': [539, 725], 'total_citations': [5], 'published_year': [2012]}

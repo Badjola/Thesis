@@ -1,0 +1,1 @@
+{'label': 332, 'axioms': '  x*y = x*z -> x*y = x*(y+z). \n  ', 'names': ['(Weak) Congruence ∧-Semidistributive'], 'bib_s': ['1304.4659'], 'msc_s': [['08B10', '08B05', '03C05', '03D10', '08A30']], 'contained': [], 'contains': [587], 'total_citations': [2], 'published_year': [2013]}

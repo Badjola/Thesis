@@ -1,0 +1,1 @@
+{'label': 571, 'axioms': '  x*(y*z) = (x*y)*z.\n      x*0 = x & 0*x = x.\n      x*1 = 1 & 1 = 1*x.\n  a(1) = 0.\n f(0) = 1.\n a(f(x)+f(y)) = f(a(x)+a(y)).\n a(f(x)) = x.  ', 'names': ['(Weak) Pseudo MV-algebra'], 'bib_s': ['1709.06502'], 'msc_s': [['06D35', '06C15']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2017]}

@@ -1,0 +1,1 @@
+{'label': 353, 'axioms': '  a(x,y,f(x,z)) = f(a(x,y,z),x).  ', 'names': ['(Weak) Malcev algebra'], 'bib_s': ['1312.5710'], 'msc_s': [['17A30', '17D05', '17D10', '17A50', '17C99']], 'contained': [], 'contains': [], 'total_citations': [12], 'published_year': [2013]}

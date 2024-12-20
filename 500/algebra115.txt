@@ -1,0 +1,1 @@
+{'label': 115, 'axioms': '    a(f(x),a(y,z)) * a(f(y),a(x,z)) = a(a(x,y),f(z)) * a(a(y,x),f(z)). \n  ', 'names': ['(Weak) Hom-Vinberg algebra'], 'bib_s': ['math0609501'], 'msc_s': [['17A30', '16Y99', '17A01', '17A20', '17D25']], 'contained': [], 'contains': [576], 'total_citations': [588], 'published_year': [2006]}

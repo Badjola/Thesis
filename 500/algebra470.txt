@@ -1,0 +1,1 @@
+{'label': 470, 'axioms': ' x*y=0. ', 'names': ['(Weak) Generic rational Cherednik algebra'], 'bib_s': ['1603.05230'], 'msc_s': [['16S38', '16G10', '16S80', '20F55']], 'contained': [188, 260], 'contains': [], 'total_citations': [7], 'published_year': [2016]}

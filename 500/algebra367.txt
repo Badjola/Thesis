@@ -1,0 +1,1 @@
+{'label': 367, 'axioms': '    a(f(x,y)) + (y*a(x)) = (x*a(y)). \n     (x*(y*z)) = (f(x,y)*z) + (y*f(x,z)). \n  ', 'names': ['(Weak) Lie bialgebra'], 'bib_s': ['1402.2007'], 'msc_s': [['17B63', '16T05']], 'contained': [], 'contains': [], 'total_citations': [32], 'published_year': [2014]}

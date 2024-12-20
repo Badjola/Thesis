@@ -1,0 +1,1 @@
+{'label': 543, 'axioms': '  (a(x,y)*v) + (y*(x*v)) = (x*(y*v)) + (f(x,y)*v). ', 'names': ['(Weak) g-module'], 'bib_s': ['1704.08042'], 'msc_s': [['17B60']], 'contained': [], 'contains': [], 'total_citations': [8], 'published_year': [2017]}

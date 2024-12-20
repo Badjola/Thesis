@@ -1,0 +1,1 @@
+{'label': 617, 'axioms': '    a(x,a(y,z)) * a(a(x,z),y) = a(a(x,y),z). \n  ', 'names': ['Leibniz algebra'], 'bib_s': ['1804.01423'], 'msc_s': [['17A30', '17A32', '17B56', '55N91']], 'contained': [], 'contains': [], 'total_citations': [16], 'published_year': [2018]}

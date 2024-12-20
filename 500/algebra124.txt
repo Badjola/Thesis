@@ -1,0 +1,1 @@
+{'label': 124, 'axioms': '   x*(y + z) = (x*y) + (x*z). \n  (x + y)*z = (x*z) + (y*z). \n x*(y*z)=(x*y)*z.\n 1*x=x.\n x*1=x.   ', 'names': ['Distributive Monoid'], 'bib_s': ['math0701486'], 'msc_s': [['06A06']], 'contained': [502, 53, 822], 'contains': [320], 'total_citations': [0], 'published_year': [2007]}

@@ -1,0 +1,1 @@
+{'label': 427, 'axioms': '    (x*y)*z = x*(y*z).\n      1*x = x*1 & x*1 = x.\n      a(x)*x = 0.\n      0*x = 0 & x*0 = 0.\n      x*a(y) = a(x*y)*x.\n  ', 'names': ['(Weak) modal restriction semigroup'], 'bib_s': ['1507.06167'], 'msc_s': [['08A05', '08A55', '08A40', '20N15', '20M20']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2015]}

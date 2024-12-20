@@ -1,0 +1,1 @@
+{'label': 796, 'axioms': '   f(a(u,v)) = (a(f(u),v)) * (a(u,f(v))). ', 'names': ['Derivation of Leibniz algebras'], 'bib_s': ['2003.03509'], 'msc_s': [['17A32', '17A36', '16S15']], 'contained': [], 'contains': [], 'total_citations': [5], 'published_year': [2020]}

@@ -1,0 +1,1 @@
+{'label': 532, 'axioms': '   (a(x,x,y) = x & x = a(y,x,x)) & a(x,y,x) = x.\n  ', 'names': ['(Weak) Majority operator'], 'bib_s': ['1702.07267'], 'msc_s': [['68Q99', '68W99', '68P99']], 'contained': [], 'contains': [128], 'total_citations': [0], 'published_year': [2017]}

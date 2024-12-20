@@ -1,0 +1,1 @@
+{'label': 370, 'axioms': '  (x*y)*z = (x*z)*(x*y). \n x+y=y+(x*y). ', 'names': ['qualgebra'], 'bib_s': ['1402.6673'], 'msc_s': [['05C25', '05C15', '17D99', '57M27', '20N99']], 'contained': [], 'contains': [], 'total_citations': [16], 'published_year': [2014]}

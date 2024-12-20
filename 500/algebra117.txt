@@ -1,0 +1,1 @@
+{'label': 117, 'axioms': '   a(a(x,y),f(x)) = a(f(x),a(y,x)). \n  ', 'names': ['Flexible Hom-algebra'], 'bib_s': ['math0609501'], 'msc_s': [['17A30', '16Y99', '17A01', '17A20', '17D25']], 'contained': [], 'contains': [], 'total_citations': [588], 'published_year': [2006]}

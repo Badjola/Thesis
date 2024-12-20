@@ -1,0 +1,51 @@
+Generalizes:   Steiner quasigroup
+ 
+Theory used:
+   x*y=y*x.
+    x*x=x.
+    x*(x*y) = y.
+  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = g2(((y * y) * f2(x))).
+                    x \ y = g2((f1(x) * g2(y))).
+                    x / y = (f2(y) * (y * x)).
+                    b(x) = g2((g2(x) * g2(x))).
+                    c(x) = (f2(x) * g1((x * x))).
+                    
+Axioms Satisfied by that Theory:
+x v c(x) = x.
+c(b(x)) = b(c(x)).
+b(x) v b(c(x)) = b(x).
+((x / x) / x) / x = x.
+b(x \ x) = b(x) \ b(x).
+b(b(x)) = b(x) \ (x \ x).
+b(c(x)) / (x \ x) = x \ x.
+x v (y / x) = y v (x / y).
+c(b(x) \ b(x)) = b(c(x \ x)).
+b(b(x)) v b(b(c(x))) = b(b(x)).

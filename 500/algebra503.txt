@@ -1,0 +1,1 @@
+{'label': 503, 'axioms': '  a(x*y) = a(f(x))*a(y). \n g(f(y))*a(x) = a(f(x))*g(y).\n g(f(y))*g(x) = g(x*y). ', 'names': ['(Weak) A-bimodule'], 'bib_s': ['1610.02845'], 'msc_s': [['16W10', '15A78', '16D10', '16D20']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2016]}

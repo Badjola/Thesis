@@ -1,0 +1,1 @@
+{'label': 143, 'axioms': '   x*(y + z) = (x*y) + (x*z). ', 'names': ['Distributive lattice'], 'bib_s': ['0803.2361'], 'msc_s': [['18A99']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2008]}

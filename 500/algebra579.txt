@@ -1,0 +1,1 @@
+{'label': 579, 'axioms': '  x+(x*y)=y.\n    x*(x+y)=y.\n    0*x = x & x=x*0. \n (y*x)^x = y.\n (y^x)*x=y. ', 'names': ['loop'], 'bib_s': ['1710.03083'], 'msc_s': [['08A70', '08B10', '08A50', '68Q17']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2017]}

@@ -1,0 +1,1 @@
+{'label': 572, 'axioms': '  x*(y+z) = (x+y)*(x+z).\n x*(y*z) = (x*y)*(x*z).\n x+(y*z) = (x+y)*(x+z).\n x+(y+z) = (x+y)+(x+z).  ', 'names': ['(Weak) Bilattice'], 'bib_s': ['1709.02167'], 'msc_s': [['03B52', '03B50', '03F05']], 'contained': [176], 'contains': [], 'total_citations': [24], 'published_year': [2017]}

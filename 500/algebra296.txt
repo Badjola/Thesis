@@ -1,0 +1,1 @@
+{'label': 296, 'axioms': '  (x+y)*z = (x*z)+(y*z).\n  x*(y+z) = (x*y)+(x*z).\n  x*(y*z) = (x*y)*z & (x*y)*z = y*(x*z). \n  ', 'names': ['Algebra'], 'bib_s': ['1204.1471'], 'msc_s': [['15A75']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2012]}

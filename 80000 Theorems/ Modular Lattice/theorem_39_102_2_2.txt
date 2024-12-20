@@ -1,0 +1,55 @@
+Generalizes:    Modular Lattice
+ 
+Theory used:
+  x*(y*z)=(x*y)*z.
+ x*y=y*x.
+ x+(y+z)=(x+y)+z.
+ x+y=y+x.
+ x*x=x.
+ x+x=x.
+ x+(x*y)=x.
+ x*(x+y)=x.  x*((x*y) + z) = (x*y) + (x*z).
+  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = ((y + x) + f2((x + x))).
+                    x \ y = f2(((y * x) * g1(x))).
+                    b(x) = (g2(x) * g2((x * x))).
+                    c(x) = (g1(x) + f1((x * x))).
+                    
+Axioms Satisfied by that Theory:
+x \ c(x) = x \ x.
+c(b(x)) = b(c(x)).
+x v (x v x) = x v x.
+x v (x v y) = x v y.
+c(x v x) = c(x) v x.
+b(x \ x) = b(x) \ x.
+x v (x \ x) = x v x.
+x v (y \ x) = x v x.
+x \ (y v x) = x \ x.
+x \ b(c(x)) = x \ x.

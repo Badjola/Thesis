@@ -1,0 +1,1 @@
+{'label': 138, 'axioms': '    a(x,x)*x = x.\n  ', 'names': ['(Weak) Supported (pre-)Hilbert B-module'], 'bib_s': ['0711.4401'], 'msc_s': [['18F20', '06D22', '06F07', '14F05']], 'contained': [], 'contains': [102], 'total_citations': [22], 'published_year': [2007]}

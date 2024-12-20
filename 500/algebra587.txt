@@ -1,0 +1,1 @@
+{'label': 587, 'axioms': ' x + y = x + z -> x + (y * z) = x + y. \n   x * y = x * z -> x * (y + z) = x * y.\n  ', 'names': ['(Weak) semidistributive lattice'], 'bib_s': ['1712.10123'], 'msc_s': [['06B99', '05E99']], 'contained': [332], 'contains': [87], 'total_citations': [47], 'published_year': [2017]}

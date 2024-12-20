@@ -1,0 +1,1 @@
+{'label': 199, 'axioms': '   a(x,y*z) = (a(x,y)*z) + (y*a(x,z)) & a(x*y,z) = (x*a(y,z)) + (y*a(x,z)). \n  ', 'names': ['Poisson module'], 'bib_s': ['0908.3868'], 'msc_s': [['17B63', '14F10', '16W70']], 'contained': [], 'contains': [], 'total_citations': [40], 'published_year': [2009]}

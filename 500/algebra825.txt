@@ -1,0 +1,1 @@
+{'label': 825, 'axioms': ' (x*y)*z = x*(y*z) & ((x*y)*z) + (x*(y*z)) = 0.  ', 'names': ['(Weak) Q-associative algebra'], 'bib_s': ['2007.11991'], 'msc_s': [['16T25', '05C25', '16S99', '16Z05']], 'contained': [841], 'contains': [132], 'total_citations': [0], 'published_year': [2020]}

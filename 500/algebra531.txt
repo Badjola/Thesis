@@ -1,0 +1,1 @@
+{'label': 531, 'axioms': '   a(x,x,y) = y & y = a(y,x,x). \n  ', 'names': ['Maltsev operator'], 'bib_s': ['1702.07267'], 'msc_s': [['68Q99', '68W99', '68P99']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2017]}

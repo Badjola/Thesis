@@ -1,0 +1,1 @@
+{'label': 495, 'axioms': '    a(x,y) + a(y,x) = 0.\n      (a(x,a(y,z)) + a(y,a(z,x))) + a(z,a(x,y)) = 0.\n      a(x*y,z) = (x*a(y,z)) + (a(x,z)*y). \n  ', 'names': ['Poisson algebra'], 'bib_s': ['1608.00172'], 'msc_s': [['16E40', '17B35', '17B63']], 'contained': [], 'contains': [], 'total_citations': [15], 'published_year': [2016]}

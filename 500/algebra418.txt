@@ -1,0 +1,1 @@
+{'label': 418, 'axioms': ' a(f(x))=f(a(x)). \n  a(x*y) = a(x)*a(y).\n  f(x*y)=f(x)*f(y).\n a(x)*(y*z) = (x*y)*f(z).  ', 'names': ['(Weak) Bihom-associative algebra'], 'bib_s': ['1505.00469'], 'msc_s': [['17A99', '17B99', '16T99']], 'contained': [], 'contains': [], 'total_citations': [127], 'published_year': [2015]}

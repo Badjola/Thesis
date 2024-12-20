@@ -1,0 +1,1 @@
+{'label': 621, 'axioms': '    a(a(u)) = u. \n       a(u*v) = a(v)*a(u). \n  ', 'names': ['(Weak) C*-algebra'], 'bib_s': ['1805.11655'], 'msc_s': [['42C15', '47C15']], 'contained': [14], 'contains': [], 'total_citations': [2], 'published_year': [2018]}

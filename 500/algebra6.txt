@@ -1,0 +1,1 @@
+{'label': 6, 'axioms': '  a(x,(y*z)) = (a(x,y)*z) + (y*a(x,z)).\n    a((x*y),z) = (x*a(y,z)) + (y*a(x,z)).\n  ', 'names': ['(Weak) Poisson vector bundle'], 'bib_s': ['math0009124'], 'msc_s': [['53D17', '17B65', '53C12']], 'contained': [323], 'contains': [], 'total_citations': [40], 'published_year': [2000]}

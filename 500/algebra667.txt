@@ -1,0 +1,1 @@
+{'label': 667, 'axioms': '   x*x=x.\n    x*(x*y) = x*y.\n    y*(x*y) = x*y.\n    x*((x*y)*z) = (x*y)*z. \n  ', 'names': ['quasi-directoid'], 'bib_s': ['1810.09335'], 'msc_s': [['08A02', '06A11', '06B75']], 'contained': [516], 'contains': [798], 'total_citations': [33], 'published_year': [2018]}

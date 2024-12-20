@@ -1,0 +1,1 @@
+{'label': 860, 'axioms': '  x*(y+z) = ((x*y)) + (x*(a(x)+z)).  ', 'names': ['left semi-brace'], 'bib_s': ['2010.04939'], 'msc_s': [['16T25', '81R50', '16Y99']], 'contained': [], 'contains': [], 'total_citations': [10], 'published_year': [2020]}

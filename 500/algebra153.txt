@@ -1,0 +1,1 @@
+{'label': 153, 'axioms': '   (x*y)+(y*x) = 1.\n x+1=1.\n 1+x=1. ', 'names': ['(Weak) MTL-algebra'], 'bib_s': ['0806.4946'], 'msc_s': [['06F05', '08B30', '03G10', '03G25']], 'contained': [53, 658], 'contains': [132], 'total_citations': [25], 'published_year': [2008]}

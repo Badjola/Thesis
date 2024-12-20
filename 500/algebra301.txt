@@ -1,0 +1,1 @@
+{'label': 301, 'axioms': '   a(f(x)) = (a(x))*(f(x)).\n  ', 'names': ['(Weak) Lipschitz Algebra'], 'bib_s': ['1205.3235'], 'msc_s': [['53C23', '30L99', '46J15']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2012]}

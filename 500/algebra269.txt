@@ -1,0 +1,1 @@
+{'label': 269, 'axioms': '   x*((y*z)*u) = ((x*y)*z)*u.\n  ', 'names': ['(Weak) Right Bol quasigroup'], 'bib_s': ['1106.2981'], 'msc_s': [['20N05', '20N02']], 'contained': [609], 'contains': [882], 'total_citations': [4], 'published_year': [2011]}

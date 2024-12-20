@@ -1,0 +1,1 @@
+{'label': 348, 'axioms': '   (x*y)*z = (x*z)*(y*z). \n  ', 'names': ['right rack'], 'bib_s': ['1310.4705'], 'msc_s': [['18B40', '18D05', '18D35', '20L05', '57M10', '57M25', '57Q45']], 'contained': [], 'contains': [], 'total_citations': [16], 'published_year': [2013]}

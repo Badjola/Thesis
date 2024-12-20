@@ -1,0 +1,1 @@
+{'label': 744, 'axioms': '  x*y = y*x. \n     (x*y)*z = x*(y*z). \n     x*x = x.\n  ', 'names': ['(Weak) pre-rooftop structure'], 'bib_s': ['1907.07234'], 'msc_s': [['32Q15', '32U05', '32U15']], 'contained': [155, 160, 616, 725, 798, 820, 873], 'contains': [], 'total_citations': [18], 'published_year': [2019]}

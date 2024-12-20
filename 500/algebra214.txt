@@ -1,0 +1,1 @@
+{'label': 214, 'axioms': '  a(f(u),a(v,w)) = a(a(u,v),f(w)).\n  ', 'names': ['Hom-associative algebra'], 'bib_s': ['1001.4240'], 'msc_s': [['17A99', '17D99']], 'contained': [], 'contains': [], 'total_citations': [62], 'published_year': [2010]}

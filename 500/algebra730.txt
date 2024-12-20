@@ -1,0 +1,1 @@
+{'label': 730, 'axioms': ' x*(y+z) = (x*y)+(x*z).\n  x*(y*z) = (x*y)*z.\n  x*0=0.\n  x*y=y*x.\n  x*1=x. \n  ', 'names': ['(Weak) Synchronous Kleene Algebra'], 'bib_s': ['1905.08554'], 'msc_s': [['68Q70', '68N30']], 'contained': [702], 'contains': [672, 731], 'total_citations': [7], 'published_year': [2019]}

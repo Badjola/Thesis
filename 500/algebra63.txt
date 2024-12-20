@@ -1,0 +1,1 @@
+{'label': 63, 'axioms': ' (x*y)*z = x*(y+z).\n (x^y)*z = x^(y*z).\n (x+y)^z = (x^y)^z. ', 'names': ['(Weak) NS-algebra'], 'bib_s': ['math0311132'], 'msc_s': [['17A30', '18D50']], 'contained': [], 'contains': [], 'total_citations': [67], 'published_year': [2003]}

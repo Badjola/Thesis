@@ -1,0 +1,1 @@
+{'label': 461, 'axioms': '  a(x,y)*a(y,x) = 0.\n ((((a(a(x,y),z)*a(a(y,z),x)) * a(a(z,x),y)) * f(x,z,y))*f(y,x,z) ) * f(z,y,x)  = (f(x,y,z)*f(y,z,x) )*f(z,x,y). ', 'names': ['(Weak) Akivis algebra'], 'bib_s': ['1512.04173'], 'msc_s': [['17D30', '17B61']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2015]}

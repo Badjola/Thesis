@@ -1,0 +1,50 @@
+Generalizes:   MV-algebra
+ 
+Theory used:
+(u * v) * w = (v * w) * u. 
+         u * 0 = u. 
+         u * a(0) = a(0). 
+         a(a(0)) = 0.  
+  a(a(x)*y)*y = a(x*a(y))*x.
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = a(((y * x) * g2(x))).
+                    x \ y = a(g2(((y * y) * (y * x)))).
+                    x / y = g1((a(g2(x)) * (y * y))).
+                    
+Axioms Satisfied by that Theory:
+x \ (x / y) = z \ (z / u).
+(x / y) \ x = z \ (z / u).
+(x / y) \ x = (z / u) \ z.
+(x / y) v x = z \ (z / u).
+(x / y) v x = (z / u) \ z.
+(x / y) v x = (z / u) v z.
+x v (x / y) = z \ (z / u).
+x v (x / y) = (z / u) \ z.
+(x / y) v x = z v (z / u).
+x v (x / y) = z v (z / u).

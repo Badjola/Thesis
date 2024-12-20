@@ -1,0 +1,1 @@
+{'label': 282, 'axioms': '  x * (y * z) = (x * y) * z. \n     x * y = y * x. \n     x * x = x.\n  ', 'names': ['join-semilattice'], 'bib_s': ['1112.0762'], 'msc_s': [['81V70', '81P45', '81Q10', '06A12']], 'contained': [], 'contains': [], 'total_citations': [16], 'published_year': [2011]}

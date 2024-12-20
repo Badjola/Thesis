@@ -1,0 +1,1 @@
+{'label': 716, 'axioms': '   x+(y*z) = ((x+y)*a(x))*(x+z).\n      x*(y+z) = ((x*y)+f(x))+(x*z).  ', 'names': ['(Weak) Bi-skew brace'], 'bib_s': ['1904.08814'], 'msc_s': [['12F05', '16T05']], 'contained': [], 'contains': [], 'total_citations': [37], 'published_year': [2019]}

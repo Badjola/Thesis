@@ -1,0 +1,1 @@
+{'label': 820, 'axioms': '  x*(y*z) = (y*x)*(z*x). \n x*y = y*x. ', 'names': ['(Weak) Commutative Rack'], 'bib_s': ['2006.08158'], 'msc_s': [['81T30', '83E15', '53D17', '81T20', '81T45', '81T10', '53Z05']], 'contained': [372, 721, 804, 813], 'contains': [744], 'total_citations': [11], 'published_year': [2020]}

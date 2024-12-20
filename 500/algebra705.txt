@@ -1,0 +1,1 @@
+{'label': 705, 'axioms': ' a(f(x)) = f(a(x)).\n      a(x*y)=a(x)*a(y).\n      f(x*y)=f(x)*f(y). ', 'names': ['(Weak) Left BiHom-pre-Lie algebra'], 'bib_s': ['1903.08145'], 'msc_s': [['15A04', '17A99', '17D99']], 'contained': [], 'contains': [451], 'total_citations': [19], 'published_year': [2019]}

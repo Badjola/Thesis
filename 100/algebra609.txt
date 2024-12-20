@@ -1,0 +1,1 @@
+{'label': 609, 'axioms': ' x*f(x,y) = y. \n g(x,y)*x = y. \n (x*z = y & x*w = y) -> z = w. \n (z*x = y & w*x = y) -> z = w. \n 1*x = x. \n x*1 = x. \n   ((x*y)*z)*y = x*((y*z)*y). ', 'names': [' Right Bol loop'], 'bib_s': ['1803.04243'], 'msc_s': [['20N02', '20N05']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2018]}

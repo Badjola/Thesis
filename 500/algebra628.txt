@@ -1,0 +1,1 @@
+{'label': 628, 'axioms': '   a(x*y)= (a(x)*y) + (x*a(y)).\n    a(x*y) = (a(x)*f(y)) + (f(x)*a(y)). \n  ', 'names': ['(Weak) Derivation and Alpha derivation Linear map'], 'bib_s': ['1806.01169'], 'msc_s': [['16E40', '16S80', '16T10']], 'contained': [], 'contains': [], 'total_citations': [11], 'published_year': [2018]}

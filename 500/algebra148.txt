@@ -1,0 +1,1 @@
+{'label': 148, 'axioms': '   (x*y)+(y*x) = 0.\n  ', 'names': ['$BL$-algebra'], 'bib_s': ['0805.3261'], 'msc_s': [['68T20', '03G25', '06F25']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2008]}

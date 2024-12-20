@@ -1,0 +1,1 @@
+{'label': 151, 'axioms': '   a(x*v,y) = x*a(v,y).\n    x*(y*v) = (x*y)*v.\n    a(v,x*w) = (a(v,x)*w) + (x*a(v,w)).\n    a(1,v) = 0.\n  ', 'names': ['(Weak) Lie-Rinehart algebra'], 'bib_s': ['0805.2870'], 'msc_s': [['81S10', '81Q70', '81R15', '53D17', '81R60', '81R10', '70G45']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2008]}

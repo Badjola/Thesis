@@ -1,0 +1,1 @@
+{'label': 229, 'axioms': '   a(u)+(x*x) = x+u & x+y = a(y)+x. \n  ', 'names': ['(Weak) Morphism of Hom-alternative algebras'], 'bib_s': ['1006.2499'], 'msc_s': [['17A30', '17D10', '17D15', '16S80']], 'contained': [], 'contains': [], 'total_citations': [32], 'published_year': [2010]}

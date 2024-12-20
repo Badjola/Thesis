@@ -1,0 +1,1 @@
+{'label': 775, 'axioms': '   x*(y+z) = (x*y)+a(x,z). \n  ', 'names': ['left semi-truss'], 'bib_s': ['1912.09710'], 'msc_s': [['16T25', '20M05']], 'contained': [], 'contains': [], 'total_citations': [12], 'published_year': [2019]}

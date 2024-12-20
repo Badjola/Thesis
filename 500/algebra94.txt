@@ -1,0 +1,1 @@
+{'label': 94, 'axioms': '    (a(x,y,z) = a(y,x,z)) & a(y,x,z) = a(x,z,y). \n       a(x,y,a(u,v,w)) = (a(a(x,y,u),v,w) * a(u,a(x,y,v),w)) * a(u,v,a(x,y,w)). \n  ', 'names': ['(Weak) Null Symplectic triple system '], 'bib_s': ['math0412395'], 'msc_s': [['17B50', '17B60', '17B25']], 'contained': [], 'contains': [], 'total_citations': [53], 'published_year': [2004]}

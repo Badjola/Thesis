@@ -1,0 +1,1 @@
+{'label': 389, 'axioms': '   x+a(x) = a(x)+x & (v*x) + x = v*x. \n  ', 'names': ['(Weak) Finite forest algebra'], 'bib_s': ['1408.0809'], 'msc_s': [['68Q45', '03B44', '03D05', '05C05', '68Q70']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2014]}

@@ -1,0 +1,1 @@
+{'label': 523, 'axioms': '     a(0) = 0.\n        a(x*y) = a(x)*a(y).\n  ', 'names': ['(Weak) modal Heyting algebra'], 'bib_s': ['1612.05273'], 'msc_s': [['03B45']], 'contained': [19], 'contains': [529], 'total_citations': [1], 'published_year': [2016]}

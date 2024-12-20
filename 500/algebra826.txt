@@ -1,0 +1,1 @@
+{'label': 826, 'axioms': '   x*y = y*x.\n    (((x*y)*z) + ((z*x)*y)) + ((y*z)*x) = 0.\n  ', 'names': ['mock Lie algebra'], 'bib_s': ['2007.11991'], 'msc_s': [['16T25', '05C25', '16S99', '16Z05']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2020]}

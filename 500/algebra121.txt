@@ -1,0 +1,1 @@
+{'label': 121, 'axioms': '   ( a(a(x,y),z) + a(a(y,z),x) ) + a(a(z,x),y) = 0.\n      a(x,y*z) = (a(x,y)*z) + (y*a(x,z)).\n   ', 'names': ['(Weak) Poisson structure'], 'bib_s': ['math-ph0610001'], 'msc_s': [['35Q35', '35Q53', '37K10', '37K65']], 'contained': [], 'contains': [], 'total_citations': [53], 'published_year': [2006]}

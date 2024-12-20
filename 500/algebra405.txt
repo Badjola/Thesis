@@ -1,0 +1,1 @@
+{'label': 405, 'axioms': '  ((x*y)*z) + (y*(x*z)) = ((y*x)*z) + (x*(y*z)).\n  (x*y)*z = (x*z)*y. \n  ', 'names': ['Novikov algebra'], 'bib_s': ['1502.02770'], 'msc_s': [['17B40', '17B65', '17B68', '17B69']], 'contained': [], 'contains': [], 'total_citations': [8], 'published_year': [2015]}

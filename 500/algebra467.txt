@@ -1,0 +1,1 @@
+{'label': 467, 'axioms': '  a(u*v) = (a(u)*v) + (f(u)*a(v)).\n  ', 'names': ['(Weak) left alpha derivation'], 'bib_s': ['1602.02195'], 'msc_s': [['16S36', '16W35', '17B63']], 'contained': [], 'contains': [], 'total_citations': [13], 'published_year': [2016]}

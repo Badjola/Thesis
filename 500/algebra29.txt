@@ -1,0 +1,1 @@
+{'label': 29, 'axioms': 'a(f(x)*y) = g(x,a(y)).\n      f(a(y))*z = g(y,z).\n', 'names': ['(Weak) Differential Crossed Module'], 'bib_s': ['hep-th0206130'], 'msc_s': [['22E99']], 'contained': [], 'contains': [], 'total_citations': [133], 'published_year': [2002]}

@@ -1,0 +1,1 @@
+{'label': 535, 'axioms': '   a(f(x)) = f(a(x)).\n      a(x*y) = a(x)*a(y) & f(x*y) = f(x)*f(y).\n      a(x)*(y*z) = (x*y)*f(z).   ', 'names': ['BiHom-associative algebra'], 'bib_s': ['1703.07275'], 'msc_s': [['17D30', '17B38', '15A04']], 'contained': [], 'contains': [], 'total_citations': [40], 'published_year': [2017]}

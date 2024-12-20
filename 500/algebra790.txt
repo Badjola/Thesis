@@ -1,0 +1,1 @@
+{'label': 790, 'axioms': ' x*y=y*x.\n (x*x)*(y*x) = ((x*x)*y)*x. ', 'names': ['Jordan algebra'], 'bib_s': ['2002.00794'], 'msc_s': [['17C99', '17C10']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2020]}

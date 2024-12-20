@@ -1,0 +1,59 @@
+Generalizes:    Bi-skew brace
+ 
+Theory used:
+x*(y*z) = (x*y)*z. 
+ 1*x = x. 
+ x*1 = x. 
+ x*a(x) = 1. 
+ a(x)*x = 1. 
+x+(y+z) = (x+y)+z. 
+ 0+x = x. 
+ x+0 = x. 
+ x+f(x) = 0. 
+ f(x)+x = 0. 
+   x+(y*z) = ((x+y)*a(x))*(x+z).
+      x*(y+z) = ((x*y)+f(x))+(x*z).  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = g2(g2(f1((y * x)))).
+                    x \ y = (f2(f(y)) + f1((x + y))).
+                    x / y = (f2((y + x)) + a(g2(x))).
+                    b(x) = (g1((x + x)) * f(f2(x))).
+                    c(x) = (a(x) + g2(g1(x))).
+                    
+Axioms Satisfied by that Theory:
+c(c(x)) = c(c(y)).
+c(c(x)) = b(c(c(y))).
+b(c(c(x))) = b(c(c(y))).
+c(c(x)) = b(b(c(c(y)))).
+c(c(x)) = c(b(c(c(y)))).
+c(c(x)) v y = c(c(z)) v y.
+x \ c(c(y)) = x \ c(c(z)).
+c(c(x)) / y = c(c(z)) / y.
+c(c(x)) v y = y v c(c(z)).
+x v c(c(y)) = x v c(c(z)).

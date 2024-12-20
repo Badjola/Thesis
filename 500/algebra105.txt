@@ -1,0 +1,1 @@
+{'label': 105, 'axioms': ' (u*v)*w = u*(v+w).\n u+(v+w) = (u*v)+w.\n (u+v)*w = u+(v*w).  ', 'names': ['(Weak) Non Associative Dialgebra '], 'bib_s': ['math0510545'], 'msc_s': [['17A32', '17A99', '17B35', '17B55']], 'contained': [766], 'contains': [156], 'total_citations': [36], 'published_year': [2005]}

@@ -1,0 +1,1 @@
+{'label': 789, 'axioms': ' f(x*y) = 1.', 'names': ['(Weak) Coxeter group'], 'bib_s': ['2001.05011'], 'msc_s': [['20F55', '06A07', '05A15', '05A05']], 'contained': [], 'contains': [], 'total_citations': [5], 'published_year': [2020]}

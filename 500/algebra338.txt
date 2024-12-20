@@ -1,0 +1,1 @@
+{'label': 338, 'axioms': '    a(u+v,w) = (a(u,w)) + (a(v,w)). \n       a(u,v+w) = (a(u,v)) + (a(u,w)). \n       a(u*x,v) = a(u,(x*v)). \n       a(0,v) = 0 & 0 = a(u,0). \n  ', 'names': ['(Weak) R-balanced map'], 'bib_s': ['1305.5531'], 'msc_s': [['16Y60', '16D10']], 'contained': [], 'contains': [], 'total_citations': [15], 'published_year': [2013]}

@@ -1,0 +1,1 @@
+{'label': 88, 'axioms': '   a(u,a(v,w)) = a(a(u,v),w) * a(v,a(u,w)).\n  ', 'names': ['Left Loday (or Leibniz) algebra'], 'bib_s': ['math0410528'], 'msc_s': [['53D30']], 'contained': [], 'contains': [], 'total_citations': [226], 'published_year': [2004]}

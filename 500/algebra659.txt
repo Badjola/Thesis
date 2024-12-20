@@ -1,0 +1,1 @@
+{'label': 659, 'axioms': '     a(x,x,z) = 0. \n         (a(x,y,z) * a(y,z,x)) * a(z,x,y) = 0. \n         a(u,v,a(x,y,z)) = (a(a(u,v,x),y,z) * a(x,a(u,v,y),z)) * a(x,y,a(u,v,z)). \n  ', 'names': ['Lie triple system (LTS)'], 'bib_s': ['1809.01067'], 'msc_s': [['17A30', '17A36', '17A40', '17A42']], 'contained': [], 'contains': [], 'total_citations': [12], 'published_year': [2018]}

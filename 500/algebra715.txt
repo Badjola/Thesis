@@ -1,0 +1,1 @@
+{'label': 715, 'axioms': '   x+(y*z) = ((x+y)*a(x))*(x+z). \n  ', 'names': ['Skew left brace'], 'bib_s': ['1904.08814'], 'msc_s': [['12F05', '16T05']], 'contained': [], 'contains': [], 'total_citations': [37], 'published_year': [2019]}

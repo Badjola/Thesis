@@ -1,0 +1,1 @@
+{'label': 127, 'axioms': '  x*(y*z) = (x*y)*z.\n  x*(y+z) = (x*y)+z.\n  x+(y+z) = (x+y)+z.\n  ', 'names': ['Duplicial algebra'], 'bib_s': ['math0703437'], 'msc_s': [['16W30', '16A24']], 'contained': [], 'contains': [], 'total_citations': [5], 'published_year': [2007]}

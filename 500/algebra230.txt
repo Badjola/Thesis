@@ -1,0 +1,1 @@
+{'label': 230, 'axioms': '    a(x,y*z) = a(x*y,z). \n  ', 'names': ['(Weak) Frobenius algebra'], 'bib_s': ['1006.2781'], 'msc_s': [['55P35', '55P50', '55R10', '57R19', '55U99']], 'contained': [], 'contains': [], 'total_citations': [3], 'published_year': [2010]}

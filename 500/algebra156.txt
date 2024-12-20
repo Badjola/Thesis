@@ -1,0 +1,1 @@
+{'label': 156, 'axioms': '  x*(y*z) = (x*y)*z & (x*y)*z = x*(y+z).\n  (x+y)*z = x+(y*z).\n  (x*y)+z = x+(y+z) & x+(y+z) = (x*y)*z.\n  ', 'names': ['(Weak) Dialgebra'], 'bib_s': ['0807.3180'], 'msc_s': [['17A32', '17A30', '16S80', '18G15']], 'contained': [105, 583], 'contains': [], 'total_citations': [2], 'published_year': [2008]}

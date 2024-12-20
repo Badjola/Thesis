@@ -1,0 +1,1 @@
+{'label': 668, 'axioms': '  x+(y+z) = (x+y)+z & x*(y*z)=(x*y)*z.\n  x+y=y+x & x*y=y*x.\n  x+x=x & x*x=x.\n  (x+y)*x = x & (x*y)+x=x. \n  ', 'names': ['lattice'], 'bib_s': ['1810.10341'], 'msc_s': [['60A99', '60D99', '62A99']], 'contained': [], 'contains': [], 'total_citations': [33], 'published_year': [2018]}

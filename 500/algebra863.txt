@@ -1,0 +1,1 @@
+{'label': 863, 'axioms': '   (x*y)*z = (x*z)*y. \n       x*(x*y) = y*(y*x). \n       x*x = 0. \n       x*0 = x.\n  ', 'names': ['commutative BCK-algebra'], 'bib_s': ['2010.08913'], 'msc_s': [['06F35', '54H10']], 'contained': [333], 'contains': [234], 'total_citations': [2], 'published_year': [2020]}

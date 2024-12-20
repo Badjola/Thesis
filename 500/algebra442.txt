@@ -1,0 +1,1 @@
+{'label': 442, 'axioms': '   (a(x)*(y*z)) + ((y*x)*a(z)) = ((x*y)*a(z)) + (a(y)*(x*z)). \n  ', 'names': ['(Weak) Hom-preLie algebra'], 'bib_s': ['1509.03948'], 'msc_s': [['17A42', '17B99']], 'contained': [], 'contains': [647], 'total_citations': [17], 'published_year': [2015]}

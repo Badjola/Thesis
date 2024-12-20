@@ -1,0 +1,1 @@
+{'label': 38, 'axioms': '   a(a(u)) = u. \n       f(u*v) = f(v)*f(u). \n  ', 'names': ['(Weak) Involutive Quantale'], 'bib_s': ['math0211345'], 'msc_s': [['46L85', '06F07']], 'contained': [], 'contains': [451], 'total_citations': [37], 'published_year': [2002]}

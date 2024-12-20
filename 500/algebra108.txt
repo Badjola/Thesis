@@ -1,0 +1,1 @@
+{'label': 108, 'axioms': '   a(x,(f(x))) = a(f(x),x) & a(f(x),x) = x. \n     a(a(u, v), w) = a(u, a(v, w)). \n  ', 'names': ['(Weak) Fiberwise monoid'], 'bib_s': ['math0602210'], 'msc_s': [['55R35', '57R19', '55R70', '55P43', '55S12']], 'contained': [], 'contains': [], 'total_citations': [60], 'published_year': [2006]}

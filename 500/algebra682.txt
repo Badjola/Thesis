@@ -1,0 +1,1 @@
+{'label': 682, 'axioms': '    a(x*y) = a(x)*a(y).\n      f(x*y,z) = f(x,y*z).\n  ', 'names': ['(Weak) Symmetric Composition algebra'], 'bib_s': ['1901.04459'], 'msc_s': [['17C40', '20G41', '14L30', '20G10']], 'contained': [], 'contains': [], 'total_citations': [5], 'published_year': [2019]}

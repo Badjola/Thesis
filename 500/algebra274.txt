@@ -1,0 +1,1 @@
+{'label': 274, 'axioms': '   (u*v = x & w*y = x) -> u*y = x & w*v = x. \n  ', 'names': ['rectangular groupoid'], 'bib_s': ['1108.1658'], 'msc_s': [['05C20']], 'contained': [], 'contains': [539, 81], 'total_citations': [0], 'published_year': [2011]}

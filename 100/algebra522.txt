@@ -1,0 +1,1 @@
+{'label': 522, 'axioms': ' x*x=a(x). \n f(x,y)*y = a(x). \n ( z*y = a(x) & w*y = a(x)) -> z = w. \n (x*y)*a(z) = (x*z)*(y*z). \n  ', 'names': [' f-quandle'], 'bib_s': ['1612.08968'], 'msc_s': [['57M27']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2016]}

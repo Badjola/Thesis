@@ -1,0 +1,1 @@
+{'label': 166, 'axioms': '   u*(v*x) = (u*v)*x.\n    (u+v)*x = (u*x)+(v*x).\n    u*(x+y) = (u*x)+(u*y).\n    0*x = x. \n  ', 'names': ['semilinear (or semivector) space'], 'bib_s': ['0810.5407'], 'msc_s': [['54E55', '28C15', '92C40', '92D20']], 'contained': [], 'contains': [], 'total_citations': [13], 'published_year': [2008]}

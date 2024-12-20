@@ -1,0 +1,1 @@
+{'label': 308, 'axioms': '    a(f(x,y,z)) = ((f(a(x),y,z)) * (f(x,a(y),z))) * (f(x,y,a(z))). \n  ', 'names': ['(Weak) Jordan triple derivation'], 'bib_s': ['1207.5394'], 'msc_s': [['17C65']], 'contained': [], 'contains': [], 'total_citations': [23], 'published_year': [2012]}

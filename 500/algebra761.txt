@@ -1,0 +1,1 @@
+{'label': 761, 'axioms': ' a(x,a(y,z)) = a(a(x,y),z) + a(y,a(x,z)).\n f(a(x,y)) = a(f(x),f(y)).\n a(x,z*y) = (f(x)*(z*y)) + (z*a(x,y)).  ', 'names': ['(Weak) Courant Algebroid'], 'bib_s': ['1909.07127'], 'msc_s': [['53D18']], 'contained': [], 'contains': [], 'total_citations': [5], 'published_year': [2019]}

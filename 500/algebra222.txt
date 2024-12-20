@@ -1,0 +1,1 @@
+{'label': 222, 'axioms': '    a(z,z) = 0.\n      a(z,x*y) = (a(z,x)*y) + (x*a(z,y)).\n  ', 'names': ['(Weak) Poisson algebra'], 'bib_s': ['1001.0239'], 'msc_s': [['16G99', '16S99']], 'contained': [], 'contains': [], 'total_citations': [62], 'published_year': [2010]}

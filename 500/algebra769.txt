@@ -1,0 +1,1 @@
+{'label': 769, 'axioms': '     a(x*z,y*w) = 0 * a(x,y). \n  ', 'names': ['(Weak) pseudo H-type Lie algebra'], 'bib_s': ['1911.01849'], 'msc_s': [['17B60', '17B30', '17B70', '22E15']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2019]}

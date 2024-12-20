@@ -1,0 +1,1 @@
+{'label': 44, 'axioms': '     (a(f(x,y),z)*a(f(y,z),x))*a(f(z,x),y)=0. \n  ', 'names': ['Sridharan algebra'], 'bib_s': ['math0301195'], 'msc_s': [['16W30']], 'contained': [], 'contains': [], 'total_citations': [9], 'published_year': [2003]}

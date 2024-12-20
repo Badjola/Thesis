@@ -1,0 +1,1 @@
+{'label': 364, 'axioms': '   a(x,y) = a(y,x). \n     a(x,y)*a(x,z) = a(x,(y+z)+((x*y)*z)). \n     a(x,y*z) = a(x*y,z)*a(x*z,y). \n  ', 'names': ['(Weak) Dennis-Stein K-group'], 'bib_s': ['1402.2222'], 'msc_s': [['46M18', '46L80', '46L89']], 'contained': [], 'contains': [], 'total_citations': [6], 'published_year': [2014]}

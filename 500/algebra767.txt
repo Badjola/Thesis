@@ -1,0 +1,1 @@
+{'label': 767, 'axioms': '  x+(y*z) = (x+y)*(x+z). \n   (x)*(y+z) = (x*y)+(x*z). \n  ', 'names': ['(Weak) Distributive lattice'], 'bib_s': ['1911.00721'], 'msc_s': [['03G10', '06B35']], 'contained': [176], 'contains': [87], 'total_citations': [2], 'published_year': [2019]}

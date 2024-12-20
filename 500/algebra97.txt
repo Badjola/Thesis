@@ -1,0 +1,1 @@
+{'label': 97, 'axioms': '  (x*(y*z)) + ((x*y)*z) = (y*(x*z)) + ((y*x)*z). \n (x*y)*z = (x*z)*y.  ', 'names': ['(Weak) Novikov algebra '], 'bib_s': ['math-ph0502008'], 'msc_s': [['17B30', '17B69', '17D25']], 'contained': [85], 'contains': [750], 'total_citations': [43], 'published_year': [2005]}

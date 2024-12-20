@@ -1,0 +1,1 @@
+{'label': 377, 'axioms': '  x + (x*y) = y + (y*x).\n  ', 'names': ['(Weak) Hoop'], 'bib_s': ['1404.0816'], 'msc_s': [['03G25', '06D35', '03B47']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2014]}

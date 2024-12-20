@@ -1,0 +1,1 @@
+{'label': 272, 'axioms': '    a(x*y,z) = a(y,f(x)*z).\n      a(x,y*z) = a(x*f(z),y). \n  ', 'names': ['(Weak) Proper *-algebra'], 'bib_s': ['1107.1297'], 'msc_s': [['16S35']], 'contained': [], 'contains': [], 'total_citations': [3], 'published_year': [2011]}

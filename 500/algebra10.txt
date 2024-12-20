@@ -1,0 +1,1 @@
+{'label': 10, 'axioms': '   (u*v) * w = u * (v * w).\n      u * 0 = u.\n      u * v = v * u.\n      u * 1 = 1.\n      a(a(u)) = u.\n      a(0) = 1.\n      u * a(u) = 1.\n      a(a(u) * v) * v = a(u * a(v)) * u.\n  ', 'names': ['MV-algebra'], 'bib_s': ['quant-ph0101028'], 'msc_s': [['03G12']], 'contained': [], 'contains': [], 'total_citations': [200], 'published_year': [2001]}

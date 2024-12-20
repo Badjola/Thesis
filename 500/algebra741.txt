@@ -1,0 +1,1 @@
+{'label': 741, 'axioms': '  a(f(x,y)) = f(a(x),a(y)). ', 'names': ['(Weak) Multiplicative Hom Jordan algebra'], 'bib_s': ['1906.04561'], 'msc_s': [['17C10', '17C20', '17C50', '17B10', '17A30']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2019]}

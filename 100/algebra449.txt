@@ -1,0 +1,1 @@
+{'label': 449, 'axioms': ' a(x) = x*0.\n (x*y)*z = a((a(z)*x) * (a(y*z))).\n a(a(0)) = 0. ', 'names': ['Implication zroupoid'], 'bib_s': ['1510.00892'], 'msc_s': [['06E75', '06D30', '06A06', '03G25', '20N02']], 'contained': [], 'contains': [], 'total_citations': [11], 'published_year': [2015]}

@@ -1,0 +1,1 @@
+{'label': 815, 'axioms': '   x+y=y+x & x*y=y*x.\n    x+(y+z) = (x+y)+z.\n    x+0=x.\n    a(x+y)=a(x)+a(y).\n    1*x=x.\n    0*x=0 & x+1=1. \n  ', 'names': ['(Weak) Semilinear space'], 'bib_s': ['2006.14581'], 'msc_s': [['41A65', '41A17', '46E40', '41A44']], 'contained': [], 'contains': [], 'total_citations': [3], 'published_year': [2020]}

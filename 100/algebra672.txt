@@ -1,0 +1,1 @@
+{'label': 672, 'axioms': '  0+x = x.\n  x+y=y+x.\n  x+(y+z)=(x+y)+z.\n  1*x=x.\n  x*y=y*x.\n  x*(y*z)=(x*y)*z.\n  0*x=0.\n  (x+y)*z = (x*z)+(y*z). \n  ', 'names': ['Commutative semiring'], 'bib_s': ['1811.03678'], 'msc_s': [['68Q05']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2018]}

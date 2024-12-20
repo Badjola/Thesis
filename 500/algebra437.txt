@@ -1,0 +1,1 @@
+{'label': 437, 'axioms': '   a(x*0) = x*a(0) & a(x+0) = x+a(0).\n      a(0*x) = a(0)*x & a(0+x)=a(0)+x.\n      a(0)*0 = a(0).\n      a(0)+0 = a(0).\n ', 'names': ['(Weak) Crossed module of dialgebras'], 'bib_s': ['1508.01147'], 'msc_s': [['17A30', '17A32', '17B35', '18A40']], 'contained': [], 'contains': [], 'total_citations': [16], 'published_year': [2015]}

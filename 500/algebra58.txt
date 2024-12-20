@@ -1,0 +1,1 @@
+{'label': 58, 'axioms': '   a(x,a(y,z)) = a(a(x,y),z) * a(y,a(x,z)). \n  ', 'names': ['Courant algebroid'], 'bib_s': ['math0310359'], 'msc_s': [['17B62', '17B63', '53D17', '58A50', '16W30']], 'contained': [], 'contains': [], 'total_citations': [5], 'published_year': [2003]}

@@ -1,0 +1,1 @@
+{'label': 829, 'axioms': '   a(0)=1.\n    a(1)=0.\n    a(x*y) = a(x)+a(y). \n  ', 'names': ['(Weak) Dually hemimorphic semi-Heyting algebra'], 'bib_s': ['2007.14459'], 'msc_s': [['03G25']], 'contained': [], 'contains': [823, 870], 'total_citations': [0], 'published_year': [2020]}

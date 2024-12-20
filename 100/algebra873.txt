@@ -1,0 +1,1 @@
+{'label': 873, 'axioms': ' x*f(x,y) = y. \n (x*z = y & x*w = y) -> z = w. \n    (x*y)*(x*z) = (y*x)*(y*z).\n  ', 'names': [' Cycle Set'], 'bib_s': ['2011.10083'], 'msc_s': [['16T25', '20N02', '20E22', '81R50']], 'contained': [], 'contains': [], 'total_citations': [11], 'published_year': [2020]}

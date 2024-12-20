@@ -1,0 +1,1 @@
+{'label': 82, 'axioms': '  (x*y)+(y*z) = y. \n  (x+y)*(y+z) = y.\n  ', 'names': ['Semicentral Bigroupoid'], 'bib_s': ['math0407070'], 'msc_s': [['05C30', '05C38', '05C50', '05c12']], 'contained': [], 'contains': [], 'total_citations': [11], 'published_year': [2004]}

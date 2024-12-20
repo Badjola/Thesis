@@ -1,0 +1,50 @@
+Generalizes:   weak BCC-algebra
+ 
+Theory used:
+ ((x*y)*(z*y))*(x*z) = 0.
+ x*x=0.
+ x*0=x.
+ ((x*y=0) & (y*x=0)) -> x=y.  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = (g1(x) * g2((y * x))).
+                    x \ y = (f1(g2(y)) * g2(x)).
+                    b(x) = (g2((x * x)) * g2(x)).
+                    c(x) = (f2((x * x)) * f2(x)).
+                    
+Axioms Satisfied by that Theory:
+c(b(x)) = b(c(x)).
+c(x v x) = c(x) v c(x).
+b(x v x) = b(x) v b(x).
+b(x) = ((b(y) v b(y)) \ c(y)) v x.
+b(x) = x \ ((b(y) v b(y)) \ c(y)).
+b(x) = b((b(y) v b(y)) \ c(y)) v x.
+b(x) = c((b(y) v b(y)) \ c(y)) v x.
+b(x) = (y \ (b(c(y)) v b(c(y)))) v x.
+(x v x) \ (y v y) = (x \ y) v (x \ y).
+((x v y) v (x v y)) v ((x v y) v (x v y)) = ((x v x) v (y v y)) v ((x v x) v (y v y)).

@@ -1,0 +1,1 @@
+{'label': 400, 'axioms': '    a(u,a(v,w)) * a(a(u,w),v) = a(a(u,v),w) . \n  ', 'names': ['Leibniz algebra'], 'bib_s': ['1412.4367'], 'msc_s': [['17A32', '17A60', '17B10', '17B20']], 'contained': [], 'contains': [], 'total_citations': [13], 'published_year': [2014]}

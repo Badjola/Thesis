@@ -1,0 +1,1 @@
+{'label': 41, 'axioms': '    0 * u = u.\n        u*v = v*u.\n        (u*v)*w = u*(v*w).\n        a(a(u))=u.\n        u*a(0)=a(0).\n        a(a(u)*v)*v = a(a(v)*u)*u.\n  ', 'names': ['MV-algebra'], 'bib_s': ['cs0211021'], 'msc_s': [['03B50', '03B52']], 'contained': [26, 336], 'contains': [26], 'total_citations': [97], 'published_year': [2002]}

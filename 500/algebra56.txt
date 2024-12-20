@@ -1,0 +1,1 @@
+{'label': 56, 'axioms': '   a(x)*a(y) = (a((x*a(y)) + (a(x)*y))) + (x*y).  \n  ', 'names': ['(Weak) t-Baxter operator'], 'bib_s': ['math0309213'], 'msc_s': [['17A30', '18D50']], 'contained': [], 'contains': [], 'total_citations': [67], 'published_year': [2003]}

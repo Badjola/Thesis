@@ -1,0 +1,1 @@
+{'label': 211, 'axioms': '     (a(f(x,y),z) * a(f(y,z),x)) * a(f(z,x),y) = 0. \n  ', 'names': ['(Weak) Symplectic Lie algebra'], 'bib_s': ['0912.2215'], 'msc_s': [['53D17', '53D50', '81S10']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2009]}

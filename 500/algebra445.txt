@@ -1,0 +1,1 @@
+{'label': 445, 'axioms': '     (x*y)*x = x.\n        (x*x)*a(y*y) = x*x.\n        (y*y)*(x*x) = x*x.\n        x*x = a(0).\n  ', 'names': ['(Weak) Boolean algebra'], 'bib_s': ['1509.03774'], 'msc_s': [['06D30', '08B15', '20N02']], 'contained': [], 'contains': [], 'total_citations': [9], 'published_year': [2015]}

@@ -1,0 +1,1 @@
+{'label': 490, 'axioms': '   a(a(u)*v) = a(u)*a(v).\n  ', 'names': ['(Weak) Averaging operator'], 'bib_s': ['1608.03505'], 'msc_s': [['17B75', '16W50']], 'contained': [], 'contains': [235], 'total_citations': [1], 'published_year': [2016]}

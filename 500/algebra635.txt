@@ -1,0 +1,1 @@
+{'label': 635, 'axioms': '    a(u*x,v*y) = a(u,v)*(x*y). \n       f(x*u) = f(x)*u. \n  ', 'names': ['(Weak) current Hom-Lie algebra'], 'bib_s': ['1807.10944'], 'msc_s': [['17A99', '16G99', '17B01', '17B10', '17B30']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2018]}

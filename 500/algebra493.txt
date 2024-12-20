@@ -1,0 +1,1 @@
+{'label': 493, 'axioms': '   a(a(x,y,z),v,u) = (a(x,y,a(z,v,u)) + (f(z,v+u)*a(x,a(y,v,u),z))) + (f(y+z,v+u)*a(a(x,v,u),y,z)). \n  ', 'names': ['(Weak) Ternary Leibniz color algebra'], 'bib_s': ['1608.03505'], 'msc_s': [['17B75', '16W50']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2016]}

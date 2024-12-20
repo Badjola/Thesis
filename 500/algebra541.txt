@@ -1,0 +1,1 @@
+{'label': 541, 'axioms': '   a(f(x,y)) = f(a(x),a(y)). \n  ', 'names': ['Leibniz algebra morphism'], 'bib_s': ['1703.10426'], 'msc_s': [['17A32', '20L05', '18D35']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2017]}

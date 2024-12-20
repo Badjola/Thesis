@@ -1,0 +1,1 @@
+{'label': 120, 'axioms': '   (x*y)*z = x*(y*z).\n      a(x*y) = a(y)*a(x).\n      f(a(x)*x) = f(x)*f(x).\n  ', 'names': ['(Weak) H-B*-Algebra'], 'bib_s': ['math0609160'], 'msc_s': [['16D20', '46B04', '46C05', '46L05', '81S99']], 'contained': [], 'contains': [451], 'total_citations': [28], 'published_year': [2006]}

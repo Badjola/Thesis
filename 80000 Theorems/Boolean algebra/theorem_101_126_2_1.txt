@@ -1,0 +1,60 @@
+Generalizes:   Boolean algebra
+ 
+Theory used:
+  u*v=v*u.
+ u+v=v+u.
+ u * u = u. 
+     u + u = u. 
+     u + a(u) = 1. 
+     u * a(u) = 0. 
+     a(a(u)) = u. 
+     (u * (v * w)) = ((u * v) * w). 
+     (u + (v + w)) = ((u + v) + w). 
+     (u * (v + w)) = ((u * v) + (u * w)). 
+     (u + (v * w)) = ((u + v) * (u + w)). 
+     u * 1 = u. 
+     u + 0 = u. 
+     a((u * v)) = ((a(u)) + (a(v))). 
+     a((u + v)) = ((a(u)) * (a(v))). 
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = a((f2(g1(x)) + (y * y))).
+                    x \ y = f1((a(g2(y)) + a(x))).
+                    b(x) = (a(f1(x)) * g2((x * x))).
+                    
+Axioms Satisfied by that Theory:
+b(x v y) \ y = b(z v u) \ u.
+b(x v y) \ y = b(z) \ (u v z).
+b(x) \ (y v x) = b(z) \ (u v z).
+b(b(x)) \ b(y) = b(b(y)) \ b(x).
+(b(x) \ y) v y = (b(z) \ u) v u.
+b(b(x) \ (y v x)) = b(b(z) \ (u v z)).
+b(b(x) \ (y v x)) = z v (b(u) \ (w v u)).
+b(b(x) \ (y v x)) = (b(z) \ (u v z)) v w.
+b(b(b(x) \ (y v x))) = b(b(z) \ (u v z)).
+x v (b(b(y) \ (z v y)) v (x v u)) = x v u.

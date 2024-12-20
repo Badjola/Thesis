@@ -1,0 +1,1 @@
+{'label': 766, 'axioms': '   (x+y)*z = x+(y*z). \n  ', 'names': ['(Weak) Modular lattice'], 'bib_s': ['1910.03395'], 'msc_s': [['06B05', '06B20', '06B25', '06C99']], 'contained': [853], 'contains': [105, 231, 583, 75], 'total_citations': [0], 'published_year': [2019]}

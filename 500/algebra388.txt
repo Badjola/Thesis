@@ -1,0 +1,1 @@
+{'label': 388, 'axioms': '   x+y = a(x,y)*(y+x).\n  ', 'names': ['(Weak) gyrocommutative gyrogroup'], 'bib_s': ['1408.5050'], 'msc_s': [['20N05', '18A32', '20A05']], 'contained': [], 'contains': [], 'total_citations': [38], 'published_year': [2014]}

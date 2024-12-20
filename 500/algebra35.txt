@@ -1,0 +1,1 @@
+{'label': 35, 'axioms': '   a(f(u)*x,y) = a(x,u*y). \n      a(x*u,y) = a(x,y*f(u)).\n  ', 'names': ['(Weak) Involutive Q-module'], 'bib_s': ['math0211320'], 'msc_s': [['06F07', '06B23']], 'contained': [], 'contains': [], 'total_citations': [35], 'published_year': [2002]}

@@ -1,0 +1,1 @@
+{'label': 155, 'axioms': '   (x*y)*y = (y*x)*x.\n  ', 'names': ['(Weak) Wajsberg hoop'], 'bib_s': ['0806.4946'], 'msc_s': [['06F05', '08B30', '03G10', '03G25']], 'contained': [], 'contains': [744], 'total_citations': [25], 'published_year': [2008]}

@@ -1,0 +1,1 @@
+{'label': 552, 'axioms': '  (x*(y*z)) + ((y*x)*z) = (y*(x*z)) + ((x*y)*z).\n  (x*(y*z)) + ((x*z)*y) = (x*(z*y)) + ((x*y)*z). \n  ', 'names': ['(Weak) Left pre-Lie algebra'], 'bib_s': ['1706.00474'], 'msc_s': [['17A32', '17D30', '17B38', '17B61']], 'contained': [324], 'contains': [750], 'total_citations': [19], 'published_year': [2017]}

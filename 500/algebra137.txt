@@ -1,0 +1,1 @@
+{'label': 137, 'axioms': '    (a(a(x,y),z) + a(a(y,z),x)) + a(a(z,x),y) = 0.\n      a(x,y*z) = (a(x,y)*z) + (y*a(x,z)). \n  ', 'names': ['Poisson structure'], 'bib_s': ['0711.1412'], 'msc_s': [['53D20', '53D17', '37K05', '37K65']], 'contained': [], 'contains': [], 'total_citations': [50], 'published_year': [2007]}

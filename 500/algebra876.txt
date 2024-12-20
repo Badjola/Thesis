@@ -1,0 +1,1 @@
+{'label': 876, 'axioms': ' ((x*x)*w)*x = (x*x)*(w*x). ', 'names': ['noncommutative Jordan'], 'bib_s': ['2011.11702'], 'msc_s': [['17A05', '17A15', '17A20', '17A36', '17C27']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2020]}

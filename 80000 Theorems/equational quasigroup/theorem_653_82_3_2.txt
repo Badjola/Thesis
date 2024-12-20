@@ -1,0 +1,52 @@
+Generalizes:   equational quasigroup
+ 
+Theory used:
+  x*(x^y) = y. 
+   (y+x)*x = y. 
+   x^((x*y)) = y. 
+   (y*x)+x = y. 
+  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = ((y * x) + f2((x + y))).
+                    x \ y = f1(((y * x) + f2(y))).
+                    x / y = (g2((y + x)) * g2(x)).
+                    b(x) = ((x + x) + g1(x)).
+                    c(x) = (f1((x ^ x)) * (x + x)).
+                    
+Axioms Satisfied by that Theory:
+x / y = y / y.
+x / y = z / y.
+b(x / y) = b(y / y).
+b(x / y) = b(z / y).
+c(x / y) = c(y / y).
+c(x / y) = c(z / y).
+b(x / y) = b(y) / b(y).
+(x / y) \ z = (u / y) \ z.
+x \ (y / z) = x \ (u / z).
+x / (y / z) = u / (w / z).

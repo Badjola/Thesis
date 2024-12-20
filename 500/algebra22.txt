@@ -1,0 +1,1 @@
+{'label': 22, 'axioms': ' a(u,v,a(w,x,y)) = a(u,a(v,w,x),y). \n   a(u,v,a(w,x,y)) = a(a(u,v,w),x,y). \n    f(a(x,x,x)) = (f(x)*f(x))*f(x).\n', 'names': ['(Weak) C*-ternary ring'], 'bib_s': ['math0201189'], 'msc_s': [['46L07', '46L70', '17C65']], 'contained': [], 'contains': [], 'total_citations': [37], 'published_year': [2002]}

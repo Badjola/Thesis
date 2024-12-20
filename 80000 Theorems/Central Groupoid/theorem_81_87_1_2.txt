@@ -1,0 +1,47 @@
+Generalizes:   Central Groupoid
+ 
+Theory used:
+   (x*y)*(y*z) = y. 
+  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = f1((f1(x) * g2(y))).
+                    b(x) = g2(((x * x) * g1(x))).
+                    c(x) = (g1(x) * g2(f2(x))).
+                    
+Axioms Satisfied by that Theory:
+c(c(b(x))) = b(c(c(x))).
+c(b(c(c(c(x)))) v c(c(x))) = x.
+c(c(x v y)) = c(c(x)) v c(c(y)).
+b(c(c(c(c(x v y))))) v y = x v y.
+b(c(c(c(c(x))))) v c(c(c(x))) = x.
+c(b(c(x)) v x) = b(c(c(x))) v c(x).
+c(b(c(b(c(c(x))))) v b(c(c(x)))) = b(x).
+b(b(c(c(c(c(x)))))) v c(b(c(c(x)))) = b(x).
+c(c(b(c(x)) v x)) = b(c(c(c(x)))) v c(c(x)).
+c(b(b(c(x)) v x)) = b(c(b(c(x)))) v b(c(x)).

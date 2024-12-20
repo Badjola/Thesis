@@ -1,0 +1,1 @@
+{'label': 126, 'axioms': '  a(x, (y*z)) = ((a(x,y))*z) + (y*(a(x,z))).\n  ', 'names': ['Poisson structure'], 'bib_s': ['math0702140'], 'msc_s': [['58B34']], 'contained': [], 'contains': [], 'total_citations': [8], 'published_year': [2007]}

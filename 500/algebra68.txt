@@ -1,0 +1,1 @@
+{'label': 68, 'axioms': ' ( ((x*x = x*y) & (y*y = y*x)) & (x*y=y*x) ) -> x = y. ', 'names': ['(Weak) Quasi-Separative Semigroup'], 'bib_s': ['math0311414'], 'msc_s': [['20M10']], 'contained': [], 'contains': [139, 516, 67, 794, 81], 'total_citations': [7], 'published_year': [2003]}

@@ -1,0 +1,1 @@
+{'label': 450, 'axioms': '    x*(y*z) = (x*y)*z.\n      a(f(x))*x = x & x = x*a(g(x)).\n      x*h(x) = a(f(x)) & h(x)*x = a(g(x)).  \n  ', 'names': ['(Weak) Grupoid'], 'bib_s': ['1510.03395'], 'msc_s': [['20L05', '20N05', '22A22', '22E15', '22E60', '58H05']], 'contained': [], 'contains': [], 'total_citations': [9], 'published_year': [2015]}

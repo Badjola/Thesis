@@ -1,0 +1,1 @@
+{'label': 350, 'axioms': '   (x*y)*(z*w) = (x*z)*(y*w). \n  ', 'names': ['Abelian Quandle'], 'bib_s': ['1310.0852'], 'msc_s': [['57M27', '57M25']], 'contained': [], 'contains': [], 'total_citations': [18], 'published_year': [2013]}

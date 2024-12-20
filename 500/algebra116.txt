@@ -1,0 +1,1 @@
+{'label': 116, 'axioms': '    a(f(x),a(y,z)) * a(f(x),a(z,y)) = a(a(x,y),f(z)) * a(a(x,z),f(y)). \n  ', 'names': ['(Weak) Hom-pre-Lie algebra'], 'bib_s': ['math0609501'], 'msc_s': [['17A30', '16Y99', '17A01', '17A20', '17D25']], 'contained': [], 'contains': [576], 'total_citations': [588], 'published_year': [2006]}

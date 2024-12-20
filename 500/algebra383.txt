@@ -1,0 +1,1 @@
+{'label': 383, 'axioms': '  x*y=y*x.\n  (x*y)*z = x*(y*z).\n  1*x = x & x = x*1.\n  0*x =0 & 0 = x*0.\n  x*(y+z) = (x*y)+(x*z). \n  ', 'names': ['ordered commutative semi-ring'], 'bib_s': ['1407.7066'], 'msc_s': [['57M99']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2014]}

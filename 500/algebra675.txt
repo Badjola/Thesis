@@ -1,0 +1,1 @@
+{'label': 675, 'axioms': '  a(u*v,z) = (a(u,z)*v) + (u*a(v,z)). \n     a(u,v*z) = (a(u,v)*z) + (v*a(u,z)).\n  ', 'names': ['(Weak) Biderivation'], 'bib_s': ['1811.05315'], 'msc_s': [['17B40', '17A50', '17B75']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2018]}

@@ -1,0 +1,1 @@
+{'label': 193, 'axioms': ' x*(y*z) = y*(x*z).\n  (x*y)*z = (x*z)*y. ', 'names': ['(Weak) LR-algebra'], 'bib_s': ['0906.1151'], 'msc_s': [['17B30']], 'contained': [162], 'contains': [725], 'total_citations': [26], 'published_year': [2009]}

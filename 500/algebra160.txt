@@ -1,0 +1,1 @@
+{'label': 160, 'axioms': '   x*x=x.\n      (x*y)*z = (x*z)*(y*z). ', 'names': ['PseudoQuandle'], 'bib_s': ['0808.2839'], 'msc_s': [['57M27']], 'contained': [372, 515, 516, 781, 91], 'contains': [376, 744], 'total_citations': [0], 'published_year': [2008]}

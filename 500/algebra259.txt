@@ -1,0 +1,1 @@
+{'label': 259, 'axioms': '  x = a(a(x)). \n (a(x)+y)+(a(y)+x)=1. ', 'names': ['(Weak) MV-algebra'], 'bib_s': ['1103.5943'], 'msc_s': [['03B47', '03B50', '03C05', '06D35']], 'contained': [], 'contains': [195, 529], 'total_citations': [1], 'published_year': [2011]}

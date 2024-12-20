@@ -1,0 +1,1 @@
+{'label': 822, 'axioms': '   x*(y+z)=(x*y)+(x*z).\n    (x+y)*z = (x*z)+(y*z).\n    (x*y)*z = x*(y*z).\n    x*0=x. \n  ', 'names': ['(Weak) right quaternionic vector space'], 'bib_s': ['2006.05253'], 'msc_s': [['47A10', '47A60', '46S10', '47S10']], 'contained': [], 'contains': [124, 466, 850], 'total_citations': [0], 'published_year': [2020]}

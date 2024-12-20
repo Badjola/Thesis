@@ -1,0 +1,1 @@
+{'label': 655, 'axioms': '   (y*z)*(y*x) = x*z. \n  ', 'names': ['(Weak) Schweizer quasigroup'], 'bib_s': ['1809.07095'], 'msc_s': [['20N05']], 'contained': [616, 781], 'contains': [654], 'total_citations': [4], 'published_year': [2018]}

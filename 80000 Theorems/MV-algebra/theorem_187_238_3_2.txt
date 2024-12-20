@@ -1,0 +1,55 @@
+Generalizes:   MV-algebra
+ 
+Theory used:
+    u*v = v*u.
+      (x*y)*z = x*(y*z).
+      x*a(x)=1.
+      x*0=x.
+      a(a(x)) = x.
+      a(0)=1.
+      x*1=1.
+      a(a(x)*y)*y = a(x*a(y)) * x. 
+  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = g2(g2(g1((x * y)))).
+                    x \ y = g1(((y * y) * a(g1(x)))).
+                    x / y = f2(((x * y) * g2(x))).
+                    b(x) = a((a(f1(x)) * (x * x))).
+                    c(x) = f1((f1(x) * g2(a(x)))).
+                    
+Axioms Satisfied by that Theory:
+x v y = y v x.
+x \ (y \ x) = z \ (u \ z).
+b(x \ (y \ x)) = b(z \ (u \ z)).
+x \ (y \ x) = (z \ (u \ z)) / w.
+(x \ (y \ x)) v z = u \ (w \ u).
+x v (y \ (z \ y)) = u \ (w \ u).
+x \ (y \ (z \ y)) = u \ (w \ u).
+x \ (y \ x) = z / (u \ (w \ u)).
+c(x \ (y \ x)) = c(z \ (u \ z)).

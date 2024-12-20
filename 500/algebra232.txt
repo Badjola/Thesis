@@ -1,0 +1,1 @@
+{'label': 232, 'axioms': '    a(x*y)*y = x & x = (a(x)*y)*y.\n      (x*y)*z = (x*z)*(y*z). \n  ', 'names': ['rack'], 'bib_s': ['1007.3550'], 'msc_s': [['57M27', '57M25']], 'contained': [486, 633, 880], 'contains': [], 'total_citations': [9], 'published_year': [2010]}

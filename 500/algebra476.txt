@@ -1,0 +1,1 @@
+{'label': 476, 'axioms': 'x^(y*z) = ( (x^y)*z ) + ((x^z)*y).', 'names': ['(Weak) differential GDN-Poisson algebra'], 'bib_s': ['1604.06676'], 'msc_s': [['16S10', '17A30', '17A50']], 'contained': [], 'contains': [], 'total_citations': [23], 'published_year': [2016]}

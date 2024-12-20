@@ -1,0 +1,1 @@
+{'label': 546, 'axioms': '   a(u,x*v) = (x*a(u,v)) + ((f(u)*x)*v). ', 'names': ['(Weak) Left Leibniz algebroid'], 'bib_s': ['1704.07544'], 'msc_s': [['53D17']], 'contained': [], 'contains': [278], 'total_citations': [2], 'published_year': [2017]}

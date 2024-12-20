@@ -1,0 +1,1 @@
+{'label': 576, 'axioms': ' f(a(x),f(y,z)) = f(f(x,y),a(z)).\n a(x*y) = a(x)*a(y). ', 'names': ['(Weak) Multiplicative Hom-associative algebra'], 'bib_s': ['1710.07599'], 'msc_s': [['22E46', '53C35', '57S20']], 'contained': [115, 116], 'contains': [], 'total_citations': [6], 'published_year': [2017]}

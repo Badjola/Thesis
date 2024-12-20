@@ -1,0 +1,1 @@
+{'label': 752, 'axioms': '     a(x,y)=a(y,x) & ((a(x,a(y,z))) * (a(y,a(z,x)))) * (a(z,a(x,y))) = 0. \n  ', 'names': ['(Weak) Commutative Lie algebra'], 'bib_s': ['1908.06764'], 'msc_s': [['17A32', '17B56']], 'contained': [533, 700], 'contains': [], 'total_citations': [1], 'published_year': [2019]}

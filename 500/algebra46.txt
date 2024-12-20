@@ -1,0 +1,1 @@
+{'label': 46, 'axioms': ' (x*y)*z = x*(y*z). \n a(x*y) = a(x) + a(y). ', 'names': ['(Weak) K-Module'], 'bib_s': ['math0303020'], 'msc_s': [['16S30', '16G30', '17B35']], 'contained': [], 'contains': [], 'total_citations': [21], 'published_year': [2003]}

@@ -1,0 +1,1 @@
+{'label': 782, 'axioms': ' x*y=y*x.\n a(x,y)+a(y,x) = 0.', 'names': ['(Weak) Polarized algebra'], 'bib_s': ['1912.09117'], 'msc_s': [['17A30', '53D55']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2019]}

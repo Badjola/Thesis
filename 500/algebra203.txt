@@ -1,0 +1,1 @@
+{'label': 203, 'axioms': '   a(f(f(x)),a(y,a(x,x))) = a(a(f(x),y),f(a(x,x))).\n  ', 'names': ['Hom-Jordan algebra'], 'bib_s': ['0909.0326'], 'msc_s': [['17D05', '17C10', '17A30']], 'contained': [], 'contains': [], 'total_citations': [112], 'published_year': [2009]}

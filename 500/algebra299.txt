@@ -1,0 +1,1 @@
+{'label': 299, 'axioms': '  x*(y*z) = (x*y)*z. \n     x*(y+z) = (x*y) + (x*z). \n     (u*v)*(x*y) = (u*x)*(v*y).\n   ', 'names': ['(Weak) Algebra'], 'bib_s': ['1205.3340'], 'msc_s': [['81Q99']], 'contained': [489], 'contains': [458], 'total_citations': [0], 'published_year': [2012]}

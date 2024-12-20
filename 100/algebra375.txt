@@ -1,0 +1,1 @@
+{'label': 375, 'axioms': ' (x*y)*(x*z) = (y*x)*(y*z). \n (z+x)+(y+x) = (z+y)+(x+y).\n (y*x)+(x*y) = x.\n x = (y+x)*(x+y). ', 'names': [' RLC-system'], 'bib_s': ['1403.3019'], 'msc_s': [['20F38', '20F36', '16T25', '20M05', '06F05', '20F55', '20N02', '06F15']], 'contained': [], 'contains': [], 'total_citations': [78], 'published_year': [2014]}

@@ -1,0 +1,1 @@
+{'label': 478, 'axioms': '    a(f(u,v)) = f(a(u),v) * f(u,a(v)). \n  ', 'names': ['Leibniz algebra'], 'bib_s': ['1605.00848'], 'msc_s': [['17A32', '17A36', '17B30', '17B56']], 'contained': [], 'contains': [], 'total_citations': [22], 'published_year': [2016]}

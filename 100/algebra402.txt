@@ -1,0 +1,1 @@
+{'label': 402, 'axioms': ' (x*y)*z = x*(y*z). \n (x+y)+z = x+(y+z). \n  (x*y)+(z*w) = (x+z)*(y+w). \n  ', 'names': ['double semigroup'], 'bib_s': ['1501.03690'], 'msc_s': [['18D05', '18D99', '20M18']], 'contained': [], 'contains': [], 'total_citations': [7], 'published_year': [2015]}

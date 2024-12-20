@@ -1,0 +1,1 @@
+{'label': 281, 'axioms': '    x*y = x*z -> y=z.\n      y*x = z*x -> y = z.\n      x*y=a(y) -> x=y & y=a(y). \n  ', 'names': ['category of paths'], 'bib_s': ['1111.6924'], 'msc_s': [['46L05', '20L05']], 'contained': [], 'contains': [], 'total_citations': [56], 'published_year': [2011]}

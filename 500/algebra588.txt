@@ -1,0 +1,1 @@
+{'label': 588, 'axioms': '   a(a(u)) = u. \n     a(u*v) = a(v)*a(u). \n     a(u+v) = a(u)+a(v). \n  ', 'names': ['Banach algebra'], 'bib_s': ['1712.02450'], 'msc_s': [['42C15', '46L05']], 'contained': [], 'contains': [], 'total_citations': [18], 'published_year': [2017]}

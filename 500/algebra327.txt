@@ -1,0 +1,1 @@
+{'label': 327, 'axioms': '    a(f(x,y)) = f(a(x),y) * f(x,a(y)). \n  ', 'names': ['(Weak) Derivation Linear map'], 'bib_s': ['1301.7665'], 'msc_s': [['17A32', '17A36']], 'contained': [], 'contains': [], 'total_citations': [85], 'published_year': [2013]}

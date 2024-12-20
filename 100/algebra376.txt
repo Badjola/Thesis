@@ -1,0 +1,1 @@
+{'label': 376, 'axioms': ' x*x = x. \n (x*y)*z = (x*z)*(y*z). \n (x*y)+y = x. \n x = (x+y)*y. \n', 'names': [' Quandle'], 'bib_s': ['1404.5642'], 'msc_s': [['57M27', '57M25']], 'contained': [], 'contains': [], 'total_citations': [3], 'published_year': [2014]}

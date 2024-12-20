@@ -1,0 +1,1 @@
+{'label': 417, 'axioms': '    a(x,y) = f(a(y,x)). \n         ((a(g(x),a(y,z))) * (a(g(y),a(z,x)))) * (a(g(z),a(x,y))) = 0.\n  ', 'names': ['(Weak) Hom-Lie algebra'], 'bib_s': ['1505.08168'], 'msc_s': [['17A40', '17A42', '17C50', '17D05', '17D10']], 'contained': [], 'contains': [], 'total_citations': [3], 'published_year': [2015]}

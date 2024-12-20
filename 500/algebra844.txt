@@ -1,0 +1,1 @@
+{'label': 844, 'axioms': '    a(x*y)=a(x)*a(y).\n      a(x)*(y*z) = (x*y)*a(z). \n  ', 'names': ['(Weak) Multiplicative Hom-associative algebra'], 'bib_s': ['2008.06645'], 'msc_s': [['17D30', '17B61']], 'contained': [633, 661], 'contains': [], 'total_citations': [14], 'published_year': [2020]}

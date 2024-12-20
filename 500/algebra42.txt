@@ -1,0 +1,1 @@
+{'label': 42, 'axioms': '    0 + u = u.\n      u+v = v+u.\n      (u+v)+w = u+(v+w).\n      u + a(u) = 0.\n      u*v=v*u.\n      (u*v)*w = u*(v*w).\n      u=u*u.  \n  ', 'names': ['(Weak) Abelian L-Group'], 'bib_s': ['cs0211021'], 'msc_s': [['03B50', '03B52']], 'contained': [], 'contains': [], 'total_citations': [97], 'published_year': [2002]}

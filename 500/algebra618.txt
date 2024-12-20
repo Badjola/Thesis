@@ -1,0 +1,1 @@
+{'label': 618, 'axioms': '    0*x=x.\n      x*x=0.\n      x*(y*z) = (x*y)*(x*z).\n      (x*y)*y = (y*x)*x. \n  ', 'names': ['Tarski algebra'], 'bib_s': ['1804.02322'], 'msc_s': [['03E99', '03G10', '60A05', '60A99', '94D99', '06F30']], 'contained': [656], 'contains': [], 'total_citations': [1], 'published_year': [2018]}

@@ -1,0 +1,1 @@
+{'label': 174, 'axioms': ' x+y = y+x.\n (x+y)+z = x+(y+z). \n a(a(x)) = x. \n x+(y+a(y)) = y+a(y). \n x+(x*y) = x. \n x*y = a(a(x)+a(y)). \n  x+(a(x)*(x+y)) = x+y. ', 'names': [' orthomodular lattice'], 'bib_s': ['0812.2702'], 'msc_s': [['03B60', '03G12', '06C15', '68T27']], 'contained': [], 'contains': [], 'total_citations': [5], 'published_year': [2008]}

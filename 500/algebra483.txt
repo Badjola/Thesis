@@ -1,0 +1,1 @@
+{'label': 483, 'axioms': '   x*(x*y) = (x*x)*y.\n    x*(y*y) = (x*y)*y. \n  ', 'names': ['alternative star product'], 'bib_s': ['1606.01409'], 'msc_s': [['81T30', '81T70', '81T75', '81S10', '53D55', '11R52', '17B63']], 'contained': [], 'contains': [], 'total_citations': [10], 'published_year': [2016]}

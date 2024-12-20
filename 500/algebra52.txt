@@ -1,0 +1,1 @@
+{'label': 52, 'axioms': '  a(a(x,y,z),u,v) = a(a(x,u,v),a(y,u,v),a(z,u,v)).\n  ', 'names': ['(Weak) Autodistributive Ternary Group'], 'bib_s': ['math0306208'], 'msc_s': [['20N15', '20C99']], 'contained': [], 'contains': [128, 501], 'total_citations': [26], 'published_year': [2003]}

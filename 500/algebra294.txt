@@ -1,0 +1,1 @@
+{'label': 294, 'axioms': '  (x*y)*z=(x*(y*z)) + (x*(z*y)).\n  ', 'names': ['Zinbiel algebra'], 'bib_s': ['1204.2051'], 'msc_s': [['17A32', '17B30', '17A60']], 'contained': [], 'contains': [], 'total_citations': [20], 'published_year': [2012]}

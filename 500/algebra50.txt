@@ -1,0 +1,1 @@
+{'label': 50, 'axioms': ' a(u,v,x) = a(u,v,y) -> x = y.\n a(u,x,v) = a(u,y,v) -> x=y.\n a(x,u,v) = a(y,u,v) -> x=y. ', 'names': ['Cancellative Ternary Groupoid'], 'bib_s': ['math0306210'], 'msc_s': [['20N15', '20C99']], 'contained': [], 'contains': [501], 'total_citations': [28], 'published_year': [2003]}

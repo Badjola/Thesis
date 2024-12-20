@@ -1,0 +1,1 @@
+{'label': 21, 'axioms': '  (u + 0)*u = (0 + u)*u.\n  ', 'names': ['coalgebra'], 'bib_s': ['hep-th0112228'], 'msc_s': [['81T30']], 'contained': [], 'contains': [], 'total_citations': [67], 'published_year': [2001]}

@@ -1,0 +1,1 @@
+{'label': 340, 'axioms': '   x*(y*z) = ((x*y)*z) + ((a(x,y)*y)*(x*z)).\n  ', 'names': ['(Weak) Leibniz color algebra'], 'bib_s': ['1305.0891'], 'msc_s': [['17B99', '17B55', '55U15']], 'contained': [], 'contains': [], 'total_citations': [2], 'published_year': [2013]}

@@ -1,0 +1,1 @@
+{'label': 878, 'axioms': '   (x*x)+(y*y) = a(x,y)*a(x,y). \n  ', 'names': ['(Weak) Pythagorean field'], 'bib_s': ['2012.03250'], 'msc_s': [['51E15', '51M15', '03D35', '12L05']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2020]}

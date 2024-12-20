@@ -1,0 +1,1 @@
+{'label': 112, 'axioms': ' (x=(y*z)) -> (x=y | x=z). ', 'names': ['(Weak) Join-irreducible algebra'], 'bib_s': ['cs0609118'], 'msc_s': [['68N30', '68T30']], 'contained': [515, 516, 781, 91, 92], 'contains': [], 'total_citations': [0], 'published_year': [2006]}

@@ -1,0 +1,1 @@
+{'label': 130, 'axioms': '    a(x,y) + a(y,x) = 0. \n       a(x,(y*z)) = ((a(x,y))*z) + (y*(a(x,z))). \n  ', 'names': ['(Weak) Bracketed algebra'], 'bib_s': ['0706.0351'], 'msc_s': [['17B63', '17B37']], 'contained': [], 'contains': [525, 627], 'total_citations': [22], 'published_year': [2007]}

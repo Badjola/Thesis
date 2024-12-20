@@ -1,0 +1,1 @@
+{'label': 430, 'axioms': '   (((u*v)*x) + (u*(v*x))) + (v*(u*x)) = 0. \n  ', 'names': ['(Weak) Jacobi-Jordan A-module'], 'bib_s': ['1507.08146'], 'msc_s': [['17C10', '16T25', '17C55']], 'contained': [], 'contains': [132, 842], 'total_citations': [19], 'published_year': [2015]}

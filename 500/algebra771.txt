@@ -1,0 +1,1 @@
+{'label': 771, 'axioms': '   x*(y+z) = (x*z) + (x*y) & x*0 = 0.\n    (x+y)*z = (y*z)+(x*z) & 0*x=0. \n  ', 'names': ['(Weak) Left additive category'], 'bib_s': ['1911.04790'], 'msc_s': [['18F40']], 'contained': [53], 'contains': [466], 'total_citations': [9], 'published_year': [2019]}

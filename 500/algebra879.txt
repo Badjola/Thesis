@@ -1,0 +1,1 @@
+{'label': 879, 'axioms': ' x = a(x)*a(x) | x + (a(x)*a(x)) = 0.  ', 'names': ['(Weak) Euclidean field'], 'bib_s': ['2012.03250'], 'msc_s': [['51E15', '51M15', '03D35', '12L05']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2020]}

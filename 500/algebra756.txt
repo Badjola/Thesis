@@ -1,0 +1,1 @@
+{'label': 756, 'axioms': '   a(x*y)=(a(x)*y) + (x*a(y)) & a(x^y) = (a(x)^y) + (x^a(y)). \n  ', 'names': ['(Weak) Derivation dialgebra'], 'bib_s': ['1908.08397'], 'msc_s': [['16S15', '17A36', '17A61']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2019]}

@@ -1,0 +1,1 @@
+{'label': 89, 'axioms': '  x*(y+z) = (x*y)+(x*z) & (y+z)*x = (y*x) + (z*x).\n   x^(y+z) = (x^y)+(x^z) & (y+z)^x = (y^x) + (z^x).\n ', 'names': ['(Weak) One-sided diring'], 'bib_s': ['math0411586'], 'msc_s': [['20N99']], 'contained': [], 'contains': [], 'total_citations': [7], 'published_year': [2004]}

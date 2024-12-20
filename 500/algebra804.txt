@@ -1,0 +1,1 @@
+{'label': 804, 'axioms': '   (y*x)=(x*y).\n    ((x*x)*y)*x = (x*x)*(y*x).', 'names': ['(Weak) Jordan algebra'], 'bib_s': ['2004.05293'], 'msc_s': [['17B60', '17C50']], 'contained': [236, 518, 781, 91], 'contains': [622, 820], 'total_citations': [0], 'published_year': [2020]}

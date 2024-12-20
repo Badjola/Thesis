@@ -1,0 +1,1 @@
+{'label': 213, 'axioms': '   ((x*y)*z) + (x*(y*z)) = ((y*x)*z) + (y*(x*z)). \n  ', 'names': ['(left) prelie algebra'], 'bib_s': ['1001.0851'], 'msc_s': [['17B20', '16S30', '17D25']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2010]}

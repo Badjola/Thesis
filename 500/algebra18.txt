@@ -1,0 +1,1 @@
+{'label': 18, 'axioms': '   a(u*v,w) = a(v,(f(u)*w)).\n  ', 'names': ['(Weak) Hilbert P-module'], 'bib_s': ['math0105071'], 'msc_s': [['46L37', '57M25']], 'contained': [], 'contains': [], 'total_citations': [130], 'published_year': [2001]}

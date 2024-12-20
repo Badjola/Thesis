@@ -1,0 +1,1 @@
+{'label': 278, 'axioms': '   a(x,a(y,z)) = a(a(x,y),z) + a(y,a(x,z)). \n    a(x,z*y) = (z*a(x,y)) + ((f(x)*z)*y).\n    f(a(x,y)) = a(f(x),f(y)). \n  ', 'names': ['(Weak) Liebniz algebroid'], 'bib_s': ['1109.0875'], 'msc_s': [['53D18', '53C08', '81T30', '19L50']], 'contained': [546], 'contains': [], 'total_citations': [13], 'published_year': [2011]}

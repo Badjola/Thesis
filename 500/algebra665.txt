@@ -1,0 +1,1 @@
+{'label': 665, 'axioms': '   a(u,(v*w)) = a((u*v),w).\n  ', 'names': ['Frobenius algebra'], 'bib_s': ['1810.00590'], 'msc_s': [['17D99']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2018]}

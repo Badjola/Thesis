@@ -1,0 +1,1 @@
+{'label': 728, 'axioms': '   a(u,a(v,w)) = a(a(u,v),w). \n  ', 'names': ['(Weak) Associative algebra'], 'bib_s': ['1905.03607'], 'msc_s': [['13D03', '13D10', '14D15', '16E40', '55M35', '55N91']], 'contained': [196, 198], 'contains': [], 'total_citations': [0], 'published_year': [2019]}

@@ -1,0 +1,1 @@
+{'label': 333, 'axioms': '    ((x*y)*(x*z))*(z*y)=0.\n      x*0=x.\n      x*y=0 & y*x=0 -> y=x.\n      0*x=0. \n  ', 'names': ['(Weak) BCK-algebra'], 'bib_s': ['1304.6963'], 'msc_s': [['06D72']], 'contained': [303, 304], 'contains': [304, 863], 'total_citations': [37], 'published_year': [2013]}

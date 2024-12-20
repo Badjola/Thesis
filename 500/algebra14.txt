@@ -1,0 +1,1 @@
+{'label': 14, 'axioms': '   a(x*y)=a(y) -> x*y=y. \n  ', 'names': ['(Weak) Transverse projectable group action'], 'bib_s': ['math-ph0101012'], 'msc_s': [['58J70', '35A30', '35Q75']], 'contained': [], 'contains': [443, 621, 880], 'total_citations': [3], 'published_year': [2001]}

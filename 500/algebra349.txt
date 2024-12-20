@@ -1,0 +1,1 @@
+{'label': 349, 'axioms': '    a(x*f(x)) = a(x)*a(f(x)).\n      a(x)*(f(x)*f(f(x))) = (x*f(x))*a(f(f(x))). \n  ', 'names': ['(Weak) Hom-associative algebra'], 'bib_s': ['1310.8323'], 'msc_s': [['16T10', '18D10', '16T25', '17B62', '81R50']], 'contained': [], 'contains': [451], 'total_citations': [80], 'published_year': [2013]}

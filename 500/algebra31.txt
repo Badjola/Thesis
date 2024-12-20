@@ -1,0 +1,1 @@
+{'label': 31, 'axioms': '  (((x*x)+(y*y))+(z*z))+(v*v)=0.\n  ', 'names': ['(Weak) Node'], 'bib_s': ['math0209044'], 'msc_s': [['00B15', '81T30', '81T40', '53D37']], 'contained': [], 'contains': [132], 'total_citations': [17], 'published_year': [2002]}

@@ -1,0 +1,1 @@
+{'label': 598, 'axioms': ' x*(y*z) = (x*y)*z.\n 1*x=x.\n x*1=x.\n x*y=x*z -> y=z. ', 'names': ['Left Cancellative Monoid '], 'bib_s': ['1801.10063'], 'msc_s': [['20M35']], 'contained': [], 'contains': [], 'total_citations': [4], 'published_year': [2018]}

@@ -1,0 +1,1 @@
+{'label': 446, 'axioms': ' a(x) = x*0. \n (x*y)*z = a((a(z)*x) * (a(y*z))). \n a(a(0)) = 0. \n    (x*y)*x = x. \n  ', 'names': [' De Morgan algebra'], 'bib_s': ['1509.08502'], 'msc_s': [['06E75', '08B15', '03G25']], 'contained': [], 'contains': [], 'total_citations': [12], 'published_year': [2015]}

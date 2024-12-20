@@ -1,0 +1,1 @@
+{'label': 220, 'axioms': '  a(f(u),a(u,v)) = a(a(u,u),f(v)).\n  ', 'names': ['(Weak) Hom-alternative algebra'], 'bib_s': ['1001.4240'], 'msc_s': [['17A99', '17D99']], 'contained': [], 'contains': [228], 'total_citations': [62], 'published_year': [2010]}

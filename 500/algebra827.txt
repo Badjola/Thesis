@@ -1,0 +1,1 @@
+{'label': 827, 'axioms': '  x*(y*z) = (x*y)*z.\n  x+(y+z)=(x+y)+z.\n  x*(y+z) = x+(y*z).\n  ', 'names': ['(Weak) Associative dialgebra'], 'bib_s': ['2007.13652'], 'msc_s': [['16E40', '16S80', '16W99']], 'contained': [], 'contains': [], 'total_citations': [0], 'published_year': [2020]}

@@ -1,0 +1,1 @@
+{'label': 113, 'axioms': '   a(f(u),a(v,w)) = a(a(u,v),f(w)). \n  ', 'names': ['(Weak) Hom-associative algebra'], 'bib_s': ['math0609501'], 'msc_s': [['17A30', '16Y99', '17A01', '17A20', '17D25']], 'contained': [], 'contains': [], 'total_citations': [588], 'published_year': [2006]}

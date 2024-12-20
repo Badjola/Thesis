@@ -1,0 +1,1 @@
+{'label': 873, 'axioms': '   (x*y)*(x*z) = (y*x)*(y*z).\n  ', 'names': ['(Weak) Cycle Set'], 'bib_s': ['2011.10083'], 'msc_s': [['16T25', '20N02', '20E22', '81R50']], 'contained': [], 'contains': [744], 'total_citations': [11], 'published_year': [2020]}

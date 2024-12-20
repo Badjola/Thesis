@@ -1,0 +1,1 @@
+{'label': 379, 'axioms': '   (x*x)*y = y & w*(z*z) = w. \n  ', 'names': ['(Weak) Binary Associoid'], 'bib_s': ['1406.1692'], 'msc_s': [['17C37', '32M99', '17B60', '17C65']], 'contained': [781, 91], 'contains': [], 'total_citations': [4], 'published_year': [2014]}

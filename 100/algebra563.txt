@@ -1,0 +1,1 @@
+{'label': 563, 'axioms': '  x*x=x.\n  (x*y)+y = x & x = (x+y)*y.\n  (x*y)*z = (x*z)*(y*z). \n  ', 'names': ['quandle'], 'bib_s': ['1707.04824'], 'msc_s': [['57M27', '57M05']], 'contained': [], 'contains': [], 'total_citations': [1], 'published_year': [2017]}

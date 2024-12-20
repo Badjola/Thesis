@@ -1,0 +1,1 @@
+{'label': 821, 'axioms': '    0*x = x & x*0 = 0. ', 'names': ['(Weak) Pointed Rack'], 'bib_s': ['2006.08158'], 'msc_s': [['81T30', '83E15', '53D17', '81T20', '81T45', '81T10', '53Z05']], 'contained': [], 'contains': [656], 'total_citations': [11], 'published_year': [2020]}

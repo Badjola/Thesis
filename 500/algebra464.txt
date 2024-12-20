@@ -1,0 +1,1 @@
+{'label': 464, 'axioms': '    a(x,y) + a(y,x) = 0.\n      a(x*y,z) = (x*a(y,z)) + (a(x,z)*y).\n      (a(x,a(y,z)) + a(y,a(z,x))) + a(z,a(x,y)) = 0.\n  ', 'names': ['(Weak) Poisson Structure'], 'bib_s': ['1601.08007'], 'msc_s': [['81T30', '81P15', '81T75', '81R30', '81Q20', '81Q70', '81T80']], 'contained': [], 'contains': [], 'total_citations': [38], 'published_year': [2016]}

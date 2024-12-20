@@ -1,0 +1,1 @@
+{'label': 100, 'axioms': '  (x*y = x*z -> y = z) & (x*z = y*z -> x = y). \n x*(y*z)=(x*y)*z.\n 1*x=x.\n x*1=x. ', 'names': ['2-Cancellative Monoid'], 'bib_s': ['math0507394'], 'msc_s': [['16T25', '16T20', '16T10', '17B37']], 'contained': [], 'contains': [], 'total_citations': [79], 'published_year': [2005]}

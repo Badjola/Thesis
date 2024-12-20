@@ -1,0 +1,1 @@
+{'label': 549, 'axioms': '    x+x=x.\n      0+(x*a(x)) = a(x).\n      x*(y+z) = (x*y)+(x*z) & (y+z)*x = (y*x) + (z*x).\n      0+(a(x)*x) = a(x). \n  ', 'names': ['(Weak) Kleene algebra'], 'bib_s': ['1705.05896'], 'msc_s': [['68Q99', '00B25']], 'contained': [], 'contains': [], 'total_citations': [15], 'published_year': [2017]}

@@ -1,0 +1,1 @@
+{'label': 489, 'axioms': '  x*(y+z) = (x*y)+(x*z) & x*(y*z) = (x*y)*z. \n  ', 'names': ['(Weak) Quaternion module'], 'bib_s': ['1608.08355'], 'msc_s': [['47B32', '94A11', '94A20']], 'contained': [176], 'contains': [123, 299, 87], 'total_citations': [10], 'published_year': [2016]}

@@ -1,0 +1,52 @@
+Generalizes:    Assembly
+ 
+Theory used:
+ x*(y*z) = (x*y)*z.
+      x*y=y*x.
+      x*a(x) = x & (x*y=x -> a(x)*y = a(x)).
+      x*f(x) = a(x).
+  a(f(x)) = a(x).
+ a(x*y) = a(x) | a(x*y) = a(y).  
+                f1(a(x)) = a(f1(x)).
+                g1(a(x)) = a(g1(x)).
+
+                f1(f(x)) = f(f1(x)).
+                g1(f(x)) = f(g1(x)).
+                
+                f1(g(x)) = g(f1(x)).
+                g1(g(x)) = g(g1(x)).
+
+                f2(f1(x)) = x.
+                f1(f2(x)) = x.
+                f2(g2(x)) = g2(f2(x)).
+                f2(g1(x)) = g1(f2(x)).
+                f1(g2(x)) = g2(f1(x)).
+                f1(g1(x)) = g1(f1(x)).
+                g2(g1(x)) = x.
+                g1(g2(x)) = x.
+
+                f1(x) * f1(y) = f1(x * y).
+                g1(x) * g1(y) = g1(x * y).
+
+                f1(x) + f1(y) = f1(x + y).
+                g1(x) + g1(y) = g1(x + y).
+
+                f1(x) ^ f1(y) = f1(x ^ y).
+                g1(x) ^ g1(y) = g1(x ^ y).
+                 
+                    x v y = (f1(x) * g2(g2(y))).
+                    x \ y = f(((x * x) * g1((x * y)))).
+                    b(x) = a((g1(g1(x)) * f(x))).
+                    c(x) = f2((a((x * x)) * (x * x))).
+                    
+Axioms Satisfied by that Theory:
+c(b(x)) = b(c(x)).
+c(x v y) = c(x) v c(y).
+c(x \ y) = c(x) \ c(y).
+b(x \ x) = b(x) \ b(x).
+b(x v y) = b(x) v b(y).
+b(x \ y) = b(x) \ b(y).
+c(b(b(x))) = b(c(b(x))).
+b(x \ b(x)) = b(x) \ b(b(x)).
+c(b(c(b(x)))) = b(c(c(b(x)))).
+b(c(x)) v b(b(x)) = b(c(x)) v b(x).

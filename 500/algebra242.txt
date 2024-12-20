@@ -1,0 +1,1 @@
+{'label': 242, 'axioms': '   x*(y+z) = (x*y)+(x*z).\n    (x+y)*z = (x*z)+(y*z).\n    x*(y*z) = (x*y)*z & 0*x=x. \n  ', 'names': ['left R-module'], 'bib_s': ['1009.0682'], 'msc_s': [['06C05', '68P30']], 'contained': [], 'contains': [], 'total_citations': [9], 'published_year': [2010]}

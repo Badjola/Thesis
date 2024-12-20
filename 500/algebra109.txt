@@ -1,0 +1,1 @@
+{'label': 109, 'axioms': ' a(x,a(y,z)) = a(f(x,y),z).\n a(g(x),x) = x. ', 'names': ['(Weak) Fiberwise module'], 'bib_s': ['math0602210'], 'msc_s': [['55R35', '57R19', '55R70', '55P43', '55S12']], 'contained': [], 'contains': [], 'total_citations': [60], 'published_year': [2006]}

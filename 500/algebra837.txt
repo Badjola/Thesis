@@ -1,0 +1,1 @@
+{'label': 837, 'axioms': '  (x^a(y))*f(a(z)) = (x*a(z))^f(a(y)).\n      f(x)^(y*z) = (x^y)*a(z).  ', 'names': ['(Weak) BiHom-Novikov-Poisson algebra'], 'bib_s': ['2007.09016'], 'msc_s': [['17D99']], 'contained': [], 'contains': [], 'total_citations': [5], 'published_year': [2020]}

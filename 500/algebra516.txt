@@ -1,0 +1,1 @@
+{'label': 516, 'axioms': '   x*x=x. \n  ', 'names': ['(Weak) quandle'], 'bib_s': ['1611.00936'], 'msc_s': [['20N05', '55N35', '57K18', '20L05']], 'contained': [68], 'contains': [112, 160, 421, 539, 605, 622, 667], 'total_citations': [7], 'published_year': [2016]}
